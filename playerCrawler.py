@@ -1,13 +1,20 @@
 import urllib2
+import traceback
 from bs4 import BeautifulSoup
+import csv
 
 base_url = 'http://sofifa.com/players?offset='
 player_info_base_url = 'http://sofifa.com/player/'
 
 
-players_data = {}
+players_data = []
 
-def get_players(offset):
+csvfile = open('players.csv','w')
+fieldnames = ['name', 'team','fifa_OVA','fifa_POT']
+writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+writer.writeheader()
+
+def read_page_of_players(offset):
     source_url = base_url + str(offset)
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
@@ -23,11 +30,12 @@ def get_players(offset):
         # print len(players)
         for player in players:
             add_player(player)
-            offset += 100
+
             # get_players(offset)
     else:
         print "Finished reading all players data"
             # break
+
 
 def add_player(playerWebInfo):
     player_id = playerWebInfo.find('img')['id']
@@ -35,7 +43,7 @@ def add_player(playerWebInfo):
 
     tds = playerWebInfo.find_all('td')
     attributes = playerWebInfo.find_all('a')
-    player_name = attributes[0].get_text()
+    player_name = attributes[0].get_text().encode('utf-8')
     player_nationality = attributes[1].find('span')["title"].strip(' \t\n\r')
     player_age = tds[2].get_text().strip(' \t\n\r')
     player_positions_meta = tds[3].find_all('a')
@@ -47,30 +55,43 @@ def add_player(playerWebInfo):
     player_POT = tds[5].find('span').get_text().strip(' \t\n\r')
 
     if tds[6].find('a').has_attr('title'):
-        player_team = tds[6].find('a')['title'].strip(' \t\n\r')
+        player_team = tds[6].find('a')['title'].strip(' \t\n\r').encode('utf-8')
     else:
         player_team = "Free"
     player_contract_time = tds[7].get_text().strip(' \t\n\r')
     player_value = value_converter(tds[8].get_text())
-    print player_info_url
+    #print player_info_url
     print player_name
-    print player_nationality
-    print player_age
-    print player_positions
-    print player_OVA
-    print player_POT
-    print player_team
-    print player_contract_time
-    print player_value
-    get_detail_from_url(player_info_url)
-    print "--------------------------------\n"
+    #print player_nationality
+    #print player_age
+    #print player_positions
+    #print player_OVA
+    #print player_POT
+    #print player_team
+    #print player_contract_time
+    #print player_value
 
+    #if we want to get more info, uncomment this
+    #get_detail_from_url(player_info_url)
+
+    #print "--------------------------------\n"
+
+
+    #csvwriter.writerow() accepts dict as input
+    player = {'name':player_name,'team':player_team,
+                         'fifa_OVA':player_OVA,'fifa_POT':player_POT}
+    players_data.append({'name':player_name,'team':player_team,'fifa_OVA':player_OVA,'fifa_POT':player_POT})
+    global writer
+    writer.writerow(player)
+
+
+#all print statements are commented
 def value_converter(valueString):
     import string
     printable = set(string.printable)
     valueString = filter(lambda x: x in printable, valueString)
     valueString = str(valueString).strip(' \t\n\r')
-    print valueString
+    #print valueString
     if len(valueString) < 2:
         return 0.0
 
@@ -78,10 +99,10 @@ def value_converter(valueString):
 
     number_string = value_subString[:-1]
     unit = value_subString[-1]
-    print "valueString: " + valueString + " lenth is: " + str(len(valueString))
-    print "number+unit: " + value_subString
-    print "number: " + number_string
-    print unit
+    #print "valueString: " + valueString + " lenth is: " + str(len(valueString))
+    #print "number+unit: " + value_subString
+    #print "number: " + number_string
+    #print unit
     if (unit == "M"):
         return float(number_string) * 1000000.0
     else:
@@ -90,8 +111,11 @@ def value_converter(valueString):
 def get_players_main():
     offset = 0
     while offset <= 17500:
-        get_players(offset)
+        read_page_of_players(offset)
+        print "offset:", offset
+
         offset += 100
+
 
 def get_detail_from_url(player_url):
     detail_json = {}
@@ -147,11 +171,26 @@ def get_detail_from_url(player_url):
     #
     #     print skill_name
     #     print skill_value
+# def write_players_csv():
+#
+#
+#
+#     for player in players_data:
+#         pass
+
 
 
 
 # player_url = 'http://sofifa.com/player/200108'
 # get_detail_from_url(player_url)
 # get_players(400)
-get_players_main()
+try: get_players_main()
+
+except Exception as e:
+    print e
+    traceback.print_exc()
+    csvfile.close()
+    print "Number of players read:", len(players_data)
+    print players_data
+
 
