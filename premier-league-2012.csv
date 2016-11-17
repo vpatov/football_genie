@@ -1,0 +1,1026 @@
+date,home,away,home_goals,away_goals,result,league
+06 Aug 2011,Charlton Athletic,AFC Bournemouth,3,0,W,League One
+09 Aug 2011,AFC Bournemouth,Dagenham and Redbridge,5,0,W,League Cup
+13 Aug 2011,AFC Bournemouth,Sheffield Wednesday,2,0,W,League One
+16 Aug 2011,AFC Bournemouth,Stevenage,1,3,L,League One
+20 Aug 2011,Carlisle United,AFC Bournemouth,2,1,W,League One
+23 Aug 2011,AFC Bournemouth,West Bromwich Albion,1,4,L,League Cup
+27 Aug 2011,AFC Bournemouth,Walsall,0,2,L,League One
+30 Aug 2011,AFC Bournemouth,Hereford United,4,1,W,Johnstones Paint Trophy
+03 Sep 2011,Notts County,AFC Bournemouth,3,1,W,League One
+10 Sep 2011,AFC Bournemouth,Chesterfield,0,3,L,League One
+13 Sep 2011,Leyton Orient,AFC Bournemouth,1,3,L,League One
+17 Sep 2011,Exeter City,AFC Bournemouth,0,2,L,League One
+24 Sep 2011,AFC Bournemouth,Hartlepool United,1,2,L,League One
+01 Oct 2011,Tranmere Rovers,AFC Bournemouth,0,0,D,League One
+04 Oct 2011,AFC Bournemouth,Yeovil Town,3,2,W,Johnstones Paint Trophy
+08 Oct 2011,AFC Bournemouth,Rochdale,1,1,D,League One
+15 Oct 2011,Milton Keynes Dons,AFC Bournemouth,2,2,D,League One
+22 Oct 2011,AFC Bournemouth,Bury,1,2,L,League One
+25 Oct 2011,Colchester United,AFC Bournemouth,1,1,D,League One
+29 Oct 2011,Preston North End,AFC Bournemouth,1,3,L,League One
+05 Nov 2011,AFC Bournemouth,Scunthorpe United,2,0,W,League One
+08 Nov 2011,Brentford,AFC Bournemouth,6,0,W,Johnstones Paint Trophy
+12 Nov 2011,AFC Bournemouth,Gillingham,3,3,D,FA Cup
+19 Nov 2011,Wycombe Wanderers,AFC Bournemouth,0,1,L,League One
+22 Nov 2011,Gillingham,AFC Bournemouth,3,2,W,FA Cup
+26 Nov 2011,AFC Bournemouth,Oldham Athletic,0,0,D,League One
+10 Dec 2011,Huddersfield Town,AFC Bournemouth,0,1,L,League One
+17 Dec 2011,AFC Bournemouth,Sheffield United,0,2,L,League One
+26 Dec 2011,Brentford,AFC Bournemouth,1,1,D,League One
+31 Dec 2011,Yeovil Town,AFC Bournemouth,1,3,L,League One
+02 Jan 2012,AFC Bournemouth,Wycombe Wanderers,2,0,W,League One
+07 Jan 2012,Walsall,AFC Bournemouth,2,2,D,League One
+14 Jan 2012,AFC Bournemouth,Notts County,2,1,W,League One
+21 Jan 2012,AFC Bournemouth,Tranmere Rovers,2,1,W,League One
+27 Jan 2012,Chesterfield,AFC Bournemouth,1,0,W,League One
+07 Feb 2012,AFC Bournemouth,Exeter City,2,0,W,League One
+11 Feb 2012,Hartlepool United,AFC Bournemouth,0,0,D,League One
+14 Feb 2012,AFC Bournemouth,Leyton Orient,1,2,L,League One
+18 Feb 2012,Rochdale,AFC Bournemouth,1,0,W,League One
+25 Feb 2012,AFC Bournemouth,Milton Keynes Dons,0,1,L,League One
+03 Mar 2012,AFC Bournemouth,Charlton Athletic,0,1,L,League One
+10 Mar 2012,Sheffield Wednesday,AFC Bournemouth,3,0,W,League One
+17 Mar 2012,AFC Bournemouth,Carlisle United,1,1,D,League One
+20 Mar 2012,AFC Bournemouth,Brentford,1,0,W,League One
+24 Mar 2012,Oldham Athletic,AFC Bournemouth,1,0,W,League One
+27 Mar 2012,Stevenage,AFC Bournemouth,2,2,D,League One
+31 Mar 2012,AFC Bournemouth,Yeovil Town,0,0,D,League One
+07 Apr 2012,Sheffield United,AFC Bournemouth,2,1,W,League One
+09 Apr 2012,AFC Bournemouth,Huddersfield Town,2,0,W,League One
+14 Apr 2012,Bury,AFC Bournemouth,1,0,W,League One
+21 Apr 2012,AFC Bournemouth,Colchester United,1,1,D,League One
+28 Apr 2012,Scunthorpe United,AFC Bournemouth,1,1,D,League One
+05 May 2012,AFC Bournemouth,Preston North End,1,0,W,League One
+13 Aug 2011,Newcastle United,Arsenal,0,0,D,Premier League
+16 Aug 2011,Arsenal,Udinese,1,0,W,UEFA Champions League
+20 Aug 2011,Arsenal,Liverpool,0,2,L,Premier League
+24 Aug 2011,Udinese,Arsenal,1,2,L,UEFA Champions League
+28 Aug 2011,Manchester United,Arsenal,8,2,W,Premier League
+10 Sep 2011,Arsenal,Swansea City,1,0,W,Premier League
+13 Sep 2011,Borussia Dortmund,Arsenal,1,1,D,UEFA Champions League
+17 Sep 2011,Blackburn Rovers,Arsenal,4,3,W,Premier League
+20 Sep 2011,Arsenal,Shrewsbury Town,3,1,W,League Cup
+24 Sep 2011,Arsenal,Bolton Wanderers,3,0,W,Premier League
+28 Sep 2011,Arsenal,Olympiakos,2,1,W,UEFA Champions League
+02 Oct 2011,Tottenham Hotspur,Arsenal,2,1,W,Premier League
+16 Oct 2011,Arsenal,Sunderland,2,1,W,Premier League
+19 Oct 2011,Olympique Marseille,Arsenal,0,1,L,UEFA Champions League
+23 Oct 2011,Arsenal,Stoke City,3,1,W,Premier League
+25 Oct 2011,Arsenal,Bolton Wanderers,2,1,W,League Cup
+29 Oct 2011,Chelsea,Arsenal,3,5,L,Premier League
+01 Nov 2011,Arsenal,Olympique Marseille,0,0,D,UEFA Champions League
+05 Nov 2011,Arsenal,West Bromwich Albion,3,0,W,Premier League
+19 Nov 2011,Norwich City,Arsenal,1,2,L,Premier League
+23 Nov 2011,Arsenal,Borussia Dortmund,2,1,W,UEFA Champions League
+26 Nov 2011,Arsenal,Fulham,1,1,D,Premier League
+29 Nov 2011,Arsenal,Manchester City,0,1,L,League Cup
+03 Dec 2011,Wigan Athletic,Arsenal,0,4,L,Premier League
+06 Dec 2011,Olympiakos,Arsenal,3,1,W,UEFA Champions League
+10 Dec 2011,Arsenal,Everton,1,0,W,Premier League
+18 Dec 2011,Manchester City,Arsenal,1,0,W,Premier League
+21 Dec 2011,Aston Villa,Arsenal,1,2,L,Premier League
+27 Dec 2011,Arsenal,Wolverhampton Wanderers,1,1,D,Premier League
+31 Dec 2011,Arsenal,Queens Park Rangers,1,0,W,Premier League
+02 Jan 2012,Fulham,Arsenal,2,1,W,Premier League
+09 Jan 2012,Arsenal,Leeds United,1,0,W,FA Cup
+15 Jan 2012,Swansea City,Arsenal,3,2,W,Premier League
+22 Jan 2012,Arsenal,Manchester United,1,2,L,Premier League
+29 Jan 2012,Arsenal,Aston Villa,3,2,W,FA Cup
+01 Feb 2012,Bolton Wanderers,Arsenal,0,0,D,Premier League
+04 Feb 2012,Arsenal,Blackburn Rovers,7,1,W,Premier League
+11 Feb 2012,Sunderland,Arsenal,1,2,L,Premier League
+15 Feb 2012,AC Milan,Arsenal,4,0,W,UEFA Champions League
+18 Feb 2012,Sunderland,Arsenal,2,0,W,FA Cup
+26 Feb 2012,Arsenal,Tottenham Hotspur,5,2,W,Premier League
+03 Mar 2012,Liverpool,Arsenal,1,2,L,Premier League
+06 Mar 2012,Arsenal,AC Milan,3,0,W,UEFA Champions League
+12 Mar 2012,Arsenal,Newcastle United,2,1,W,Premier League
+21 Mar 2012,Everton,Arsenal,0,1,L,Premier League
+24 Mar 2012,Arsenal,Aston Villa,3,0,W,Premier League
+31 Mar 2012,Queens Park Rangers,Arsenal,2,1,W,Premier League
+08 Apr 2012,Arsenal,Manchester City,1,0,W,Premier League
+11 Apr 2012,Wolverhampton Wanderers,Arsenal,0,3,L,Premier League
+16 Apr 2012,Arsenal,Wigan Athletic,1,2,L,Premier League
+21 Apr 2012,Arsenal,Chelsea,0,0,D,Premier League
+28 Apr 2012,Stoke City,Arsenal,1,1,D,Premier League
+05 May 2012,Arsenal,Norwich City,3,3,D,Premier League
+13 May 2012,West Bromwich Albion,Arsenal,2,3,L,Premier League
+06 Aug 2011,Burnley,Watford,2,2,D,League Championship
+09 Aug 2011,Burnley,Burton Albion,6,3,W,League Cup
+13 Aug 2011,Crystal Palace,Burnley,2,0,W,League Championship
+20 Aug 2011,Burnley,Cardiff City,1,1,D,League Championship
+23 Aug 2011,Burnley,Barnet,3,2,W,League Cup
+27 Aug 2011,Derby County,Burnley,1,2,L,League Championship
+10 Sep 2011,Burnley,Middlesbrough,0,2,L,League Championship
+17 Sep 2011,Peterborough United,Burnley,2,1,W,League Championship
+20 Sep 2011,Burnley,Milton Keynes Dons,2,1,W,League Cup
+24 Sep 2011,Burnley,Southampton,1,1,D,League Championship
+27 Sep 2011,Burnley,Nottingham Forest,5,1,W,League Championship
+01 Oct 2011,Millwall,Burnley,0,1,L,League Championship
+15 Oct 2011,Burnley,Reading,0,1,L,League Championship
+18 Oct 2011,Barnsley,Burnley,2,0,W,League Championship
+22 Oct 2011,Coventry City,Burnley,1,2,L,League Championship
+25 Oct 2011,Cardiff City,Burnley,1,0,W,League Cup
+29 Oct 2011,Burnley,Blackpool,3,1,W,League Championship
+01 Nov 2011,Burnley,Leicester City,1,3,L,League Championship
+05 Nov 2011,Bristol City,Burnley,3,1,W,League Championship
+19 Nov 2011,Burnley,Leeds United,1,2,L,League Championship
+22 Nov 2011,Birmingham City,Burnley,2,1,W,League Championship
+26 Nov 2011,Hull City,Burnley,2,3,L,League Championship
+29 Nov 2011,Burnley,Ipswich Town,4,0,W,League Championship
+03 Dec 2011,West Ham United,Burnley,1,2,L,League Championship
+10 Dec 2011,Burnley,Portsmouth,0,1,L,League Championship
+17 Dec 2011,Brighton and Hove Albion,Burnley,0,1,L,League Championship
+26 Dec 2011,Burnley,Doncaster Rovers,3,0,W,League Championship
+31 Dec 2011,Burnley,Hull City,1,0,W,League Championship
+02 Jan 2012,Leeds United,Burnley,2,1,W,League Championship
+07 Jan 2012,Norwich City,Burnley,4,1,W,FA Cup
+14 Jan 2012,Middlesbrough,Burnley,0,2,L,League Championship
+21 Jan 2012,Burnley,Derby County,0,0,D,League Championship
+31 Jan 2012,Nottingham Forest,Burnley,0,2,L,League Championship
+04 Feb 2012,Burnley,Peterborough United,1,1,D,League Championship
+11 Feb 2012,Southampton,Burnley,2,0,W,League Championship
+14 Feb 2012,Burnley,Barnsley,2,0,W,League Championship
+17 Feb 2012,Reading,Burnley,1,0,W,League Championship
+25 Feb 2012,Burnley,Millwall,1,3,L,League Championship
+03 Mar 2012,Watford,Burnley,3,2,W,League Championship
+10 Mar 2012,Burnley,Crystal Palace,1,1,D,League Championship
+18 Mar 2012,Cardiff City,Burnley,0,0,D,League Championship
+21 Mar 2012,Ipswich Town,Burnley,1,0,W,League Championship
+24 Mar 2012,Burnley,West Ham United,2,2,D,League Championship
+31 Mar 2012,Portsmouth,Burnley,1,5,L,League Championship
+03 Apr 2012,Burnley,Birmingham City,1,3,L,League Championship
+06 Apr 2012,Burnley,Brighton and Hove Albion,1,0,W,League Championship
+09 Apr 2012,Doncaster Rovers,Burnley,1,2,L,League Championship
+14 Apr 2012,Burnley,Coventry City,1,1,D,League Championship
+17 Apr 2012,Leicester City,Burnley,0,0,D,League Championship
+21 Apr 2012,Blackpool,Burnley,4,0,W,League Championship
+28 Apr 2012,Burnley,Bristol City,1,1,D,League Championship
+14 Aug 2011,Stoke City,Chelsea,0,0,D,Premier League
+20 Aug 2011,Chelsea,West Bromwich Albion,2,1,W,Premier League
+27 Aug 2011,Chelsea,Norwich City,3,1,W,Premier League
+10 Sep 2011,Sunderland,Chelsea,1,2,L,Premier League
+13 Sep 2011,Chelsea,Bayer Leverkusen,2,0,W,UEFA Champions League
+18 Sep 2011,Manchester United,Chelsea,3,1,W,Premier League
+21 Sep 2011,Chelsea,Fulham,0,0,D,League Cup
+24 Sep 2011,Chelsea,Swansea City,4,1,W,Premier League
+28 Sep 2011,Valencia,Chelsea,1,1,D,UEFA Champions League
+02 Oct 2011,Bolton Wanderers,Chelsea,1,5,L,Premier League
+15 Oct 2011,Chelsea,Everton,3,1,W,Premier League
+19 Oct 2011,Chelsea,RC Genk,5,0,W,UEFA Champions League
+23 Oct 2011,Queens Park Rangers,Chelsea,1,0,W,Premier League
+26 Oct 2011,Everton,Chelsea,1,2,L,League Cup
+29 Oct 2011,Chelsea,Arsenal,3,5,L,Premier League
+01 Nov 2011,RC Genk,Chelsea,1,1,D,UEFA Champions League
+05 Nov 2011,Blackburn Rovers,Chelsea,0,1,L,Premier League
+20 Nov 2011,Chelsea,Liverpool,1,2,L,Premier League
+23 Nov 2011,Bayer Leverkusen,Chelsea,2,1,W,UEFA Champions League
+26 Nov 2011,Chelsea,Wolverhampton Wanderers,3,0,W,Premier League
+29 Nov 2011,Chelsea,Liverpool,0,2,L,League Cup
+03 Dec 2011,Newcastle United,Chelsea,0,3,L,Premier League
+06 Dec 2011,Chelsea,Valencia,3,0,W,UEFA Champions League
+12 Dec 2011,Chelsea,Manchester City,2,1,W,Premier League
+17 Dec 2011,Wigan Athletic,Chelsea,1,1,D,Premier League
+22 Dec 2011,Tottenham Hotspur,Chelsea,1,1,D,Premier League
+26 Dec 2011,Chelsea,Fulham,1,1,D,Premier League
+31 Dec 2011,Chelsea,Aston Villa,1,3,L,Premier League
+02 Jan 2012,Wolverhampton Wanderers,Chelsea,1,2,L,Premier League
+08 Jan 2012,Chelsea,Portsmouth,4,0,W,FA Cup
+14 Jan 2012,Chelsea,Sunderland,1,0,W,Premier League
+21 Jan 2012,Norwich City,Chelsea,0,0,D,Premier League
+28 Jan 2012,Queens Park Rangers,Chelsea,0,1,L,FA Cup
+31 Jan 2012,Swansea City,Chelsea,1,1,D,Premier League
+05 Feb 2012,Chelsea,Manchester United,3,3,D,Premier League
+11 Feb 2012,Everton,Chelsea,2,0,W,Premier League
+18 Feb 2012,Chelsea,Birmingham City,1,1,D,FA Cup
+21 Feb 2012,Napoli,Chelsea,3,1,W,UEFA Champions League
+25 Feb 2012,Chelsea,Bolton Wanderers,3,0,W,Premier League
+03 Mar 2012,West Bromwich Albion,Chelsea,1,0,W,Premier League
+06 Mar 2012,Birmingham City,Chelsea,0,2,L,FA Cup
+10 Mar 2012,Chelsea,Stoke City,1,0,W,Premier League
+14 Mar 2012,Chelsea,Napoli,4,1,W,UEFA Champions League
+18 Mar 2012,Chelsea,Leicester City,5,2,W,FA Cup
+21 Mar 2012,Manchester City,Chelsea,2,1,W,Premier League
+24 Mar 2012,Chelsea,Tottenham Hotspur,0,0,D,Premier League
+27 Mar 2012,Benfica,Chelsea,0,1,L,UEFA Champions League
+31 Mar 2012,Aston Villa,Chelsea,2,4,L,Premier League
+04 Apr 2012,Chelsea,Benfica,2,1,W,UEFA Champions League
+07 Apr 2012,Chelsea,Wigan Athletic,2,1,W,Premier League
+09 Apr 2012,Fulham,Chelsea,1,1,D,Premier League
+15 Apr 2012,Tottenham Hotspur,Chelsea,1,5,L,FA Cup
+18 Apr 2012,Chelsea,Barcelona,1,0,W,UEFA Champions League
+21 Apr 2012,Arsenal,Chelsea,0,0,D,Premier League
+24 Apr 2012,Barcelona,Chelsea,2,2,D,UEFA Champions League
+29 Apr 2012,Chelsea,Queens Park Rangers,6,1,W,Premier League
+02 May 2012,Chelsea,Newcastle United,0,2,L,Premier League
+05 May 2012,Chelsea,Liverpool,2,1,W,FA Cup
+08 May 2012,Liverpool,Chelsea,4,1,W,Premier League
+13 May 2012,Chelsea,Blackburn Rovers,2,1,W,Premier League
+19 May 2012,Bayern Munchen,Chelsea,1,1,D,UEFA Champions League
+06 Aug 2011,Peterborough United,Crystal Palace,2,1,W,League Championship
+13 Aug 2011,Crystal Palace,Burnley,2,0,W,League Championship
+16 Aug 2011,Crystal Palace,Coventry City,2,1,W,League Championship
+20 Aug 2011,Hull City,Crystal Palace,0,1,L,League Championship
+23 Aug 2011,Crystal Palace,Crawley Town,2,0,W,League Cup
+27 Aug 2011,Crystal Palace,Blackpool,1,1,D,League Championship
+10 Sep 2011,Leeds United,Crystal Palace,3,2,W,League Championship
+13 Sep 2011,Crystal Palace,Wigan Athletic,2,1,W,League Cup
+17 Sep 2011,Crystal Palace,Middlesbrough,0,1,L,League Championship
+20 Sep 2011,Crystal Palace,Middlesbrough,2,1,W,League Cup
+24 Sep 2011,Doncaster Rovers,Crystal Palace,1,0,W,League Championship
+27 Sep 2011,Brighton and Hove Albion,Crystal Palace,1,3,L,League Championship
+01 Oct 2011,Crystal Palace,West Ham United,2,2,D,League Championship
+15 Oct 2011,Watford,Crystal Palace,0,2,L,League Championship
+18 Oct 2011,Crystal Palace,Bristol City,1,0,W,League Championship
+22 Oct 2011,Ipswich Town,Crystal Palace,0,1,L,League Championship
+25 Oct 2011,Crystal Palace,Southampton,2,0,W,League Cup
+29 Oct 2011,Crystal Palace,Reading,0,0,D,League Championship
+01 Nov 2011,Crystal Palace,Portsmouth,0,0,D,League Championship
+05 Nov 2011,Cardiff City,Crystal Palace,2,0,W,League Championship
+20 Nov 2011,Leicester City,Crystal Palace,3,0,W,League Championship
+26 Nov 2011,Crystal Palace,Millwall,0,0,D,League Championship
+30 Nov 2011,Manchester United,Crystal Palace,1,2,L,League Cup
+02 Dec 2011,Crystal Palace,Derby County,1,1,D,League Championship
+06 Dec 2011,Barnsley,Crystal Palace,2,1,W,League Championship
+10 Dec 2011,Nottingham Forest,Crystal Palace,0,1,L,League Championship
+19 Dec 2011,Crystal Palace,Birmingham City,1,0,W,League Championship
+26 Dec 2011,Southampton,Crystal Palace,2,0,W,League Championship
+31 Dec 2011,Millwall,Crystal Palace,0,1,L,League Championship
+02 Jan 2012,Crystal Palace,Leicester City,1,2,L,League Championship
+07 Jan 2012,Derby County,Crystal Palace,1,0,W,FA Cup
+10 Jan 2012,Crystal Palace,Cardiff City,1,0,W,League Cup
+14 Jan 2012,Crystal Palace,Leeds United,1,1,D,League Championship
+21 Jan 2012,Blackpool,Crystal Palace,2,1,W,League Championship
+24 Jan 2012,Cardiff City,Crystal Palace,1,0,W,League Cup
+31 Jan 2012,Crystal Palace,Brighton and Hove Albion,1,1,D,League Championship
+04 Feb 2012,Middlesbrough,Crystal Palace,0,0,D,League Championship
+14 Feb 2012,Bristol City,Crystal Palace,2,2,D,League Championship
+18 Feb 2012,Crystal Palace,Watford,4,0,W,League Championship
+25 Feb 2012,West Ham United,Crystal Palace,0,0,D,League Championship
+03 Mar 2012,Crystal Palace,Peterborough United,1,0,W,League Championship
+06 Mar 2012,Coventry City,Crystal Palace,1,1,D,League Championship
+10 Mar 2012,Burnley,Crystal Palace,1,1,D,League Championship
+17 Mar 2012,Crystal Palace,Hull City,0,0,D,League Championship
+20 Mar 2012,Crystal Palace,Barnsley,1,0,W,League Championship
+24 Mar 2012,Derby County,Crystal Palace,3,2,W,League Championship
+27 Mar 2012,Crystal Palace,Doncaster Rovers,1,1,D,League Championship
+31 Mar 2012,Crystal Palace,Nottingham Forest,0,3,L,League Championship
+07 Apr 2012,Birmingham City,Crystal Palace,3,1,W,League Championship
+09 Apr 2012,Crystal Palace,Southampton,0,2,L,League Championship
+14 Apr 2012,Crystal Palace,Ipswich Town,1,1,D,League Championship
+17 Apr 2012,Portsmouth,Crystal Palace,2,1,W,League Championship
+21 Apr 2012,Reading,Crystal Palace,2,2,D,League Championship
+28 Apr 2012,Crystal Palace,Cardiff City,1,2,L,League Championship
+20 Aug 2011,Everton,Queens Park Rangers,0,1,L,Premier League
+24 Aug 2011,Everton,Sheffield United,3,1,W,League Cup
+27 Aug 2011,Blackburn Rovers,Everton,0,1,L,Premier League
+10 Sep 2011,Everton,Aston Villa,2,2,D,Premier League
+17 Sep 2011,Everton,Wigan Athletic,3,1,W,Premier League
+21 Sep 2011,Everton,West Bromwich Albion,2,1,W,League Cup
+24 Sep 2011,Manchester City,Everton,2,0,W,Premier League
+01 Oct 2011,Everton,Liverpool,0,2,L,Premier League
+15 Oct 2011,Chelsea,Everton,3,1,W,Premier League
+23 Oct 2011,Fulham,Everton,1,3,L,Premier League
+26 Oct 2011,Everton,Chelsea,1,2,L,League Cup
+29 Oct 2011,Everton,Manchester United,0,1,L,Premier League
+05 Nov 2011,Newcastle United,Everton,2,1,W,Premier League
+19 Nov 2011,Everton,Wolverhampton Wanderers,2,1,W,Premier League
+26 Nov 2011,Bolton Wanderers,Everton,0,2,L,Premier League
+04 Dec 2011,Everton,Stoke City,0,1,L,Premier League
+10 Dec 2011,Arsenal,Everton,1,0,W,Premier League
+17 Dec 2011,Everton,Norwich City,1,1,D,Premier League
+21 Dec 2011,Everton,Swansea City,1,0,W,Premier League
+26 Dec 2011,Sunderland,Everton,1,1,D,Premier League
+01 Jan 2012,West Bromwich Albion,Everton,0,1,L,Premier League
+04 Jan 2012,Everton,Bolton Wanderers,1,2,L,Premier League
+07 Jan 2012,Everton,Tamworth,2,0,W,FA Cup
+11 Jan 2012,Tottenham Hotspur,Everton,2,0,W,Premier League
+14 Jan 2012,Aston Villa,Everton,1,1,D,Premier League
+21 Jan 2012,Everton,Blackburn Rovers,1,1,D,Premier League
+27 Jan 2012,Everton,Fulham,2,1,W,FA Cup
+31 Jan 2012,Everton,Manchester City,1,0,W,Premier League
+04 Feb 2012,Wigan Athletic,Everton,1,1,D,Premier League
+11 Feb 2012,Everton,Chelsea,2,0,W,Premier League
+18 Feb 2012,Everton,Blackpool,2,0,W,FA Cup
+03 Mar 2012,Queens Park Rangers,Everton,1,1,D,Premier League
+10 Mar 2012,Everton,Tottenham Hotspur,1,0,W,Premier League
+13 Mar 2012,Liverpool,Everton,3,0,W,Premier League
+17 Mar 2012,Everton,Sunderland,1,1,D,FA Cup
+21 Mar 2012,Everton,Arsenal,0,1,L,Premier League
+24 Mar 2012,Swansea City,Everton,0,2,L,Premier League
+27 Mar 2012,Sunderland,Everton,0,2,L,FA Cup
+31 Mar 2012,Everton,West Bromwich Albion,2,0,W,Premier League
+07 Apr 2012,Norwich City,Everton,2,2,D,Premier League
+09 Apr 2012,Everton,Sunderland,4,0,W,Premier League
+14 Apr 2012,Everton,Liverpool,1,2,L,FA Cup
+22 Apr 2012,Manchester United,Everton,4,4,D,Premier League
+28 Apr 2012,Everton,Fulham,4,0,W,Premier League
+01 May 2012,Stoke City,Everton,1,1,D,Premier League
+06 May 2012,Wolverhampton Wanderers,Everton,0,0,D,Premier League
+13 May 2012,Everton,Newcastle United,3,1,W,Premier League
+05 Aug 2011,Hull City,Blackpool,0,1,L,League Championship
+09 Aug 2011,Hull City,Macclesfield Town,0,2,L,League Cup
+13 Aug 2011,Ipswich Town,Hull City,0,1,L,League Championship
+16 Aug 2011,Leeds United,Hull City,4,1,W,League Championship
+20 Aug 2011,Hull City,Crystal Palace,0,1,L,League Championship
+27 Aug 2011,Hull City,Reading,1,0,W,League Championship
+10 Sep 2011,Peterborough United,Hull City,0,1,L,League Championship
+17 Sep 2011,Hull City,Portsmouth,1,0,W,League Championship
+24 Sep 2011,Bristol City,Hull City,1,1,D,League Championship
+27 Sep 2011,Doncaster Rovers,Hull City,1,1,D,League Championship
+01 Oct 2011,Hull City,Cardiff City,2,1,W,League Championship
+15 Oct 2011,Brighton and Hove Albion,Hull City,0,0,D,League Championship
+22 Oct 2011,Hull City,Watford,3,2,W,League Championship
+29 Oct 2011,Nottingham Forest,Hull City,0,1,L,League Championship
+01 Nov 2011,Barnsley,Hull City,2,1,W,League Championship
+05 Nov 2011,Hull City,West Ham United,0,2,L,League Championship
+19 Nov 2011,Derby County,Hull City,0,2,L,League Championship
+26 Nov 2011,Hull City,Burnley,2,3,L,League Championship
+29 Nov 2011,Southampton,Hull City,2,1,W,League Championship
+03 Dec 2011,Hull City,Leicester City,2,1,W,League Championship
+07 Dec 2011,Hull City,Birmingham City,2,1,W,League Championship
+10 Dec 2011,Coventry City,Hull City,0,1,L,League Championship
+17 Dec 2011,Hull City,Millwall,2,0,W,League Championship
+26 Dec 2011,Middlesbrough,Hull City,1,0,W,League Championship
+31 Dec 2011,Burnley,Hull City,1,0,W,League Championship
+02 Jan 2012,Hull City,Derby County,0,1,L,League Championship
+07 Jan 2012,Hull City,Ipswich Town,3,1,W,FA Cup
+14 Jan 2012,Hull City,Peterborough United,1,0,W,League Championship
+21 Jan 2012,Reading,Hull City,0,1,L,League Championship
+28 Jan 2012,Hull City,Crawley Town,0,1,L,FA Cup
+31 Jan 2012,Hull City,Doncaster Rovers,0,0,D,League Championship
+11 Feb 2012,Hull City,Bristol City,3,0,W,League Championship
+14 Feb 2012,Birmingham City,Hull City,0,0,D,League Championship
+22 Feb 2012,Hull City,Brighton and Hove Albion,0,0,D,League Championship
+02 Mar 2012,Blackpool,Hull City,1,1,D,League Championship
+06 Mar 2012,Hull City,Leeds United,0,0,D,League Championship
+10 Mar 2012,Hull City,Ipswich Town,2,2,D,League Championship
+13 Mar 2012,Cardiff City,Hull City,0,3,L,League Championship
+17 Mar 2012,Crystal Palace,Hull City,0,0,D,League Championship
+20 Mar 2012,Hull City,Southampton,0,2,L,League Championship
+24 Mar 2012,Leicester City,Hull City,2,1,W,League Championship
+27 Mar 2012,Portsmouth,Hull City,2,0,W,League Championship
+31 Mar 2012,Hull City,Coventry City,0,2,L,League Championship
+07 Apr 2012,Millwall,Hull City,2,0,W,League Championship
+09 Apr 2012,Hull City,Middlesbrough,2,1,W,League Championship
+14 Apr 2012,Watford,Hull City,1,1,D,League Championship
+17 Apr 2012,Hull City,Barnsley,3,1,W,League Championship
+21 Apr 2012,Hull City,Nottingham Forest,2,1,W,League Championship
+28 Apr 2012,West Ham United,Hull City,2,1,W,League Championship
+06 Aug 2011,Coventry City,Leicester City,0,1,L,League Championship
+09 Aug 2011,Rotherham United,Leicester City,1,4,L,League Cup
+13 Aug 2011,Leicester City,Reading,0,2,L,League Championship
+17 Aug 2011,Leicester City,Bristol City,1,2,L,League Championship
+20 Aug 2011,Nottingham Forest,Leicester City,2,2,D,League Championship
+23 Aug 2011,Bury,Leicester City,2,4,L,League Cup
+27 Aug 2011,Leicester City,Southampton,3,2,W,League Championship
+10 Sep 2011,Barnsley,Leicester City,1,1,D,League Championship
+17 Sep 2011,Leicester City,Brighton and Hove Albion,1,0,W,League Championship
+21 Sep 2011,Cardiff City,Leicester City,2,2,D,League Cup
+25 Sep 2011,Cardiff City,Leicester City,0,0,D,League Championship
+28 Sep 2011,Middlesbrough,Leicester City,0,0,D,League Championship
+01 Oct 2011,Leicester City,Derby County,4,0,W,League Championship
+16 Oct 2011,Birmingham City,Leicester City,2,0,W,League Championship
+19 Oct 2011,Leicester City,Watford,2,0,W,League Championship
+22 Oct 2011,Leicester City,Millwall,0,3,L,League Championship
+29 Oct 2011,West Ham United,Leicester City,3,2,W,League Championship
+01 Nov 2011,Burnley,Leicester City,1,3,L,League Championship
+06 Nov 2011,Leicester City,Leeds United,0,1,L,League Championship
+20 Nov 2011,Leicester City,Crystal Palace,3,0,W,League Championship
+26 Nov 2011,Portsmouth,Leicester City,1,1,D,League Championship
+29 Nov 2011,Leicester City,Blackpool,2,0,W,League Championship
+03 Dec 2011,Hull City,Leicester City,2,1,W,League Championship
+10 Dec 2011,Leicester City,Peterborough United,1,1,D,League Championship
+17 Dec 2011,Doncaster Rovers,Leicester City,2,1,W,League Championship
+26 Dec 2011,Leicester City,Ipswich Town,1,1,D,League Championship
+31 Dec 2011,Leicester City,Portsmouth,1,1,D,League Championship
+02 Jan 2012,Crystal Palace,Leicester City,1,2,L,League Championship
+07 Jan 2012,Nottingham Forest,Leicester City,0,0,D,FA Cup
+14 Jan 2012,Leicester City,Barnsley,1,2,L,League Championship
+17 Jan 2012,Leicester City,Nottingham Forest,4,0,W,FA Cup
+23 Jan 2012,Southampton,Leicester City,0,2,L,League Championship
+28 Jan 2012,Leicester City,Swindon Town,2,0,W,FA Cup
+01 Feb 2012,Leicester City,Middlesbrough,2,2,D,League Championship
+04 Feb 2012,Brighton and Hove Albion,Leicester City,1,0,W,League Championship
+11 Feb 2012,Leicester City,Cardiff City,2,1,W,League Championship
+14 Feb 2012,Watford,Leicester City,3,2,W,League Championship
+18 Feb 2012,Norwich City,Leicester City,1,2,L,FA Cup
+23 Feb 2012,Derby County,Leicester City,0,1,L,League Championship
+03 Mar 2012,Leicester City,Coventry City,2,0,W,League Championship
+06 Mar 2012,Bristol City,Leicester City,3,2,W,League Championship
+10 Mar 2012,Reading,Leicester City,3,1,W,League Championship
+13 Mar 2012,Leicester City,Birmingham City,3,1,W,League Championship
+18 Mar 2012,Chelsea,Leicester City,5,2,W,FA Cup
+21 Mar 2012,Blackpool,Leicester City,3,3,D,League Championship
+24 Mar 2012,Leicester City,Hull City,2,1,W,League Championship
+27 Mar 2012,Leicester City,Nottingham Forest,0,0,D,League Championship
+31 Mar 2012,Peterborough United,Leicester City,1,0,W,League Championship
+07 Apr 2012,Leicester City,Doncaster Rovers,4,0,W,League Championship
+09 Apr 2012,Ipswich Town,Leicester City,1,2,L,League Championship
+14 Apr 2012,Millwall,Leicester City,2,1,W,League Championship
+17 Apr 2012,Leicester City,Burnley,0,0,D,League Championship
+23 Apr 2012,Leicester City,West Ham United,1,2,L,League Championship
+28 Apr 2012,Leeds United,Leicester City,1,2,L,League Championship
+13 Aug 2011,Liverpool,Sunderland,1,1,D,Premier League
+20 Aug 2011,Arsenal,Liverpool,0,2,L,Premier League
+24 Aug 2011,Exeter City,Liverpool,1,3,L,League Cup
+27 Aug 2011,Liverpool,Bolton Wanderers,3,1,W,Premier League
+10 Sep 2011,Stoke City,Liverpool,1,0,W,Premier League
+18 Sep 2011,Tottenham Hotspur,Liverpool,4,0,W,Premier League
+21 Sep 2011,Brighton and Hove Albion,Liverpool,1,2,L,League Cup
+24 Sep 2011,Liverpool,Wolverhampton Wanderers,2,1,W,Premier League
+01 Oct 2011,Everton,Liverpool,0,2,L,Premier League
+15 Oct 2011,Liverpool,Manchester United,1,1,D,Premier League
+22 Oct 2011,Liverpool,Norwich City,1,1,D,Premier League
+26 Oct 2011,Stoke City,Liverpool,1,2,L,League Cup
+29 Oct 2011,West Bromwich Albion,Liverpool,0,2,L,Premier League
+05 Nov 2011,Liverpool,Swansea City,0,0,D,Premier League
+20 Nov 2011,Chelsea,Liverpool,1,2,L,Premier League
+27 Nov 2011,Liverpool,Manchester City,1,1,D,Premier League
+29 Nov 2011,Chelsea,Liverpool,0,2,L,League Cup
+05 Dec 2011,Fulham,Liverpool,1,0,W,Premier League
+10 Dec 2011,Liverpool,Queens Park Rangers,1,0,W,Premier League
+18 Dec 2011,Aston Villa,Liverpool,0,2,L,Premier League
+21 Dec 2011,Wigan Athletic,Liverpool,0,0,D,Premier League
+26 Dec 2011,Liverpool,Blackburn Rovers,1,1,D,Premier League
+30 Dec 2011,Liverpool,Newcastle United,3,1,W,Premier League
+03 Jan 2012,Manchester City,Liverpool,3,0,W,Premier League
+06 Jan 2012,Liverpool,Oldham Athletic,5,1,W,FA Cup
+11 Jan 2012,Manchester City,Liverpool,0,1,L,League Cup
+14 Jan 2012,Liverpool,Stoke City,0,0,D,Premier League
+21 Jan 2012,Bolton Wanderers,Liverpool,3,1,W,Premier League
+25 Jan 2012,Liverpool,Manchester City,2,2,D,League Cup
+28 Jan 2012,Liverpool,Manchester United,2,1,W,FA Cup
+31 Jan 2012,Wolverhampton Wanderers,Liverpool,0,3,L,Premier League
+06 Feb 2012,Liverpool,Tottenham Hotspur,0,0,D,Premier League
+11 Feb 2012,Manchester United,Liverpool,2,1,W,Premier League
+19 Feb 2012,Liverpool,Brighton and Hove Albion,6,1,W,FA Cup
+26 Feb 2012,Cardiff City,Liverpool,2,2,D,League Cup
+03 Mar 2012,Liverpool,Arsenal,1,2,L,Premier League
+10 Mar 2012,Sunderland,Liverpool,1,0,W,Premier League
+13 Mar 2012,Liverpool,Everton,3,0,W,Premier League
+18 Mar 2012,Liverpool,Stoke City,2,1,W,FA Cup
+21 Mar 2012,Queens Park Rangers,Liverpool,3,2,W,Premier League
+24 Mar 2012,Liverpool,Wigan Athletic,1,2,L,Premier League
+01 Apr 2012,Newcastle United,Liverpool,2,0,W,Premier League
+07 Apr 2012,Liverpool,Aston Villa,1,1,D,Premier League
+10 Apr 2012,Blackburn Rovers,Liverpool,2,3,L,Premier League
+14 Apr 2012,Everton,Liverpool,1,2,L,FA Cup
+22 Apr 2012,Liverpool,West Bromwich Albion,0,1,L,Premier League
+28 Apr 2012,Norwich City,Liverpool,0,3,L,Premier League
+01 May 2012,Liverpool,Fulham,0,1,L,Premier League
+05 May 2012,Chelsea,Liverpool,2,1,W,FA Cup
+08 May 2012,Liverpool,Chelsea,4,1,W,Premier League
+13 May 2012,Swansea City,Liverpool,1,0,W,Premier League
+07 Aug 2011,Manchester City,Manchester United,2,3,L,FA Community Shield
+15 Aug 2011,Manchester City,Swansea City,4,0,W,Premier League
+21 Aug 2011,Bolton Wanderers,Manchester City,2,3,L,Premier League
+28 Aug 2011,Tottenham Hotspur,Manchester City,1,5,L,Premier League
+10 Sep 2011,Manchester City,Wigan Athletic,3,0,W,Premier League
+14 Sep 2011,Manchester City,Napoli,1,1,D,UEFA Champions League
+18 Sep 2011,Fulham,Manchester City,2,2,D,Premier League
+21 Sep 2011,Manchester City,Birmingham City,2,0,W,League Cup
+24 Sep 2011,Manchester City,Everton,2,0,W,Premier League
+27 Sep 2011,Bayern Munchen,Manchester City,2,0,W,UEFA Champions League
+01 Oct 2011,Blackburn Rovers,Manchester City,0,4,L,Premier League
+15 Oct 2011,Manchester City,Aston Villa,4,1,W,Premier League
+18 Oct 2011,Manchester City,Villarreal,2,1,W,UEFA Champions League
+23 Oct 2011,Manchester United,Manchester City,1,6,L,Premier League
+26 Oct 2011,Wolverhampton Wanderers,Manchester City,2,5,L,League Cup
+29 Oct 2011,Manchester City,Wolverhampton Wanderers,3,1,W,Premier League
+02 Nov 2011,Villarreal,Manchester City,0,3,L,UEFA Champions League
+05 Nov 2011,Queens Park Rangers,Manchester City,2,3,L,Premier League
+19 Nov 2011,Manchester City,Newcastle United,3,1,W,Premier League
+22 Nov 2011,Napoli,Manchester City,2,1,W,UEFA Champions League
+27 Nov 2011,Liverpool,Manchester City,1,1,D,Premier League
+29 Nov 2011,Arsenal,Manchester City,0,1,L,League Cup
+03 Dec 2011,Manchester City,Norwich City,5,1,W,Premier League
+07 Dec 2011,Manchester City,Bayern Munchen,2,0,W,UEFA Champions League
+12 Dec 2011,Chelsea,Manchester City,2,1,W,Premier League
+18 Dec 2011,Manchester City,Arsenal,1,0,W,Premier League
+21 Dec 2011,Manchester City,Stoke City,3,0,W,Premier League
+26 Dec 2011,West Bromwich Albion,Manchester City,0,0,D,Premier League
+01 Jan 2012,Sunderland,Manchester City,1,0,W,Premier League
+03 Jan 2012,Manchester City,Liverpool,3,0,W,Premier League
+08 Jan 2012,Manchester City,Manchester United,2,3,L,FA Cup
+11 Jan 2012,Manchester City,Liverpool,0,1,L,League Cup
+16 Jan 2012,Wigan Athletic,Manchester City,0,1,L,Premier League
+22 Jan 2012,Manchester City,Tottenham Hotspur,3,2,W,Premier League
+25 Jan 2012,Liverpool,Manchester City,2,2,D,League Cup
+31 Jan 2012,Everton,Manchester City,1,0,W,Premier League
+04 Feb 2012,Manchester City,Fulham,3,0,W,Premier League
+12 Feb 2012,Aston Villa,Manchester City,0,1,L,Premier League
+16 Feb 2012,FC Porto,Manchester City,1,2,L,UEFA Europa League
+22 Feb 2012,Manchester City,FC Porto,4,0,W,UEFA Europa League
+25 Feb 2012,Manchester City,Blackburn Rovers,3,0,W,Premier League
+03 Mar 2012,Manchester City,Bolton Wanderers,2,0,W,Premier League
+08 Mar 2012,Sporting Clube Portugal,Manchester City,1,0,W,UEFA Europa League
+11 Mar 2012,Swansea City,Manchester City,1,0,W,Premier League
+15 Mar 2012,Manchester City,Sporting Clube Portugal,3,2,W,UEFA Europa League
+21 Mar 2012,Manchester City,Chelsea,2,1,W,Premier League
+24 Mar 2012,Stoke City,Manchester City,1,1,D,Premier League
+31 Mar 2012,Manchester City,Sunderland,3,3,D,Premier League
+08 Apr 2012,Arsenal,Manchester City,1,0,W,Premier League
+11 Apr 2012,Manchester City,West Bromwich Albion,4,0,W,Premier League
+14 Apr 2012,Norwich City,Manchester City,1,6,L,Premier League
+22 Apr 2012,Wolverhampton Wanderers,Manchester City,0,2,L,Premier League
+30 Apr 2012,Manchester City,Manchester United,1,0,W,Premier League
+06 May 2012,Newcastle United,Manchester City,0,2,L,Premier League
+13 May 2012,Manchester City,Queens Park Rangers,3,2,W,Premier League
+07 Aug 2011,Manchester City,Manchester United,2,3,L,FA Community Shield
+14 Aug 2011,West Bromwich Albion,Manchester United,1,2,L,Premier League
+22 Aug 2011,Manchester United,Tottenham Hotspur,3,0,W,Premier League
+28 Aug 2011,Manchester United,Arsenal,8,2,W,Premier League
+10 Sep 2011,Bolton Wanderers,Manchester United,0,5,L,Premier League
+14 Sep 2011,Benfica,Manchester United,1,1,D,UEFA Champions League
+18 Sep 2011,Manchester United,Chelsea,3,1,W,Premier League
+20 Sep 2011,Leeds United,Manchester United,0,3,L,League Cup
+24 Sep 2011,Stoke City,Manchester United,1,1,D,Premier League
+27 Sep 2011,Manchester United,FC Basel,3,3,D,UEFA Champions League
+01 Oct 2011,Manchester United,Norwich City,2,0,W,Premier League
+15 Oct 2011,Liverpool,Manchester United,1,1,D,Premier League
+18 Oct 2011,Otelul Galati,Manchester United,0,2,L,UEFA Champions League
+23 Oct 2011,Manchester United,Manchester City,1,6,L,Premier League
+25 Oct 2011,Aldershot Town,Manchester United,0,3,L,League Cup
+29 Oct 2011,Everton,Manchester United,0,1,L,Premier League
+02 Nov 2011,Manchester United,Otelul Galati,2,0,W,UEFA Champions League
+05 Nov 2011,Manchester United,Sunderland,1,0,W,Premier League
+19 Nov 2011,Swansea City,Manchester United,0,1,L,Premier League
+22 Nov 2011,Manchester United,Benfica,2,2,D,UEFA Champions League
+26 Nov 2011,Manchester United,Newcastle United,1,1,D,Premier League
+30 Nov 2011,Manchester United,Crystal Palace,1,2,L,League Cup
+03 Dec 2011,Aston Villa,Manchester United,0,1,L,Premier League
+07 Dec 2011,FC Basel,Manchester United,2,1,W,UEFA Champions League
+10 Dec 2011,Manchester United,Wolverhampton Wanderers,4,1,W,Premier League
+18 Dec 2011,Queens Park Rangers,Manchester United,0,2,L,Premier League
+21 Dec 2011,Fulham,Manchester United,0,5,L,Premier League
+26 Dec 2011,Manchester United,Wigan Athletic,5,0,W,Premier League
+31 Dec 2011,Manchester United,Blackburn Rovers,2,3,L,Premier League
+04 Jan 2012,Newcastle United,Manchester United,3,0,W,Premier League
+08 Jan 2012,Manchester City,Manchester United,2,3,L,FA Cup
+14 Jan 2012,Manchester United,Bolton Wanderers,3,0,W,Premier League
+22 Jan 2012,Arsenal,Manchester United,1,2,L,Premier League
+28 Jan 2012,Liverpool,Manchester United,2,1,W,FA Cup
+31 Jan 2012,Manchester United,Stoke City,2,0,W,Premier League
+05 Feb 2012,Chelsea,Manchester United,3,3,D,Premier League
+11 Feb 2012,Manchester United,Liverpool,2,1,W,Premier League
+16 Feb 2012,Ajax,Manchester United,0,2,L,UEFA Europa League
+23 Feb 2012,Manchester United,Ajax,1,2,L,UEFA Europa League
+26 Feb 2012,Norwich City,Manchester United,1,2,L,Premier League
+04 Mar 2012,Tottenham Hotspur,Manchester United,1,3,L,Premier League
+08 Mar 2012,Manchester United,Athletic Bilbao,2,3,L,UEFA Europa League
+11 Mar 2012,Manchester United,West Bromwich Albion,2,0,W,Premier League
+15 Mar 2012,Athletic Bilbao,Manchester United,2,1,W,UEFA Europa League
+18 Mar 2012,Wolverhampton Wanderers,Manchester United,0,5,L,Premier League
+26 Mar 2012,Manchester United,Fulham,1,0,W,Premier League
+02 Apr 2012,Blackburn Rovers,Manchester United,0,2,L,Premier League
+08 Apr 2012,Manchester United,Queens Park Rangers,2,0,W,Premier League
+11 Apr 2012,Wigan Athletic,Manchester United,1,0,W,Premier League
+15 Apr 2012,Manchester United,Aston Villa,4,0,W,Premier League
+22 Apr 2012,Manchester United,Everton,4,4,D,Premier League
+30 Apr 2012,Manchester City,Manchester United,1,0,W,Premier League
+06 May 2012,Manchester United,Swansea City,2,0,W,Premier League
+13 May 2012,Sunderland,Manchester United,0,1,L,Premier League
+06 Aug 2011,Middlesbrough,Portsmouth,2,2,D,League Championship
+09 Aug 2011,Walsall,Middlesbrough,0,3,L,League Cup
+13 Aug 2011,Leeds United,Middlesbrough,0,1,L,League Championship
+16 Aug 2011,Barnsley,Middlesbrough,1,3,L,League Championship
+21 Aug 2011,Middlesbrough,Birmingham City,3,1,W,League Championship
+24 Aug 2011,Peterborough United,Middlesbrough,0,2,L,League Cup
+27 Aug 2011,Middlesbrough,Coventry City,1,1,D,League Championship
+10 Sep 2011,Burnley,Middlesbrough,0,2,L,League Championship
+17 Sep 2011,Crystal Palace,Middlesbrough,0,1,L,League Championship
+20 Sep 2011,Crystal Palace,Middlesbrough,2,1,W,League Cup
+24 Sep 2011,Middlesbrough,Ipswich Town,0,0,D,League Championship
+28 Sep 2011,Middlesbrough,Leicester City,0,0,D,League Championship
+01 Oct 2011,Reading,Middlesbrough,0,0,D,League Championship
+15 Oct 2011,Middlesbrough,Millwall,1,1,D,League Championship
+18 Oct 2011,Nottingham Forest,Middlesbrough,2,0,W,League Championship
+21 Oct 2011,Middlesbrough,Derby County,2,0,W,League Championship
+29 Oct 2011,Southampton,Middlesbrough,3,0,W,League Championship
+01 Nov 2011,Doncaster Rovers,Middlesbrough,1,3,L,League Championship
+05 Nov 2011,Middlesbrough,Watford,1,0,W,League Championship
+19 Nov 2011,Middlesbrough,Blackpool,2,2,D,League Championship
+26 Nov 2011,Peterborough United,Middlesbrough,1,1,D,League Championship
+29 Nov 2011,Middlesbrough,West Ham United,0,2,L,League Championship
+03 Dec 2011,Bristol City,Middlesbrough,0,1,L,League Championship
+10 Dec 2011,Middlesbrough,Brighton and Hove Albion,1,0,W,League Championship
+17 Dec 2011,Cardiff City,Middlesbrough,2,3,L,League Championship
+26 Dec 2011,Middlesbrough,Hull City,1,0,W,League Championship
+31 Dec 2011,Middlesbrough,Peterborough United,1,1,D,League Championship
+02 Jan 2012,Blackpool,Middlesbrough,3,0,W,League Championship
+07 Jan 2012,Middlesbrough,Shrewsbury Town,1,0,W,FA Cup
+14 Jan 2012,Middlesbrough,Burnley,0,2,L,League Championship
+21 Jan 2012,Coventry City,Middlesbrough,3,1,W,League Championship
+29 Jan 2012,Sunderland,Middlesbrough,1,1,D,FA Cup
+01 Feb 2012,Leicester City,Middlesbrough,2,2,D,League Championship
+04 Feb 2012,Middlesbrough,Crystal Palace,0,0,D,League Championship
+08 Feb 2012,Middlesbrough,Sunderland,1,2,L,FA Cup
+14 Feb 2012,Middlesbrough,Nottingham Forest,2,1,W,League Championship
+21 Feb 2012,Millwall,Middlesbrough,1,3,L,League Championship
+25 Feb 2012,Middlesbrough,Reading,0,2,L,League Championship
+03 Mar 2012,Portsmouth,Middlesbrough,1,3,L,League Championship
+06 Mar 2012,Middlesbrough,Barnsley,2,0,W,League Championship
+11 Mar 2012,Middlesbrough,Leeds United,0,2,L,League Championship
+17 Mar 2012,Birmingham City,Middlesbrough,3,0,W,League Championship
+20 Mar 2012,West Ham United,Middlesbrough,1,1,D,League Championship
+24 Mar 2012,Middlesbrough,Bristol City,1,1,D,League Championship
+27 Mar 2012,Ipswich Town,Middlesbrough,1,1,D,League Championship
+31 Mar 2012,Brighton and Hove Albion,Middlesbrough,1,1,D,League Championship
+07 Apr 2012,Middlesbrough,Cardiff City,0,2,L,League Championship
+09 Apr 2012,Hull City,Middlesbrough,2,1,W,League Championship
+14 Apr 2012,Derby County,Middlesbrough,0,1,L,League Championship
+17 Apr 2012,Middlesbrough,Doncaster Rovers,0,0,D,League Championship
+21 Apr 2012,Middlesbrough,Southampton,2,1,W,League Championship
+28 Apr 2012,Watford,Middlesbrough,2,1,W,League Championship
+06 Aug 2011,Southampton,Leeds United,3,1,W,League Championship
+09 Aug 2011,Southampton,Torquay United,4,1,W,League Cup
+13 Aug 2011,Barnsley,Southampton,0,1,L,League Championship
+16 Aug 2011,Ipswich Town,Southampton,2,5,L,League Championship
+20 Aug 2011,Southampton,Millwall,1,0,W,League Championship
+27 Aug 2011,Leicester City,Southampton,3,2,W,League Championship
+30 Aug 2011,Swindon Town,Southampton,1,3,L,League Cup
+10 Sep 2011,Southampton,Nottingham Forest,3,2,W,League Championship
+18 Sep 2011,Southampton,Birmingham City,4,1,W,League Championship
+21 Sep 2011,Southampton,Preston North End,2,1,W,League Cup
+24 Sep 2011,Burnley,Southampton,1,1,D,League Championship
+28 Sep 2011,Cardiff City,Southampton,2,1,W,League Championship
+01 Oct 2011,Southampton,Watford,4,0,W,League Championship
+15 Oct 2011,Derby County,Southampton,1,1,D,League Championship
+18 Oct 2011,Southampton,West Ham United,1,0,W,League Championship
+22 Oct 2011,Reading,Southampton,1,1,D,League Championship
+25 Oct 2011,Crystal Palace,Southampton,2,0,W,League Cup
+29 Oct 2011,Southampton,Middlesbrough,3,0,W,League Championship
+01 Nov 2011,Southampton,Peterborough United,2,1,W,League Championship
+05 Nov 2011,Coventry City,Southampton,2,4,L,League Championship
+19 Nov 2011,Southampton,Brighton and Hove Albion,3,0,W,League Championship
+26 Nov 2011,Bristol City,Southampton,2,0,W,League Championship
+29 Nov 2011,Southampton,Hull City,2,1,W,League Championship
+03 Dec 2011,Doncaster Rovers,Southampton,1,0,W,League Championship
+10 Dec 2011,Southampton,Blackpool,2,2,D,League Championship
+18 Dec 2011,Portsmouth,Southampton,1,1,D,League Championship
+26 Dec 2011,Southampton,Crystal Palace,2,0,W,League Championship
+30 Dec 2011,Southampton,Bristol City,0,1,L,League Championship
+02 Jan 2012,Brighton and Hove Albion,Southampton,3,0,W,League Championship
+07 Jan 2012,Coventry City,Southampton,1,2,L,FA Cup
+14 Jan 2012,Nottingham Forest,Southampton,0,3,L,League Championship
+23 Jan 2012,Southampton,Leicester City,0,2,L,League Championship
+28 Jan 2012,Millwall,Southampton,1,1,D,FA Cup
+31 Jan 2012,Southampton,Cardiff City,1,1,D,League Championship
+04 Feb 2012,Birmingham City,Southampton,0,0,D,League Championship
+07 Feb 2012,Southampton,Millwall,2,3,L,FA Cup
+11 Feb 2012,Southampton,Burnley,2,0,W,League Championship
+14 Feb 2012,West Ham United,Southampton,1,1,D,League Championship
+18 Feb 2012,Southampton,Derby County,4,0,W,League Championship
+25 Feb 2012,Watford,Southampton,0,3,L,League Championship
+03 Mar 2012,Leeds United,Southampton,0,1,L,League Championship
+06 Mar 2012,Southampton,Ipswich Town,1,1,D,League Championship
+10 Mar 2012,Southampton,Barnsley,2,0,W,League Championship
+17 Mar 2012,Millwall,Southampton,2,3,L,League Championship
+20 Mar 2012,Hull City,Southampton,0,2,L,League Championship
+24 Mar 2012,Southampton,Doncaster Rovers,2,0,W,League Championship
+31 Mar 2012,Blackpool,Southampton,3,0,W,League Championship
+07 Apr 2012,Southampton,Portsmouth,2,2,D,League Championship
+09 Apr 2012,Crystal Palace,Southampton,0,2,L,League Championship
+13 Apr 2012,Southampton,Reading,1,3,L,League Championship
+17 Apr 2012,Peterborough United,Southampton,1,3,L,League Championship
+21 Apr 2012,Middlesbrough,Southampton,2,1,W,League Championship
+28 Apr 2012,Southampton,Coventry City,4,0,W,League Championship
+28 Jul 2011,Stoke City,Hajduk Split,1,0,W,UEFA Europa League
+04 Aug 2011,Hajduk Split,Stoke City,0,1,L,UEFA Europa League
+14 Aug 2011,Stoke City,Chelsea,0,0,D,Premier League
+18 Aug 2011,FC Thun,Stoke City,0,1,L,UEFA Europa League
+21 Aug 2011,Norwich City,Stoke City,1,1,D,Premier League
+25 Aug 2011,Stoke City,FC Thun,4,1,W,UEFA Europa League
+28 Aug 2011,West Bromwich Albion,Stoke City,0,1,L,Premier League
+10 Sep 2011,Stoke City,Liverpool,1,0,W,Premier League
+15 Sep 2011,Dynamo Kiev,Stoke City,1,1,D,UEFA Europa League
+18 Sep 2011,Sunderland,Stoke City,4,0,W,Premier League
+20 Sep 2011,Stoke City,Tottenham Hotspur,0,0,D,League Cup
+24 Sep 2011,Stoke City,Manchester United,1,1,D,Premier League
+29 Sep 2011,Stoke City,Besiktas,2,1,W,UEFA Europa League
+02 Oct 2011,Swansea City,Stoke City,2,0,W,Premier League
+15 Oct 2011,Stoke City,Fulham,2,0,W,Premier League
+20 Oct 2011,Stoke City,Maccabi Tel Aviv,3,0,W,UEFA Europa League
+23 Oct 2011,Arsenal,Stoke City,3,1,W,Premier League
+26 Oct 2011,Stoke City,Liverpool,1,2,L,League Cup
+31 Oct 2011,Stoke City,Newcastle United,1,3,L,Premier League
+03 Nov 2011,Maccabi Tel Aviv,Stoke City,1,2,L,UEFA Europa League
+06 Nov 2011,Bolton Wanderers,Stoke City,5,0,W,Premier League
+19 Nov 2011,Stoke City,Queens Park Rangers,2,3,L,Premier League
+26 Nov 2011,Stoke City,Blackburn Rovers,3,1,W,Premier League
+01 Dec 2011,Stoke City,Dynamo Kiev,1,1,D,UEFA Europa League
+04 Dec 2011,Everton,Stoke City,0,1,L,Premier League
+11 Dec 2011,Stoke City,Tottenham Hotspur,2,1,W,Premier League
+14 Dec 2011,Besiktas,Stoke City,3,1,W,UEFA Europa League
+17 Dec 2011,Wolverhampton Wanderers,Stoke City,1,2,L,Premier League
+21 Dec 2011,Manchester City,Stoke City,3,0,W,Premier League
+26 Dec 2011,Stoke City,Aston Villa,0,0,D,Premier League
+31 Dec 2011,Stoke City,Wigan Athletic,2,2,D,Premier League
+02 Jan 2012,Blackburn Rovers,Stoke City,1,2,L,Premier League
+07 Jan 2012,Gillingham,Stoke City,1,3,L,FA Cup
+14 Jan 2012,Liverpool,Stoke City,0,0,D,Premier League
+21 Jan 2012,Stoke City,West Bromwich Albion,1,2,L,Premier League
+28 Jan 2012,Derby County,Stoke City,0,2,L,FA Cup
+31 Jan 2012,Manchester United,Stoke City,2,0,W,Premier League
+04 Feb 2012,Stoke City,Sunderland,0,1,L,Premier League
+11 Feb 2012,Fulham,Stoke City,2,1,W,Premier League
+16 Feb 2012,Stoke City,Valencia,0,1,L,UEFA Europa League
+19 Feb 2012,Crawley Town,Stoke City,0,2,L,FA Cup
+23 Feb 2012,Valencia,Stoke City,1,0,W,UEFA Europa League
+26 Feb 2012,Stoke City,Swansea City,2,0,W,Premier League
+03 Mar 2012,Stoke City,Norwich City,1,0,W,Premier League
+10 Mar 2012,Chelsea,Stoke City,1,0,W,Premier League
+18 Mar 2012,Liverpool,Stoke City,2,1,W,FA Cup
+21 Mar 2012,Tottenham Hotspur,Stoke City,1,1,D,Premier League
+24 Mar 2012,Stoke City,Manchester City,1,1,D,Premier League
+31 Mar 2012,Wigan Athletic,Stoke City,2,0,W,Premier League
+07 Apr 2012,Stoke City,Wolverhampton Wanderers,2,1,W,Premier League
+09 Apr 2012,Aston Villa,Stoke City,1,1,D,Premier League
+21 Apr 2012,Newcastle United,Stoke City,3,0,W,Premier League
+28 Apr 2012,Stoke City,Arsenal,1,1,D,Premier League
+01 May 2012,Stoke City,Everton,1,1,D,Premier League
+06 May 2012,Queens Park Rangers,Stoke City,1,0,W,Premier League
+13 May 2012,Stoke City,Bolton Wanderers,2,2,D,Premier League
+13 Aug 2011,Liverpool,Sunderland,1,1,D,Premier League
+20 Aug 2011,Sunderland,Newcastle United,0,1,L,Premier League
+23 Aug 2011,Brighton and Hove Albion,Sunderland,1,0,W,League Cup
+27 Aug 2011,Swansea City,Sunderland,0,0,D,Premier League
+10 Sep 2011,Sunderland,Chelsea,1,2,L,Premier League
+18 Sep 2011,Sunderland,Stoke City,4,0,W,Premier League
+26 Sep 2011,Norwich City,Sunderland,2,1,W,Premier League
+01 Oct 2011,Sunderland,West Bromwich Albion,2,2,D,Premier League
+16 Oct 2011,Arsenal,Sunderland,2,1,W,Premier League
+22 Oct 2011,Bolton Wanderers,Sunderland,0,2,L,Premier League
+29 Oct 2011,Sunderland,Aston Villa,2,2,D,Premier League
+05 Nov 2011,Manchester United,Sunderland,1,0,W,Premier League
+19 Nov 2011,Sunderland,Fulham,0,0,D,Premier League
+26 Nov 2011,Sunderland,Wigan Athletic,1,2,L,Premier League
+04 Dec 2011,Wolverhampton Wanderers,Sunderland,2,1,W,Premier League
+11 Dec 2011,Sunderland,Blackburn Rovers,2,1,W,Premier League
+18 Dec 2011,Tottenham Hotspur,Sunderland,1,0,W,Premier League
+21 Dec 2011,Queens Park Rangers,Sunderland,2,3,L,Premier League
+26 Dec 2011,Sunderland,Everton,1,1,D,Premier League
+01 Jan 2012,Sunderland,Manchester City,1,0,W,Premier League
+03 Jan 2012,Wigan Athletic,Sunderland,1,4,L,Premier League
+08 Jan 2012,Peterborough United,Sunderland,0,2,L,FA Cup
+14 Jan 2012,Chelsea,Sunderland,1,0,W,Premier League
+21 Jan 2012,Sunderland,Swansea City,2,0,W,Premier League
+29 Jan 2012,Sunderland,Middlesbrough,1,1,D,FA Cup
+01 Feb 2012,Sunderland,Norwich City,3,0,W,Premier League
+04 Feb 2012,Stoke City,Sunderland,0,1,L,Premier League
+08 Feb 2012,Middlesbrough,Sunderland,1,2,L,FA Cup
+11 Feb 2012,Sunderland,Arsenal,1,2,L,Premier League
+18 Feb 2012,Sunderland,Arsenal,2,0,W,FA Cup
+25 Feb 2012,West Bromwich Albion,Sunderland,4,0,W,Premier League
+04 Mar 2012,Newcastle United,Sunderland,1,1,D,Premier League
+10 Mar 2012,Sunderland,Liverpool,1,0,W,Premier League
+17 Mar 2012,Everton,Sunderland,1,1,D,FA Cup
+20 Mar 2012,Blackburn Rovers,Sunderland,2,0,W,Premier League
+24 Mar 2012,Sunderland,Queens Park Rangers,3,1,W,Premier League
+27 Mar 2012,Sunderland,Everton,0,2,L,FA Cup
+31 Mar 2012,Manchester City,Sunderland,3,3,D,Premier League
+07 Apr 2012,Sunderland,Tottenham Hotspur,0,0,D,Premier League
+09 Apr 2012,Everton,Sunderland,4,0,W,Premier League
+14 Apr 2012,Sunderland,Wolverhampton Wanderers,0,0,D,Premier League
+21 Apr 2012,Aston Villa,Sunderland,0,0,D,Premier League
+28 Apr 2012,Sunderland,Bolton Wanderers,2,2,D,Premier League
+06 May 2012,Fulham,Sunderland,2,1,W,Premier League
+13 May 2012,Sunderland,Manchester United,0,1,L,Premier League
+15 Aug 2011,Manchester City,Swansea City,4,0,W,Premier League
+20 Aug 2011,Swansea City,Wigan Athletic,0,0,D,Premier League
+23 Aug 2011,Shrewsbury Town,Swansea City,3,1,W,League Cup
+27 Aug 2011,Swansea City,Sunderland,0,0,D,Premier League
+10 Sep 2011,Arsenal,Swansea City,1,0,W,Premier League
+17 Sep 2011,Swansea City,West Bromwich Albion,3,0,W,Premier League
+24 Sep 2011,Chelsea,Swansea City,4,1,W,Premier League
+02 Oct 2011,Swansea City,Stoke City,2,0,W,Premier League
+15 Oct 2011,Norwich City,Swansea City,3,1,W,Premier League
+22 Oct 2011,Wolverhampton Wanderers,Swansea City,2,2,D,Premier League
+29 Oct 2011,Swansea City,Bolton Wanderers,3,1,W,Premier League
+05 Nov 2011,Liverpool,Swansea City,0,0,D,Premier League
+19 Nov 2011,Swansea City,Manchester United,0,1,L,Premier League
+27 Nov 2011,Swansea City,Aston Villa,0,0,D,Premier League
+03 Dec 2011,Blackburn Rovers,Swansea City,4,2,W,Premier League
+10 Dec 2011,Swansea City,Fulham,2,0,W,Premier League
+17 Dec 2011,Newcastle United,Swansea City,0,0,D,Premier League
+21 Dec 2011,Everton,Swansea City,1,0,W,Premier League
+27 Dec 2011,Swansea City,Queens Park Rangers,1,1,D,Premier League
+31 Dec 2011,Swansea City,Tottenham Hotspur,1,1,D,Premier League
+02 Jan 2012,Aston Villa,Swansea City,0,2,L,Premier League
+07 Jan 2012,Barnsley,Swansea City,2,4,L,FA Cup
+15 Jan 2012,Swansea City,Arsenal,3,2,W,Premier League
+21 Jan 2012,Sunderland,Swansea City,2,0,W,Premier League
+28 Jan 2012,Bolton Wanderers,Swansea City,2,1,W,FA Cup
+31 Jan 2012,Swansea City,Chelsea,1,1,D,Premier League
+04 Feb 2012,West Bromwich Albion,Swansea City,1,2,L,Premier League
+11 Feb 2012,Swansea City,Norwich City,2,3,L,Premier League
+26 Feb 2012,Stoke City,Swansea City,2,0,W,Premier League
+03 Mar 2012,Wigan Athletic,Swansea City,0,2,L,Premier League
+11 Mar 2012,Swansea City,Manchester City,1,0,W,Premier League
+17 Mar 2012,Fulham,Swansea City,0,3,L,Premier League
+24 Mar 2012,Swansea City,Everton,0,2,L,Premier League
+01 Apr 2012,Tottenham Hotspur,Swansea City,3,1,W,Premier League
+06 Apr 2012,Swansea City,Newcastle United,0,2,L,Premier League
+11 Apr 2012,Queens Park Rangers,Swansea City,3,0,W,Premier League
+14 Apr 2012,Swansea City,Blackburn Rovers,3,0,W,Premier League
+21 Apr 2012,Bolton Wanderers,Swansea City,1,1,D,Premier League
+28 Apr 2012,Swansea City,Wolverhampton Wanderers,4,4,D,Premier League
+06 May 2012,Manchester United,Swansea City,2,0,W,Premier League
+13 May 2012,Swansea City,Liverpool,1,0,W,Premier League
+18 Aug 2011,Heart of Midlothian,Tottenham Hotspur,0,5,L,UEFA Europa League
+22 Aug 2011,Manchester United,Tottenham Hotspur,3,0,W,Premier League
+25 Aug 2011,Tottenham Hotspur,Heart of Midlothian,0,0,D,UEFA Europa League
+28 Aug 2011,Tottenham Hotspur,Manchester City,1,5,L,Premier League
+10 Sep 2011,Wolverhampton Wanderers,Tottenham Hotspur,0,2,L,Premier League
+15 Sep 2011,PAOK Salonika,Tottenham Hotspur,0,0,D,UEFA Europa League
+18 Sep 2011,Tottenham Hotspur,Liverpool,4,0,W,Premier League
+20 Sep 2011,Stoke City,Tottenham Hotspur,0,0,D,League Cup
+24 Sep 2011,Wigan Athletic,Tottenham Hotspur,1,2,L,Premier League
+29 Sep 2011,Tottenham Hotspur,Shamrock Rovers,3,1,W,UEFA Europa League
+02 Oct 2011,Tottenham Hotspur,Arsenal,2,1,W,Premier League
+16 Oct 2011,Newcastle United,Tottenham Hotspur,2,2,D,Premier League
+20 Oct 2011,Tottenham Hotspur,Rubin Kazan,1,0,W,UEFA Europa League
+23 Oct 2011,Blackburn Rovers,Tottenham Hotspur,1,2,L,Premier League
+30 Oct 2011,Tottenham Hotspur,Queens Park Rangers,3,1,W,Premier League
+03 Nov 2011,Rubin Kazan,Tottenham Hotspur,1,0,W,UEFA Europa League
+06 Nov 2011,Fulham,Tottenham Hotspur,1,3,L,Premier League
+21 Nov 2011,Tottenham Hotspur,Aston Villa,2,0,W,Premier League
+26 Nov 2011,West Bromwich Albion,Tottenham Hotspur,1,3,L,Premier League
+30 Nov 2011,Tottenham Hotspur,PAOK Salonika,1,2,L,UEFA Europa League
+03 Dec 2011,Tottenham Hotspur,Bolton Wanderers,3,0,W,Premier League
+11 Dec 2011,Stoke City,Tottenham Hotspur,2,1,W,Premier League
+15 Dec 2011,Shamrock Rovers,Tottenham Hotspur,0,4,L,UEFA Europa League
+18 Dec 2011,Tottenham Hotspur,Sunderland,1,0,W,Premier League
+22 Dec 2011,Tottenham Hotspur,Chelsea,1,1,D,Premier League
+27 Dec 2011,Norwich City,Tottenham Hotspur,0,2,L,Premier League
+31 Dec 2011,Swansea City,Tottenham Hotspur,1,1,D,Premier League
+03 Jan 2012,Tottenham Hotspur,West Bromwich Albion,1,0,W,Premier League
+07 Jan 2012,Tottenham Hotspur,Cheltenham Town,3,0,W,FA Cup
+11 Jan 2012,Tottenham Hotspur,Everton,2,0,W,Premier League
+14 Jan 2012,Tottenham Hotspur,Wolverhampton Wanderers,1,1,D,Premier League
+22 Jan 2012,Manchester City,Tottenham Hotspur,3,2,W,Premier League
+27 Jan 2012,Watford,Tottenham Hotspur,0,1,L,FA Cup
+31 Jan 2012,Tottenham Hotspur,Wigan Athletic,3,1,W,Premier League
+06 Feb 2012,Liverpool,Tottenham Hotspur,0,0,D,Premier League
+11 Feb 2012,Tottenham Hotspur,Newcastle United,5,0,W,Premier League
+19 Feb 2012,Stevenage,Tottenham Hotspur,0,0,D,FA Cup
+26 Feb 2012,Arsenal,Tottenham Hotspur,5,2,W,Premier League
+04 Mar 2012,Tottenham Hotspur,Manchester United,1,3,L,Premier League
+07 Mar 2012,Tottenham Hotspur,Stevenage,3,1,W,FA Cup
+10 Mar 2012,Everton,Tottenham Hotspur,1,0,W,Premier League
+21 Mar 2012,Tottenham Hotspur,Stoke City,1,1,D,Premier League
+24 Mar 2012,Chelsea,Tottenham Hotspur,0,0,D,Premier League
+27 Mar 2012,Tottenham Hotspur,Bolton Wanderers,3,1,W,FA Cup
+01 Apr 2012,Tottenham Hotspur,Swansea City,3,1,W,Premier League
+07 Apr 2012,Sunderland,Tottenham Hotspur,0,0,D,Premier League
+09 Apr 2012,Tottenham Hotspur,Norwich City,1,2,L,Premier League
+15 Apr 2012,Tottenham Hotspur,Chelsea,1,5,L,FA Cup
+21 Apr 2012,Queens Park Rangers,Tottenham Hotspur,1,0,W,Premier League
+29 Apr 2012,Tottenham Hotspur,Blackburn Rovers,2,0,W,Premier League
+02 May 2012,Bolton Wanderers,Tottenham Hotspur,1,4,L,Premier League
+06 May 2012,Aston Villa,Tottenham Hotspur,1,1,D,Premier League
+13 May 2012,Tottenham Hotspur,Fulham,2,0,W,Premier League
+06 Aug 2011,Burnley,Watford,2,2,D,League Championship
+13 Aug 2011,Watford,Derby County,0,1,L,League Championship
+16 Aug 2011,Watford,West Ham United,0,4,L,League Championship
+20 Aug 2011,Coventry City,Watford,0,0,D,League Championship
+23 Aug 2011,Bristol Rovers,Watford,1,1,D,League Cup
+28 Aug 2011,Watford,Birmingham City,2,2,D,League Championship
+10 Sep 2011,Reading,Watford,0,2,L,League Championship
+17 Sep 2011,Barnsley,Watford,1,1,D,League Championship
+24 Sep 2011,Watford,Nottingham Forest,0,1,L,League Championship
+27 Sep 2011,Watford,Millwall,2,1,W,League Championship
+01 Oct 2011,Southampton,Watford,4,0,W,League Championship
+15 Oct 2011,Watford,Crystal Palace,0,2,L,League Championship
+19 Oct 2011,Leicester City,Watford,2,0,W,League Championship
+22 Oct 2011,Hull City,Watford,3,2,W,League Championship
+29 Oct 2011,Watford,Peterborough United,3,2,W,League Championship
+01 Nov 2011,Watford,Brighton and Hove Albion,1,0,W,League Championship
+05 Nov 2011,Middlesbrough,Watford,1,0,W,League Championship
+19 Nov 2011,Watford,Portsmouth,2,0,W,League Championship
+26 Nov 2011,Doncaster Rovers,Watford,0,0,D,League Championship
+29 Nov 2011,Watford,Bristol City,2,2,D,League Championship
+03 Dec 2011,Ipswich Town,Watford,1,2,L,League Championship
+10 Dec 2011,Watford,Leeds United,1,1,D,League Championship
+17 Dec 2011,Blackpool,Watford,0,0,D,League Championship
+26 Dec 2011,Watford,Cardiff City,1,1,D,League Championship
+31 Dec 2011,Watford,Doncaster Rovers,4,1,W,League Championship
+02 Jan 2012,Portsmouth,Watford,2,0,W,League Championship
+07 Jan 2012,Watford,Bradford City,4,2,W,FA Cup
+14 Jan 2012,Watford,Reading,1,2,L,League Championship
+21 Jan 2012,Birmingham City,Watford,3,0,W,League Championship
+27 Jan 2012,Watford,Tottenham Hotspur,0,1,L,FA Cup
+31 Jan 2012,Millwall,Watford,0,2,L,League Championship
+04 Feb 2012,Watford,Barnsley,2,1,W,League Championship
+11 Feb 2012,Nottingham Forest,Watford,1,1,D,League Championship
+14 Feb 2012,Watford,Leicester City,3,2,W,League Championship
+18 Feb 2012,Crystal Palace,Watford,4,0,W,League Championship
+25 Feb 2012,Watford,Southampton,0,3,L,League Championship
+03 Mar 2012,Watford,Burnley,3,2,W,League Championship
+07 Mar 2012,West Ham United,Watford,1,1,D,League Championship
+10 Mar 2012,Derby County,Watford,1,2,L,League Championship
+17 Mar 2012,Watford,Coventry City,0,0,D,League Championship
+20 Mar 2012,Bristol City,Watford,0,2,L,League Championship
+24 Mar 2012,Watford,Ipswich Town,2,1,W,League Championship
+31 Mar 2012,Leeds United,Watford,0,2,L,League Championship
+06 Apr 2012,Watford,Blackpool,0,2,L,League Championship
+09 Apr 2012,Cardiff City,Watford,1,1,D,League Championship
+14 Apr 2012,Watford,Hull City,1,1,D,League Championship
+17 Apr 2012,Brighton and Hove Albion,Watford,2,2,D,League Championship
+21 Apr 2012,Peterborough United,Watford,2,2,D,League Championship
+28 Apr 2012,Watford,Middlesbrough,2,1,W,League Championship
+14 Aug 2011,West Bromwich Albion,Manchester United,1,2,L,Premier League
+20 Aug 2011,Chelsea,West Bromwich Albion,2,1,W,Premier League
+23 Aug 2011,AFC Bournemouth,West Bromwich Albion,1,4,L,League Cup
+28 Aug 2011,West Bromwich Albion,Stoke City,0,1,L,Premier League
+11 Sep 2011,Norwich City,West Bromwich Albion,0,1,L,Premier League
+17 Sep 2011,Swansea City,West Bromwich Albion,3,0,W,Premier League
+21 Sep 2011,Everton,West Bromwich Albion,2,1,W,League Cup
+24 Sep 2011,West Bromwich Albion,Fulham,0,0,D,Premier League
+01 Oct 2011,Sunderland,West Bromwich Albion,2,2,D,Premier League
+16 Oct 2011,West Bromwich Albion,Wolverhampton Wanderers,2,0,W,Premier League
+22 Oct 2011,Aston Villa,West Bromwich Albion,1,2,L,Premier League
+29 Oct 2011,West Bromwich Albion,Liverpool,0,2,L,Premier League
+05 Nov 2011,Arsenal,West Bromwich Albion,3,0,W,Premier League
+19 Nov 2011,West Bromwich Albion,Bolton Wanderers,2,1,W,Premier League
+26 Nov 2011,West Bromwich Albion,Tottenham Hotspur,1,3,L,Premier League
+03 Dec 2011,Queens Park Rangers,West Bromwich Albion,1,1,D,Premier League
+10 Dec 2011,West Bromwich Albion,Wigan Athletic,1,2,L,Premier League
+17 Dec 2011,Blackburn Rovers,West Bromwich Albion,1,2,L,Premier League
+21 Dec 2011,Newcastle United,West Bromwich Albion,2,3,L,Premier League
+26 Dec 2011,West Bromwich Albion,Manchester City,0,0,D,Premier League
+01 Jan 2012,West Bromwich Albion,Everton,0,1,L,Premier League
+03 Jan 2012,Tottenham Hotspur,West Bromwich Albion,1,0,W,Premier League
+07 Jan 2012,West Bromwich Albion,Cardiff City,4,2,W,FA Cup
+14 Jan 2012,West Bromwich Albion,Norwich City,1,2,L,Premier League
+21 Jan 2012,Stoke City,West Bromwich Albion,1,2,L,Premier League
+28 Jan 2012,West Bromwich Albion,Norwich City,1,2,L,FA Cup
+01 Feb 2012,Fulham,West Bromwich Albion,1,1,D,Premier League
+04 Feb 2012,West Bromwich Albion,Swansea City,1,2,L,Premier League
+12 Feb 2012,Wolverhampton Wanderers,West Bromwich Albion,1,5,L,Premier League
+25 Feb 2012,West Bromwich Albion,Sunderland,4,0,W,Premier League
+03 Mar 2012,West Bromwich Albion,Chelsea,1,0,W,Premier League
+11 Mar 2012,Manchester United,West Bromwich Albion,2,0,W,Premier League
+17 Mar 2012,Wigan Athletic,West Bromwich Albion,1,1,D,Premier League
+25 Mar 2012,West Bromwich Albion,Newcastle United,1,3,L,Premier League
+31 Mar 2012,Everton,West Bromwich Albion,2,0,W,Premier League
+07 Apr 2012,West Bromwich Albion,Blackburn Rovers,3,0,W,Premier League
+11 Apr 2012,Manchester City,West Bromwich Albion,4,0,W,Premier League
+14 Apr 2012,West Bromwich Albion,Queens Park Rangers,1,0,W,Premier League
+22 Apr 2012,Liverpool,West Bromwich Albion,0,1,L,Premier League
+28 Apr 2012,West Bromwich Albion,Aston Villa,0,0,D,Premier League
+06 May 2012,Bolton Wanderers,West Bromwich Albion,2,2,D,Premier League
+13 May 2012,West Bromwich Albion,Arsenal,2,3,L,Premier League
+07 Aug 2011,West Ham United,Cardiff City,0,1,L,League Championship
+13 Aug 2011,Doncaster Rovers,West Ham United,0,1,L,League Championship
+16 Aug 2011,Watford,West Ham United,0,4,L,League Championship
+21 Aug 2011,West Ham United,Leeds United,2,2,D,League Championship
+24 Aug 2011,West Ham United,Aldershot Town,1,2,L,League Cup
+28 Aug 2011,Nottingham Forest,West Ham United,1,4,L,League Championship
+10 Sep 2011,West Ham United,Portsmouth,4,3,W,League Championship
+17 Sep 2011,Millwall,West Ham United,0,0,D,League Championship
+24 Sep 2011,West Ham United,Peterborough United,1,0,W,League Championship
+27 Sep 2011,West Ham United,Ipswich Town,0,1,L,League Championship
+01 Oct 2011,Crystal Palace,West Ham United,2,2,D,League Championship
+15 Oct 2011,West Ham United,Blackpool,4,0,W,League Championship
+18 Oct 2011,Southampton,West Ham United,1,0,W,League Championship
+24 Oct 2011,Brighton and Hove Albion,West Ham United,0,1,L,League Championship
+29 Oct 2011,West Ham United,Leicester City,3,2,W,League Championship
+01 Nov 2011,West Ham United,Bristol City,0,0,D,League Championship
+05 Nov 2011,Hull City,West Ham United,0,2,L,League Championship
+19 Nov 2011,Coventry City,West Ham United,1,2,L,League Championship
+26 Nov 2011,West Ham United,Derby County,3,1,W,League Championship
+29 Nov 2011,Middlesbrough,West Ham United,0,2,L,League Championship
+03 Dec 2011,West Ham United,Burnley,1,2,L,League Championship
+10 Dec 2011,Reading,West Ham United,3,0,W,League Championship
+17 Dec 2011,West Ham United,Barnsley,1,0,W,League Championship
+26 Dec 2011,Birmingham City,West Ham United,1,1,D,League Championship
+31 Dec 2011,Derby County,West Ham United,2,1,W,League Championship
+02 Jan 2012,West Ham United,Coventry City,1,0,W,League Championship
+08 Jan 2012,Sheffield Wednesday,West Ham United,1,0,W,FA Cup
+14 Jan 2012,Portsmouth,West Ham United,0,1,L,League Championship
+21 Jan 2012,West Ham United,Nottingham Forest,2,1,W,League Championship
+31 Jan 2012,Ipswich Town,West Ham United,5,1,W,League Championship
+04 Feb 2012,West Ham United,Millwall,2,1,W,League Championship
+14 Feb 2012,West Ham United,Southampton,1,1,D,League Championship
+21 Feb 2012,Blackpool,West Ham United,1,4,L,League Championship
+25 Feb 2012,West Ham United,Crystal Palace,0,0,D,League Championship
+04 Mar 2012,Cardiff City,West Ham United,0,2,L,League Championship
+07 Mar 2012,West Ham United,Watford,1,1,D,League Championship
+10 Mar 2012,West Ham United,Doncaster Rovers,1,1,D,League Championship
+17 Mar 2012,Leeds United,West Ham United,1,1,D,League Championship
+20 Mar 2012,West Ham United,Middlesbrough,1,1,D,League Championship
+24 Mar 2012,Burnley,West Ham United,2,2,D,League Championship
+27 Mar 2012,Peterborough United,West Ham United,0,2,L,League Championship
+31 Mar 2012,West Ham United,Reading,2,4,L,League Championship
+06 Apr 2012,Barnsley,West Ham United,0,4,L,League Championship
+09 Apr 2012,West Ham United,Birmingham City,3,3,D,League Championship
+14 Apr 2012,West Ham United,Brighton and Hove Albion,6,0,W,League Championship
+17 Apr 2012,Bristol City,West Ham United,1,1,D,League Championship
+23 Apr 2012,Leicester City,West Ham United,1,2,L,League Championship
+28 Apr 2012,West Ham United,Hull City,2,1,W,League Championship
+03 May 2012,Cardiff City,West Ham United,0,2,L,League Championship Play-Offs
+07 May 2012,West Ham United,Cardiff City,3,0,W,League Championship Play-Offs
+19 May 2012,Blackpool,West Ham United,1,2,L,League Championship Play-Offs

@@ -1,0 +1,998 @@
+date,home,away,home_goals,away_goals,result,league
+08 Aug 2015,AFC Bournemouth,Aston Villa,0,1,L,Premier League
+17 Aug 2015,Liverpool,AFC Bournemouth,1,0,W,Premier League
+22 Aug 2015,West Ham United,AFC Bournemouth,3,4,L,Premier League
+25 Aug 2015,Hartlepool United,AFC Bournemouth,0,4,L,League Cup
+29 Aug 2015,AFC Bournemouth,Leicester City,1,1,D,Premier League
+12 Sep 2015,Norwich City,AFC Bournemouth,3,1,W,Premier League
+19 Sep 2015,AFC Bournemouth,Sunderland,2,0,W,Premier League
+22 Sep 2015,Preston North End,AFC Bournemouth,2,2,D,League Cup
+26 Sep 2015,Stoke City,AFC Bournemouth,2,1,W,Premier League
+03 Oct 2015,AFC Bournemouth,Watford,1,1,D,Premier League
+17 Oct 2015,Manchester City,AFC Bournemouth,5,1,W,Premier League
+25 Oct 2015,AFC Bournemouth,Tottenham Hotspur,1,5,L,Premier League
+28 Oct 2015,Liverpool,AFC Bournemouth,1,0,W,League Cup
+01 Nov 2015,Southampton,AFC Bournemouth,2,0,W,Premier League
+07 Nov 2015,AFC Bournemouth,Newcastle United,0,1,L,Premier League
+21 Nov 2015,Swansea City,AFC Bournemouth,2,2,D,Premier League
+28 Nov 2015,AFC Bournemouth,Everton,3,3,D,Premier League
+05 Dec 2015,Chelsea,AFC Bournemouth,0,1,L,Premier League
+12 Dec 2015,AFC Bournemouth,Manchester United,2,1,W,Premier League
+19 Dec 2015,West Bromwich Albion,AFC Bournemouth,1,2,L,Premier League
+26 Dec 2015,AFC Bournemouth,Crystal Palace,0,0,D,Premier League
+28 Dec 2015,Arsenal,AFC Bournemouth,2,0,W,Premier League
+02 Jan 2016,Leicester City,AFC Bournemouth,0,0,D,Premier League
+09 Jan 2016,Birmingham City,AFC Bournemouth,1,2,L,FA Cup
+12 Jan 2016,AFC Bournemouth,West Ham United,1,3,L,Premier League
+16 Jan 2016,AFC Bournemouth,Norwich City,3,0,W,Premier League
+23 Jan 2016,Sunderland,AFC Bournemouth,1,1,D,Premier League
+30 Jan 2016,Portsmouth,AFC Bournemouth,1,2,L,FA Cup
+02 Feb 2016,Crystal Palace,AFC Bournemouth,1,2,L,Premier League
+07 Feb 2016,AFC Bournemouth,Arsenal,0,2,L,Premier League
+13 Feb 2016,AFC Bournemouth,Stoke City,1,3,L,Premier League
+20 Feb 2016,AFC Bournemouth,Everton,0,2,L,FA Cup
+27 Feb 2016,Watford,AFC Bournemouth,0,0,D,Premier League
+01 Mar 2016,AFC Bournemouth,Southampton,2,0,W,Premier League
+05 Mar 2016,Newcastle United,AFC Bournemouth,1,3,L,Premier League
+12 Mar 2016,AFC Bournemouth,Swansea City,3,2,W,Premier League
+20 Mar 2016,Tottenham Hotspur,AFC Bournemouth,3,0,W,Premier League
+02 Apr 2016,AFC Bournemouth,Manchester City,0,4,L,Premier League
+09 Apr 2016,Aston Villa,AFC Bournemouth,1,2,L,Premier League
+17 Apr 2016,AFC Bournemouth,Liverpool,1,2,L,Premier League
+23 Apr 2016,AFC Bournemouth,Chelsea,1,4,L,Premier League
+30 Apr 2016,Everton,AFC Bournemouth,2,1,W,Premier League
+07 May 2016,AFC Bournemouth,West Bromwich Albion,1,1,D,Premier League
+17 May 2016,Manchester United,AFC Bournemouth,3,1,W,Premier League
+02 Aug 2015,Arsenal,Chelsea,1,0,W,FA Community Shield
+09 Aug 2015,Arsenal,West Ham United,0,2,L,Premier League
+16 Aug 2015,Crystal Palace,Arsenal,1,2,L,Premier League
+24 Aug 2015,Arsenal,Liverpool,0,0,D,Premier League
+29 Aug 2015,Newcastle United,Arsenal,0,1,L,Premier League
+12 Sep 2015,Arsenal,Stoke City,2,0,W,Premier League
+16 Sep 2015,Dinamo Zagreb,Arsenal,2,1,W,UEFA Champions League
+19 Sep 2015,Chelsea,Arsenal,2,0,W,Premier League
+23 Sep 2015,Tottenham Hotspur,Arsenal,1,2,L,League Cup
+26 Sep 2015,Leicester City,Arsenal,2,5,L,Premier League
+29 Sep 2015,Arsenal,Olympiakos,2,3,L,UEFA Champions League
+04 Oct 2015,Arsenal,Manchester United,3,0,W,Premier League
+17 Oct 2015,Watford,Arsenal,0,3,L,Premier League
+20 Oct 2015,Arsenal,Bayern Munchen,2,0,W,UEFA Champions League
+24 Oct 2015,Arsenal,Everton,2,1,W,Premier League
+27 Oct 2015,Sheffield Wednesday,Arsenal,3,0,W,League Cup
+31 Oct 2015,Swansea City,Arsenal,0,3,L,Premier League
+04 Nov 2015,Bayern Munchen,Arsenal,5,1,W,UEFA Champions League
+08 Nov 2015,Arsenal,Tottenham Hotspur,1,1,D,Premier League
+21 Nov 2015,West Bromwich Albion,Arsenal,2,1,W,Premier League
+24 Nov 2015,Arsenal,Dinamo Zagreb,3,0,W,UEFA Champions League
+29 Nov 2015,Norwich City,Arsenal,1,1,D,Premier League
+05 Dec 2015,Arsenal,Sunderland,3,1,W,Premier League
+09 Dec 2015,Olympiakos,Arsenal,0,3,L,UEFA Champions League
+13 Dec 2015,Aston Villa,Arsenal,0,2,L,Premier League
+21 Dec 2015,Arsenal,Manchester City,2,1,W,Premier League
+26 Dec 2015,Southampton,Arsenal,4,0,W,Premier League
+28 Dec 2015,Arsenal,AFC Bournemouth,2,0,W,Premier League
+02 Jan 2016,Arsenal,Newcastle United,1,0,W,Premier League
+09 Jan 2016,Arsenal,Sunderland,3,1,W,FA Cup
+13 Jan 2016,Liverpool,Arsenal,3,3,D,Premier League
+17 Jan 2016,Stoke City,Arsenal,0,0,D,Premier League
+24 Jan 2016,Arsenal,Chelsea,0,1,L,Premier League
+30 Jan 2016,Arsenal,Burnley,2,1,W,FA Cup
+02 Feb 2016,Arsenal,Southampton,0,0,D,Premier League
+07 Feb 2016,AFC Bournemouth,Arsenal,0,2,L,Premier League
+14 Feb 2016,Arsenal,Leicester City,2,1,W,Premier League
+20 Feb 2016,Arsenal,Hull City,0,0,D,FA Cup
+23 Feb 2016,Arsenal,Barcelona,0,2,L,UEFA Champions League
+28 Feb 2016,Manchester United,Arsenal,3,2,W,Premier League
+02 Mar 2016,Arsenal,Swansea City,1,2,L,Premier League
+05 Mar 2016,Tottenham Hotspur,Arsenal,2,2,D,Premier League
+08 Mar 2016,Hull City,Arsenal,0,4,L,FA Cup
+13 Mar 2016,Arsenal,Watford,1,2,L,FA Cup
+16 Mar 2016,Barcelona,Arsenal,3,1,W,UEFA Champions League
+19 Mar 2016,Everton,Arsenal,0,2,L,Premier League
+02 Apr 2016,Arsenal,Watford,4,0,W,Premier League
+09 Apr 2016,West Ham United,Arsenal,3,3,D,Premier League
+17 Apr 2016,Arsenal,Crystal Palace,1,1,D,Premier League
+21 Apr 2016,Arsenal,West Bromwich Albion,2,0,W,Premier League
+24 Apr 2016,Sunderland,Arsenal,0,0,D,Premier League
+30 Apr 2016,Arsenal,Norwich City,1,0,W,Premier League
+08 May 2016,Manchester City,Arsenal,2,2,D,Premier League
+15 May 2016,Arsenal,Aston Villa,4,0,W,Premier League
+08 Aug 2015,Leeds United,Burnley,1,1,D,League Championship
+11 Aug 2015,Port Vale,Burnley,1,0,W,League Cup
+15 Aug 2015,Burnley,Birmingham City,2,2,D,League Championship
+18 Aug 2015,Ipswich Town,Burnley,2,0,W,League Championship
+22 Aug 2015,Burnley,Brentford,1,0,W,League Championship
+29 Aug 2015,Bristol City,Burnley,1,2,L,League Championship
+12 Sep 2015,Burnley,Sheffield Wednesday,3,1,W,League Championship
+15 Sep 2015,Burnley,Milton Keynes Dons,2,1,W,League Championship
+21 Sep 2015,Derby County,Burnley,0,0,D,League Championship
+26 Sep 2015,Burnley,Reading,1,2,L,League Championship
+02 Oct 2015,Rotherham United,Burnley,1,2,L,League Championship
+17 Oct 2015,Burnley,Bolton Wanderers,2,0,W,League Championship
+20 Oct 2015,Nottingham Forest,Burnley,1,1,D,League Championship
+24 Oct 2015,Blackburn Rovers,Burnley,0,1,L,League Championship
+31 Oct 2015,Burnley,Huddersfield Town,2,1,W,League Championship
+03 Nov 2015,Burnley,Fulham,3,1,W,League Championship
+07 Nov 2015,Wolverhampton Wanderers,Burnley,0,0,D,League Championship
+22 Nov 2015,Burnley,Brighton and Hove Albion,1,1,D,League Championship
+28 Nov 2015,Cardiff City,Burnley,2,2,D,League Championship
+05 Dec 2015,Burnley,Preston North End,0,2,L,League Championship
+12 Dec 2015,Queens Park Rangers,Burnley,0,0,D,League Championship
+15 Dec 2015,Middlesbrough,Burnley,1,0,W,League Championship
+19 Dec 2015,Burnley,Charlton Athletic,4,0,W,League Championship
+26 Dec 2015,Hull City,Burnley,3,0,W,League Championship
+28 Dec 2015,Burnley,Bristol City,4,0,W,League Championship
+02 Jan 2016,Burnley,Ipswich Town,0,0,D,League Championship
+09 Jan 2016,Middlesbrough,Burnley,1,2,L,FA Cup
+12 Jan 2016,Milton Keynes Dons,Burnley,0,5,L,League Championship
+15 Jan 2016,Brentford,Burnley,1,3,L,League Championship
+25 Jan 2016,Burnley,Derby County,4,1,W,League Championship
+30 Jan 2016,Arsenal,Burnley,2,1,W,FA Cup
+02 Feb 2016,Sheffield Wednesday,Burnley,1,1,D,League Championship
+06 Feb 2016,Burnley,Hull City,1,0,W,League Championship
+13 Feb 2016,Reading,Burnley,0,0,D,League Championship
+20 Feb 2016,Burnley,Rotherham United,2,0,W,League Championship
+23 Feb 2016,Burnley,Nottingham Forest,1,0,W,League Championship
+27 Feb 2016,Bolton Wanderers,Burnley,1,2,L,League Championship
+05 Mar 2016,Burnley,Blackburn Rovers,1,0,W,League Championship
+08 Mar 2016,Fulham,Burnley,2,3,L,League Championship
+12 Mar 2016,Huddersfield Town,Burnley,1,3,L,League Championship
+19 Mar 2016,Burnley,Wolverhampton Wanderers,1,1,D,League Championship
+02 Apr 2016,Brighton and Hove Albion,Burnley,2,2,D,League Championship
+05 Apr 2016,Burnley,Cardiff City,0,0,D,League Championship
+09 Apr 2016,Burnley,Leeds United,1,0,W,League Championship
+16 Apr 2016,Birmingham City,Burnley,1,2,L,League Championship
+19 Apr 2016,Burnley,Middlesbrough,1,1,D,League Championship
+22 Apr 2016,Preston North End,Burnley,0,1,L,League Championship
+02 May 2016,Burnley,Queens Park Rangers,1,0,W,League Championship
+07 May 2016,Charlton Athletic,Burnley,0,3,L,League Championship
+02 Aug 2015,Arsenal,Chelsea,1,0,W,FA Community Shield
+08 Aug 2015,Chelsea,Swansea City,2,2,D,Premier League
+16 Aug 2015,Manchester City,Chelsea,3,0,W,Premier League
+23 Aug 2015,West Bromwich Albion,Chelsea,2,3,L,Premier League
+29 Aug 2015,Chelsea,Crystal Palace,1,2,L,Premier League
+12 Sep 2015,Everton,Chelsea,3,1,W,Premier League
+16 Sep 2015,Chelsea,Maccabi Tel Aviv,4,0,W,UEFA Champions League
+19 Sep 2015,Chelsea,Arsenal,2,0,W,Premier League
+23 Sep 2015,Walsall,Chelsea,1,4,L,League Cup
+26 Sep 2015,Newcastle United,Chelsea,2,2,D,Premier League
+29 Sep 2015,FC Porto,Chelsea,2,1,W,UEFA Champions League
+03 Oct 2015,Chelsea,Southampton,1,3,L,Premier League
+17 Oct 2015,Chelsea,Aston Villa,2,0,W,Premier League
+20 Oct 2015,Dynamo Kiev,Chelsea,0,0,D,UEFA Champions League
+24 Oct 2015,West Ham United,Chelsea,2,1,W,Premier League
+27 Oct 2015,Stoke City,Chelsea,1,1,D,League Cup
+31 Oct 2015,Chelsea,Liverpool,1,3,L,Premier League
+04 Nov 2015,Chelsea,Dynamo Kiev,2,1,W,UEFA Champions League
+07 Nov 2015,Stoke City,Chelsea,1,0,W,Premier League
+21 Nov 2015,Chelsea,Norwich City,1,0,W,Premier League
+24 Nov 2015,Maccabi Tel Aviv,Chelsea,0,4,L,UEFA Champions League
+29 Nov 2015,Tottenham Hotspur,Chelsea,0,0,D,Premier League
+05 Dec 2015,Chelsea,AFC Bournemouth,0,1,L,Premier League
+09 Dec 2015,Chelsea,FC Porto,2,0,W,UEFA Champions League
+14 Dec 2015,Leicester City,Chelsea,2,1,W,Premier League
+19 Dec 2015,Chelsea,Sunderland,3,1,W,Premier League
+26 Dec 2015,Chelsea,Watford,2,2,D,Premier League
+28 Dec 2015,Manchester United,Chelsea,0,0,D,Premier League
+03 Jan 2016,Crystal Palace,Chelsea,0,3,L,Premier League
+10 Jan 2016,Chelsea,Scunthorpe United,2,0,W,FA Cup
+13 Jan 2016,Chelsea,West Bromwich Albion,2,2,D,Premier League
+16 Jan 2016,Chelsea,Everton,3,3,D,Premier League
+24 Jan 2016,Arsenal,Chelsea,0,1,L,Premier League
+31 Jan 2016,Milton Keynes Dons,Chelsea,1,5,L,FA Cup
+03 Feb 2016,Watford,Chelsea,0,0,D,Premier League
+07 Feb 2016,Chelsea,Manchester United,1,1,D,Premier League
+13 Feb 2016,Chelsea,Newcastle United,5,1,W,Premier League
+16 Feb 2016,Paris St Germain,Chelsea,2,1,W,UEFA Champions League
+21 Feb 2016,Chelsea,Manchester City,5,1,W,FA Cup
+27 Feb 2016,Southampton,Chelsea,1,2,L,Premier League
+01 Mar 2016,Norwich City,Chelsea,1,2,L,Premier League
+05 Mar 2016,Chelsea,Stoke City,1,1,D,Premier League
+09 Mar 2016,Chelsea,Paris St Germain,1,2,L,UEFA Champions League
+12 Mar 2016,Everton,Chelsea,2,0,W,FA Cup
+19 Mar 2016,Chelsea,West Ham United,2,2,D,Premier League
+02 Apr 2016,Aston Villa,Chelsea,0,4,L,Premier League
+09 Apr 2016,Swansea City,Chelsea,1,0,W,Premier League
+16 Apr 2016,Chelsea,Manchester City,0,3,L,Premier League
+23 Apr 2016,AFC Bournemouth,Chelsea,1,4,L,Premier League
+02 May 2016,Chelsea,Tottenham Hotspur,2,2,D,Premier League
+07 May 2016,Sunderland,Chelsea,3,2,W,Premier League
+11 May 2016,Liverpool,Chelsea,1,1,D,Premier League
+15 May 2016,Chelsea,Leicester City,1,1,D,Premier League
+08 Aug 2015,Norwich City,Crystal Palace,1,3,L,Premier League
+16 Aug 2015,Crystal Palace,Arsenal,1,2,L,Premier League
+22 Aug 2015,Crystal Palace,Aston Villa,2,1,W,Premier League
+25 Aug 2015,Crystal Palace,Shrewsbury Town,4,1,W,League Cup
+29 Aug 2015,Chelsea,Crystal Palace,1,2,L,Premier League
+12 Sep 2015,Crystal Palace,Manchester City,0,1,L,Premier League
+20 Sep 2015,Tottenham Hotspur,Crystal Palace,1,0,W,Premier League
+23 Sep 2015,Crystal Palace,Charlton Athletic,4,1,W,League Cup
+27 Sep 2015,Watford,Crystal Palace,0,1,L,Premier League
+03 Oct 2015,Crystal Palace,West Bromwich Albion,2,0,W,Premier League
+17 Oct 2015,Crystal Palace,West Ham United,1,3,L,Premier League
+24 Oct 2015,Leicester City,Crystal Palace,1,0,W,Premier League
+28 Oct 2015,Manchester City,Crystal Palace,5,1,W,League Cup
+31 Oct 2015,Crystal Palace,Manchester United,0,0,D,Premier League
+08 Nov 2015,Liverpool,Crystal Palace,1,2,L,Premier League
+23 Nov 2015,Crystal Palace,Sunderland,0,1,L,Premier League
+28 Nov 2015,Crystal Palace,Newcastle United,5,1,W,Premier League
+07 Dec 2015,Everton,Crystal Palace,1,1,D,Premier League
+12 Dec 2015,Crystal Palace,Southampton,1,0,W,Premier League
+19 Dec 2015,Stoke City,Crystal Palace,1,2,L,Premier League
+26 Dec 2015,AFC Bournemouth,Crystal Palace,0,0,D,Premier League
+28 Dec 2015,Crystal Palace,Swansea City,0,0,D,Premier League
+03 Jan 2016,Crystal Palace,Chelsea,0,3,L,Premier League
+09 Jan 2016,Southampton,Crystal Palace,1,2,L,FA Cup
+12 Jan 2016,Aston Villa,Crystal Palace,1,0,W,Premier League
+16 Jan 2016,Manchester City,Crystal Palace,4,0,W,Premier League
+23 Jan 2016,Crystal Palace,Tottenham Hotspur,1,3,L,Premier League
+30 Jan 2016,Crystal Palace,Stoke City,1,0,W,FA Cup
+02 Feb 2016,Crystal Palace,AFC Bournemouth,1,2,L,Premier League
+06 Feb 2016,Swansea City,Crystal Palace,1,1,D,Premier League
+13 Feb 2016,Crystal Palace,Watford,1,2,L,Premier League
+21 Feb 2016,Tottenham Hotspur,Crystal Palace,0,1,L,FA Cup
+27 Feb 2016,West Bromwich Albion,Crystal Palace,3,2,W,Premier League
+01 Mar 2016,Sunderland,Crystal Palace,2,2,D,Premier League
+06 Mar 2016,Crystal Palace,Liverpool,1,2,L,Premier League
+11 Mar 2016,Reading,Crystal Palace,0,2,L,FA Cup
+19 Mar 2016,Crystal Palace,Leicester City,0,1,L,Premier League
+02 Apr 2016,West Ham United,Crystal Palace,2,2,D,Premier League
+09 Apr 2016,Crystal Palace,Norwich City,1,0,W,Premier League
+13 Apr 2016,Crystal Palace,Everton,0,0,D,Premier League
+17 Apr 2016,Arsenal,Crystal Palace,1,1,D,Premier League
+20 Apr 2016,Manchester United,Crystal Palace,2,0,W,Premier League
+24 Apr 2016,Crystal Palace,Watford,2,1,W,FA Cup
+30 Apr 2016,Newcastle United,Crystal Palace,1,0,W,Premier League
+07 May 2016,Crystal Palace,Stoke City,2,1,W,Premier League
+15 May 2016,Southampton,Crystal Palace,4,1,W,Premier League
+21 May 2016,Crystal Palace,Manchester United,1,2,L,FA Cup
+08 Aug 2015,Everton,Watford,2,2,D,Premier League
+15 Aug 2015,Southampton,Everton,0,3,L,Premier League
+23 Aug 2015,Everton,Manchester City,0,2,L,Premier League
+26 Aug 2015,Barnsley,Everton,3,5,L,League Cup
+29 Aug 2015,Tottenham Hotspur,Everton,0,0,D,Premier League
+12 Sep 2015,Everton,Chelsea,3,1,W,Premier League
+19 Sep 2015,Swansea City,Everton,0,0,D,Premier League
+22 Sep 2015,Reading,Everton,1,2,L,League Cup
+28 Sep 2015,West Bromwich Albion,Everton,2,3,L,Premier League
+04 Oct 2015,Everton,Liverpool,1,1,D,Premier League
+17 Oct 2015,Everton,Manchester United,0,3,L,Premier League
+24 Oct 2015,Arsenal,Everton,2,1,W,Premier League
+27 Oct 2015,Everton,Norwich City,1,1,D,League Cup
+01 Nov 2015,Everton,Sunderland,6,2,W,Premier League
+07 Nov 2015,West Ham United,Everton,1,1,D,Premier League
+21 Nov 2015,Everton,Aston Villa,4,0,W,Premier League
+28 Nov 2015,AFC Bournemouth,Everton,3,3,D,Premier League
+01 Dec 2015,Middlesbrough,Everton,0,2,L,League Cup
+07 Dec 2015,Everton,Crystal Palace,1,1,D,Premier League
+12 Dec 2015,Norwich City,Everton,1,1,D,Premier League
+19 Dec 2015,Everton,Leicester City,2,3,L,Premier League
+26 Dec 2015,Newcastle United,Everton,0,1,L,Premier League
+28 Dec 2015,Everton,Stoke City,3,4,L,Premier League
+03 Jan 2016,Everton,Tottenham Hotspur,1,1,D,Premier League
+06 Jan 2016,Everton,Manchester City,2,1,W,League Cup
+09 Jan 2016,Everton,Dagenham and Redbridge,2,0,W,FA Cup
+13 Jan 2016,Manchester City,Everton,0,0,D,Premier League
+16 Jan 2016,Chelsea,Everton,3,3,D,Premier League
+24 Jan 2016,Everton,Swansea City,1,2,L,Premier League
+27 Jan 2016,Manchester City,Everton,3,1,W,League Cup
+31 Jan 2016,Carlisle United,Everton,0,3,L,FA Cup
+03 Feb 2016,Everton,Newcastle United,3,0,W,Premier League
+06 Feb 2016,Stoke City,Everton,0,3,L,Premier League
+13 Feb 2016,Everton,West Bromwich Albion,0,1,L,Premier League
+20 Feb 2016,AFC Bournemouth,Everton,0,2,L,FA Cup
+01 Mar 2016,Aston Villa,Everton,1,3,L,Premier League
+05 Mar 2016,Everton,West Ham United,2,3,L,Premier League
+12 Mar 2016,Everton,Chelsea,2,0,W,FA Cup
+19 Mar 2016,Everton,Arsenal,0,2,L,Premier League
+03 Apr 2016,Manchester United,Everton,1,0,W,Premier League
+09 Apr 2016,Watford,Everton,1,1,D,Premier League
+13 Apr 2016,Crystal Palace,Everton,0,0,D,Premier League
+16 Apr 2016,Everton,Southampton,1,1,D,Premier League
+20 Apr 2016,Liverpool,Everton,4,0,W,Premier League
+23 Apr 2016,Everton,Manchester United,1,2,L,FA Cup
+30 Apr 2016,Everton,AFC Bournemouth,2,1,W,Premier League
+07 May 2016,Leicester City,Everton,3,1,W,Premier League
+11 May 2016,Sunderland,Everton,3,0,W,Premier League
+15 May 2016,Everton,Norwich City,3,0,W,Premier League
+08 Aug 2015,Hull City,Huddersfield Town,2,0,W,League Championship
+11 Aug 2015,Accrington Stanley,Hull City,2,2,D,League Cup
+16 Aug 2015,Wolverhampton Wanderers,Hull City,1,1,D,League Championship
+19 Aug 2015,Hull City,Fulham,2,1,W,League Championship
+22 Aug 2015,Charlton Athletic,Hull City,2,1,W,League Championship
+25 Aug 2015,Hull City,Rochdale,1,0,W,League Cup
+29 Aug 2015,Hull City,Preston North End,2,0,W,League Championship
+12 Sep 2015,Brighton and Hove Albion,Hull City,1,0,W,League Championship
+15 Sep 2015,Cardiff City,Hull City,0,2,L,League Championship
+19 Sep 2015,Hull City,Queens Park Rangers,1,1,D,League Championship
+22 Sep 2015,Hull City,Swansea City,1,0,W,League Cup
+26 Sep 2015,Hull City,Blackburn Rovers,1,1,D,League Championship
+03 Oct 2015,Nottingham Forest,Hull City,0,1,L,League Championship
+17 Oct 2015,Sheffield Wednesday,Hull City,1,1,D,League Championship
+20 Oct 2015,Hull City,Ipswich Town,3,0,W,League Championship
+24 Oct 2015,Hull City,Birmingham City,2,0,W,League Championship
+27 Oct 2015,Hull City,Leicester City,1,1,D,League Cup
+31 Oct 2015,Milton Keynes Dons,Hull City,0,2,L,League Championship
+03 Nov 2015,Brentford,Hull City,0,2,L,League Championship
+07 Nov 2015,Hull City,Middlesbrough,3,0,W,League Championship
+21 Nov 2015,Bristol City,Hull City,1,1,D,League Championship
+27 Nov 2015,Hull City,Derby County,0,2,L,League Championship
+01 Dec 2015,Manchester City,Hull City,4,1,W,League Cup
+05 Dec 2015,Leeds United,Hull City,2,1,W,League Championship
+12 Dec 2015,Hull City,Bolton Wanderers,1,0,W,League Championship
+16 Dec 2015,Hull City,Reading,2,1,W,League Championship
+19 Dec 2015,Rotherham United,Hull City,2,0,W,League Championship
+26 Dec 2015,Hull City,Burnley,3,0,W,League Championship
+28 Dec 2015,Preston North End,Hull City,1,0,W,League Championship
+01 Jan 2016,Queens Park Rangers,Hull City,1,2,L,League Championship
+09 Jan 2016,Hull City,Brighton and Hove Albion,1,0,W,FA Cup
+13 Jan 2016,Hull City,Cardiff City,2,0,W,League Championship
+16 Jan 2016,Hull City,Charlton Athletic,6,0,W,League Championship
+23 Jan 2016,Fulham,Hull City,0,1,L,League Championship
+30 Jan 2016,Bury,Hull City,1,3,L,FA Cup
+06 Feb 2016,Burnley,Hull City,1,0,W,League Championship
+13 Feb 2016,Blackburn Rovers,Hull City,0,2,L,League Championship
+16 Feb 2016,Hull City,Brighton and Hove Albion,0,0,D,League Championship
+20 Feb 2016,Arsenal,Hull City,0,0,D,FA Cup
+23 Feb 2016,Ipswich Town,Hull City,0,1,L,League Championship
+26 Feb 2016,Hull City,Sheffield Wednesday,0,0,D,League Championship
+03 Mar 2016,Birmingham City,Hull City,1,0,W,League Championship
+08 Mar 2016,Hull City,Arsenal,0,4,L,FA Cup
+12 Mar 2016,Hull City,Milton Keynes Dons,1,1,D,League Championship
+15 Mar 2016,Hull City,Nottingham Forest,1,1,D,League Championship
+18 Mar 2016,Middlesbrough,Hull City,1,0,W,League Championship
+02 Apr 2016,Hull City,Bristol City,4,0,W,League Championship
+05 Apr 2016,Derby County,Hull City,4,0,W,League Championship
+09 Apr 2016,Huddersfield Town,Hull City,2,2,D,League Championship
+15 Apr 2016,Hull City,Wolverhampton Wanderers,2,1,W,League Championship
+19 Apr 2016,Reading,Hull City,1,2,L,League Championship
+23 Apr 2016,Hull City,Leeds United,2,2,D,League Championship
+26 Apr 2016,Hull City,Brentford,2,0,W,League Championship
+30 Apr 2016,Bolton Wanderers,Hull City,1,0,W,League Championship
+07 May 2016,Hull City,Rotherham United,5,1,W,League Championship
+14 May 2016,Derby County,Hull City,0,3,L,League Championship Play-Offs
+17 May 2016,Hull City,Derby County,0,2,L,League Championship Play-Offs
+28 May 2016,Hull City,Sheffield Wednesday,1,0,W,League Championship Play-Offs
+08 Aug 2015,Leicester City,Sunderland,4,2,W,Premier League
+15 Aug 2015,West Ham United,Leicester City,1,2,L,Premier League
+22 Aug 2015,Leicester City,Tottenham Hotspur,1,1,D,Premier League
+25 Aug 2015,Bury,Leicester City,1,4,L,League Cup
+29 Aug 2015,AFC Bournemouth,Leicester City,1,1,D,Premier League
+13 Sep 2015,Leicester City,Aston Villa,3,2,W,Premier League
+19 Sep 2015,Stoke City,Leicester City,2,2,D,Premier League
+22 Sep 2015,Leicester City,West Ham United,2,1,W,League Cup
+26 Sep 2015,Leicester City,Arsenal,2,5,L,Premier League
+03 Oct 2015,Norwich City,Leicester City,1,2,L,Premier League
+17 Oct 2015,Southampton,Leicester City,2,2,D,Premier League
+24 Oct 2015,Leicester City,Crystal Palace,1,0,W,Premier League
+27 Oct 2015,Hull City,Leicester City,1,1,D,League Cup
+31 Oct 2015,West Bromwich Albion,Leicester City,2,3,L,Premier League
+07 Nov 2015,Leicester City,Watford,2,1,W,Premier League
+21 Nov 2015,Newcastle United,Leicester City,0,3,L,Premier League
+28 Nov 2015,Leicester City,Manchester United,1,1,D,Premier League
+05 Dec 2015,Swansea City,Leicester City,0,3,L,Premier League
+14 Dec 2015,Leicester City,Chelsea,2,1,W,Premier League
+19 Dec 2015,Everton,Leicester City,2,3,L,Premier League
+26 Dec 2015,Liverpool,Leicester City,1,0,W,Premier League
+29 Dec 2015,Leicester City,Manchester City,0,0,D,Premier League
+02 Jan 2016,Leicester City,AFC Bournemouth,0,0,D,Premier League
+10 Jan 2016,Tottenham Hotspur,Leicester City,2,2,D,FA Cup
+13 Jan 2016,Tottenham Hotspur,Leicester City,0,1,L,Premier League
+16 Jan 2016,Aston Villa,Leicester City,1,1,D,Premier League
+20 Jan 2016,Leicester City,Tottenham Hotspur,0,2,L,FA Cup
+23 Jan 2016,Leicester City,Stoke City,3,0,W,Premier League
+02 Feb 2016,Leicester City,Liverpool,2,0,W,Premier League
+06 Feb 2016,Manchester City,Leicester City,1,3,L,Premier League
+14 Feb 2016,Arsenal,Leicester City,2,1,W,Premier League
+27 Feb 2016,Leicester City,Norwich City,1,0,W,Premier League
+01 Mar 2016,Leicester City,West Bromwich Albion,2,2,D,Premier League
+05 Mar 2016,Watford,Leicester City,0,1,L,Premier League
+14 Mar 2016,Leicester City,Newcastle United,1,0,W,Premier League
+19 Mar 2016,Crystal Palace,Leicester City,0,1,L,Premier League
+03 Apr 2016,Leicester City,Southampton,1,0,W,Premier League
+10 Apr 2016,Sunderland,Leicester City,0,2,L,Premier League
+17 Apr 2016,Leicester City,West Ham United,2,2,D,Premier League
+24 Apr 2016,Leicester City,Swansea City,4,0,W,Premier League
+01 May 2016,Manchester United,Leicester City,1,1,D,Premier League
+07 May 2016,Leicester City,Everton,3,1,W,Premier League
+15 May 2016,Chelsea,Leicester City,1,1,D,Premier League
+09 Aug 2015,Stoke City,Liverpool,0,1,L,Premier League
+17 Aug 2015,Liverpool,AFC Bournemouth,1,0,W,Premier League
+24 Aug 2015,Arsenal,Liverpool,0,0,D,Premier League
+29 Aug 2015,Liverpool,West Ham United,0,3,L,Premier League
+12 Sep 2015,Manchester United,Liverpool,3,1,W,Premier League
+17 Sep 2015,Bordeaux,Liverpool,1,1,D,UEFA Europa League
+20 Sep 2015,Liverpool,Norwich City,1,1,D,Premier League
+23 Sep 2015,Liverpool,Carlisle United,1,1,D,League Cup
+26 Sep 2015,Liverpool,Aston Villa,3,2,W,Premier League
+01 Oct 2015,Liverpool,FC Sion,1,1,D,UEFA Europa League
+04 Oct 2015,Everton,Liverpool,1,1,D,Premier League
+17 Oct 2015,Tottenham Hotspur,Liverpool,0,0,D,Premier League
+22 Oct 2015,Liverpool,Rubin Kazan,1,1,D,UEFA Europa League
+25 Oct 2015,Liverpool,Southampton,1,1,D,Premier League
+28 Oct 2015,Liverpool,AFC Bournemouth,1,0,W,League Cup
+31 Oct 2015,Chelsea,Liverpool,1,3,L,Premier League
+05 Nov 2015,Rubin Kazan,Liverpool,0,1,L,UEFA Europa League
+08 Nov 2015,Liverpool,Crystal Palace,1,2,L,Premier League
+21 Nov 2015,Manchester City,Liverpool,1,4,L,Premier League
+26 Nov 2015,Liverpool,Bordeaux,2,1,W,UEFA Europa League
+29 Nov 2015,Liverpool,Swansea City,1,0,W,Premier League
+02 Dec 2015,Southampton,Liverpool,1,6,L,League Cup
+06 Dec 2015,Newcastle United,Liverpool,2,0,W,Premier League
+10 Dec 2015,FC Sion,Liverpool,0,0,D,UEFA Europa League
+13 Dec 2015,Liverpool,West Bromwich Albion,2,2,D,Premier League
+20 Dec 2015,Watford,Liverpool,3,0,W,Premier League
+26 Dec 2015,Liverpool,Leicester City,1,0,W,Premier League
+30 Dec 2015,Sunderland,Liverpool,0,1,L,Premier League
+02 Jan 2016,West Ham United,Liverpool,2,0,W,Premier League
+05 Jan 2016,Stoke City,Liverpool,0,1,L,League Cup
+08 Jan 2016,Exeter City,Liverpool,2,2,D,FA Cup
+13 Jan 2016,Liverpool,Arsenal,3,3,D,Premier League
+17 Jan 2016,Liverpool,Manchester United,0,1,L,Premier League
+20 Jan 2016,Liverpool,Exeter City,3,0,W,FA Cup
+23 Jan 2016,Norwich City,Liverpool,4,5,L,Premier League
+26 Jan 2016,Liverpool,Stoke City,0,1,L,League Cup
+30 Jan 2016,Liverpool,West Ham United,0,0,D,FA Cup
+02 Feb 2016,Leicester City,Liverpool,2,0,W,Premier League
+06 Feb 2016,Liverpool,Sunderland,2,2,D,Premier League
+09 Feb 2016,West Ham United,Liverpool,2,1,W,FA Cup
+14 Feb 2016,Aston Villa,Liverpool,0,6,L,Premier League
+18 Feb 2016,FC Augsburg,Liverpool,0,0,D,UEFA Europa League
+25 Feb 2016,Liverpool,FC Augsburg,1,0,W,UEFA Europa League
+28 Feb 2016,Liverpool,Manchester City,1,1,D,League Cup
+02 Mar 2016,Liverpool,Manchester City,3,0,W,Premier League
+06 Mar 2016,Crystal Palace,Liverpool,1,2,L,Premier League
+10 Mar 2016,Liverpool,Manchester United,2,0,W,UEFA Europa League
+17 Mar 2016,Manchester United,Liverpool,1,1,D,UEFA Europa League
+20 Mar 2016,Southampton,Liverpool,3,2,W,Premier League
+02 Apr 2016,Liverpool,Tottenham Hotspur,1,1,D,Premier League
+07 Apr 2016,Borussia Dortmund,Liverpool,1,1,D,UEFA Europa League
+10 Apr 2016,Liverpool,Stoke City,4,1,W,Premier League
+14 Apr 2016,Liverpool,Borussia Dortmund,4,3,W,UEFA Europa League
+17 Apr 2016,AFC Bournemouth,Liverpool,1,2,L,Premier League
+20 Apr 2016,Liverpool,Everton,4,0,W,Premier League
+23 Apr 2016,Liverpool,Newcastle United,2,2,D,Premier League
+28 Apr 2016,Villarreal,Liverpool,1,0,W,UEFA Europa League
+01 May 2016,Swansea City,Liverpool,3,1,W,Premier League
+05 May 2016,Liverpool,Villarreal,3,0,W,UEFA Europa League
+08 May 2016,Liverpool,Watford,2,0,W,Premier League
+11 May 2016,Liverpool,Chelsea,1,1,D,Premier League
+15 May 2016,West Bromwich Albion,Liverpool,1,1,D,Premier League
+18 May 2016,Liverpool,Sevilla,1,3,L,UEFA Europa League
+10 Aug 2015,West Bromwich Albion,Manchester City,0,3,L,Premier League
+16 Aug 2015,Manchester City,Chelsea,3,0,W,Premier League
+23 Aug 2015,Everton,Manchester City,0,2,L,Premier League
+29 Aug 2015,Manchester City,Watford,2,0,W,Premier League
+12 Sep 2015,Crystal Palace,Manchester City,0,1,L,Premier League
+15 Sep 2015,Manchester City,Juventus,1,2,L,UEFA Champions League
+19 Sep 2015,Manchester City,West Ham United,1,2,L,Premier League
+22 Sep 2015,Sunderland,Manchester City,1,4,L,League Cup
+26 Sep 2015,Tottenham Hotspur,Manchester City,4,1,W,Premier League
+30 Sep 2015,Borussia Monchengladbach,Manchester City,1,2,L,UEFA Champions League
+03 Oct 2015,Manchester City,Newcastle United,6,1,W,Premier League
+17 Oct 2015,Manchester City,AFC Bournemouth,5,1,W,Premier League
+21 Oct 2015,Manchester City,Sevilla,2,1,W,UEFA Champions League
+25 Oct 2015,Manchester United,Manchester City,0,0,D,Premier League
+28 Oct 2015,Manchester City,Crystal Palace,5,1,W,League Cup
+31 Oct 2015,Manchester City,Norwich City,2,1,W,Premier League
+03 Nov 2015,Sevilla,Manchester City,1,3,L,UEFA Champions League
+08 Nov 2015,Aston Villa,Manchester City,0,0,D,Premier League
+21 Nov 2015,Manchester City,Liverpool,1,4,L,Premier League
+25 Nov 2015,Juventus,Manchester City,1,0,W,UEFA Champions League
+28 Nov 2015,Manchester City,Southampton,3,1,W,Premier League
+01 Dec 2015,Manchester City,Hull City,4,1,W,League Cup
+05 Dec 2015,Stoke City,Manchester City,2,0,W,Premier League
+08 Dec 2015,Manchester City,Borussia Monchengladbach,4,2,W,UEFA Champions League
+12 Dec 2015,Manchester City,Swansea City,2,1,W,Premier League
+21 Dec 2015,Arsenal,Manchester City,2,1,W,Premier League
+26 Dec 2015,Manchester City,Sunderland,4,1,W,Premier League
+29 Dec 2015,Leicester City,Manchester City,0,0,D,Premier League
+02 Jan 2016,Watford,Manchester City,1,2,L,Premier League
+06 Jan 2016,Everton,Manchester City,2,1,W,League Cup
+09 Jan 2016,Norwich City,Manchester City,0,3,L,FA Cup
+13 Jan 2016,Manchester City,Everton,0,0,D,Premier League
+16 Jan 2016,Manchester City,Crystal Palace,4,0,W,Premier League
+23 Jan 2016,West Ham United,Manchester City,2,2,D,Premier League
+27 Jan 2016,Manchester City,Everton,3,1,W,League Cup
+30 Jan 2016,Aston Villa,Manchester City,0,4,L,FA Cup
+02 Feb 2016,Sunderland,Manchester City,0,1,L,Premier League
+06 Feb 2016,Manchester City,Leicester City,1,3,L,Premier League
+14 Feb 2016,Manchester City,Tottenham Hotspur,1,2,L,Premier League
+21 Feb 2016,Chelsea,Manchester City,5,1,W,FA Cup
+24 Feb 2016,Dynamo Kiev,Manchester City,1,3,L,UEFA Champions League
+28 Feb 2016,Liverpool,Manchester City,1,1,D,League Cup
+02 Mar 2016,Liverpool,Manchester City,3,0,W,Premier League
+05 Mar 2016,Manchester City,Aston Villa,4,0,W,Premier League
+12 Mar 2016,Norwich City,Manchester City,0,0,D,Premier League
+15 Mar 2016,Manchester City,Dynamo Kiev,0,0,D,UEFA Champions League
+20 Mar 2016,Manchester City,Manchester United,0,1,L,Premier League
+02 Apr 2016,AFC Bournemouth,Manchester City,0,4,L,Premier League
+06 Apr 2016,Paris St Germain,Manchester City,2,2,D,UEFA Champions League
+09 Apr 2016,Manchester City,West Bromwich Albion,2,1,W,Premier League
+12 Apr 2016,Manchester City,Paris St Germain,1,0,W,UEFA Champions League
+16 Apr 2016,Chelsea,Manchester City,0,3,L,Premier League
+19 Apr 2016,Newcastle United,Manchester City,1,1,D,Premier League
+23 Apr 2016,Manchester City,Stoke City,4,0,W,Premier League
+26 Apr 2016,Manchester City,Real Madrid,0,0,D,UEFA Champions League
+01 May 2016,Southampton,Manchester City,4,2,W,Premier League
+04 May 2016,Real Madrid,Manchester City,1,0,W,UEFA Champions League
+08 May 2016,Manchester City,Arsenal,2,2,D,Premier League
+15 May 2016,Swansea City,Manchester City,1,1,D,Premier League
+08 Aug 2015,Manchester United,Tottenham Hotspur,1,0,W,Premier League
+14 Aug 2015,Aston Villa,Manchester United,0,1,L,Premier League
+18 Aug 2015,Manchester United,Club Brugge,3,1,W,UEFA Champions League
+22 Aug 2015,Manchester United,Newcastle United,0,0,D,Premier League
+26 Aug 2015,Club Brugge,Manchester United,0,4,L,UEFA Champions League
+30 Aug 2015,Swansea City,Manchester United,2,1,W,Premier League
+12 Sep 2015,Manchester United,Liverpool,3,1,W,Premier League
+15 Sep 2015,PSV Eindhoven,Manchester United,2,1,W,UEFA Champions League
+20 Sep 2015,Southampton,Manchester United,2,3,L,Premier League
+23 Sep 2015,Manchester United,Ipswich Town,3,0,W,League Cup
+26 Sep 2015,Manchester United,Sunderland,3,0,W,Premier League
+30 Sep 2015,Manchester United,VfL Wolfsburg,2,1,W,UEFA Champions League
+04 Oct 2015,Arsenal,Manchester United,3,0,W,Premier League
+17 Oct 2015,Everton,Manchester United,0,3,L,Premier League
+21 Oct 2015,CSKA Moskva,Manchester United,1,1,D,UEFA Champions League
+25 Oct 2015,Manchester United,Manchester City,0,0,D,Premier League
+28 Oct 2015,Manchester United,Middlesbrough,0,0,D,League Cup
+31 Oct 2015,Crystal Palace,Manchester United,0,0,D,Premier League
+03 Nov 2015,Manchester United,CSKA Moskva,1,0,W,UEFA Champions League
+07 Nov 2015,Manchester United,West Bromwich Albion,2,0,W,Premier League
+21 Nov 2015,Watford,Manchester United,1,2,L,Premier League
+25 Nov 2015,Manchester United,PSV Eindhoven,0,0,D,UEFA Champions League
+28 Nov 2015,Leicester City,Manchester United,1,1,D,Premier League
+05 Dec 2015,Manchester United,West Ham United,0,0,D,Premier League
+08 Dec 2015,VfL Wolfsburg,Manchester United,3,2,W,UEFA Champions League
+12 Dec 2015,AFC Bournemouth,Manchester United,2,1,W,Premier League
+19 Dec 2015,Manchester United,Norwich City,1,2,L,Premier League
+26 Dec 2015,Stoke City,Manchester United,2,0,W,Premier League
+28 Dec 2015,Manchester United,Chelsea,0,0,D,Premier League
+02 Jan 2016,Manchester United,Swansea City,2,1,W,Premier League
+09 Jan 2016,Manchester United,Sheffield United,1,0,W,FA Cup
+12 Jan 2016,Newcastle United,Manchester United,3,3,D,Premier League
+17 Jan 2016,Liverpool,Manchester United,0,1,L,Premier League
+23 Jan 2016,Manchester United,Southampton,0,1,L,Premier League
+29 Jan 2016,Derby County,Manchester United,1,3,L,FA Cup
+02 Feb 2016,Manchester United,Stoke City,3,0,W,Premier League
+07 Feb 2016,Chelsea,Manchester United,1,1,D,Premier League
+13 Feb 2016,Sunderland,Manchester United,2,1,W,Premier League
+18 Feb 2016,FC Midtjylland,Manchester United,2,1,W,UEFA Europa League
+22 Feb 2016,Shrewsbury Town,Manchester United,0,3,L,FA Cup
+25 Feb 2016,Manchester United,FC Midtjylland,5,1,W,UEFA Europa League
+28 Feb 2016,Manchester United,Arsenal,3,2,W,Premier League
+02 Mar 2016,Manchester United,Watford,1,0,W,Premier League
+06 Mar 2016,West Bromwich Albion,Manchester United,1,0,W,Premier League
+10 Mar 2016,Liverpool,Manchester United,2,0,W,UEFA Europa League
+13 Mar 2016,Manchester United,West Ham United,1,1,D,FA Cup
+17 Mar 2016,Manchester United,Liverpool,1,1,D,UEFA Europa League
+20 Mar 2016,Manchester City,Manchester United,0,1,L,Premier League
+03 Apr 2016,Manchester United,Everton,1,0,W,Premier League
+10 Apr 2016,Tottenham Hotspur,Manchester United,3,0,W,Premier League
+13 Apr 2016,West Ham United,Manchester United,1,2,L,FA Cup
+16 Apr 2016,Manchester United,Aston Villa,1,0,W,Premier League
+20 Apr 2016,Manchester United,Crystal Palace,2,0,W,Premier League
+23 Apr 2016,Everton,Manchester United,1,2,L,FA Cup
+01 May 2016,Manchester United,Leicester City,1,1,D,Premier League
+07 May 2016,Norwich City,Manchester United,0,1,L,Premier League
+10 May 2016,West Ham United,Manchester United,3,2,W,Premier League
+17 May 2016,Manchester United,AFC Bournemouth,3,1,W,Premier League
+21 May 2016,Crystal Palace,Manchester United,1,2,L,FA Cup
+09 Aug 2015,Preston North End,Middlesbrough,0,0,D,League Championship
+12 Aug 2015,Oldham Athletic,Middlesbrough,1,3,L,League Cup
+15 Aug 2015,Middlesbrough,Bolton Wanderers,3,0,W,League Championship
+18 Aug 2015,Derby County,Middlesbrough,1,1,D,League Championship
+22 Aug 2015,Middlesbrough,Bristol City,0,1,L,League Championship
+25 Aug 2015,Burton Albion,Middlesbrough,1,2,L,League Cup
+29 Aug 2015,Sheffield Wednesday,Middlesbrough,1,3,L,League Championship
+12 Sep 2015,Middlesbrough,Milton Keynes Dons,2,0,W,League Championship
+15 Sep 2015,Middlesbrough,Brentford,3,1,W,League Championship
+19 Sep 2015,Nottingham Forest,Middlesbrough,1,2,L,League Championship
+22 Sep 2015,Middlesbrough,Wolverhampton Wanderers,3,0,W,League Cup
+27 Sep 2015,Middlesbrough,Leeds United,3,0,W,League Championship
+03 Oct 2015,Reading,Middlesbrough,2,0,W,League Championship
+17 Oct 2015,Middlesbrough,Fulham,0,0,D,League Championship
+20 Oct 2015,Cardiff City,Middlesbrough,1,0,W,League Championship
+24 Oct 2015,Wolverhampton Wanderers,Middlesbrough,1,3,L,League Championship
+28 Oct 2015,Manchester United,Middlesbrough,0,0,D,League Cup
+31 Oct 2015,Middlesbrough,Charlton Athletic,3,0,W,League Championship
+03 Nov 2015,Middlesbrough,Rotherham United,1,0,W,League Championship
+07 Nov 2015,Hull City,Middlesbrough,3,0,W,League Championship
+20 Nov 2015,Middlesbrough,Queens Park Rangers,1,0,W,League Championship
+28 Nov 2015,Huddersfield Town,Middlesbrough,0,2,L,League Championship
+01 Dec 2015,Middlesbrough,Everton,0,2,L,League Cup
+04 Dec 2015,Ipswich Town,Middlesbrough,0,2,L,League Championship
+12 Dec 2015,Middlesbrough,Birmingham City,0,0,D,League Championship
+15 Dec 2015,Middlesbrough,Burnley,1,0,W,League Championship
+19 Dec 2015,Brighton and Hove Albion,Middlesbrough,0,3,L,League Championship
+28 Dec 2015,Middlesbrough,Sheffield Wednesday,1,0,W,League Championship
+02 Jan 2016,Middlesbrough,Derby County,2,0,W,League Championship
+09 Jan 2016,Middlesbrough,Burnley,1,2,L,FA Cup
+12 Jan 2016,Brentford,Middlesbrough,0,1,L,League Championship
+16 Jan 2016,Bristol City,Middlesbrough,1,0,W,League Championship
+23 Jan 2016,Middlesbrough,Nottingham Forest,0,1,L,League Championship
+06 Feb 2016,Middlesbrough,Blackburn Rovers,1,1,D,League Championship
+09 Feb 2016,Milton Keynes Dons,Middlesbrough,1,1,D,League Championship
+15 Feb 2016,Leeds United,Middlesbrough,0,0,D,League Championship
+23 Feb 2016,Middlesbrough,Cardiff City,3,1,W,League Championship
+27 Feb 2016,Fulham,Middlesbrough,0,2,L,League Championship
+01 Mar 2016,Blackburn Rovers,Middlesbrough,2,1,W,League Championship
+04 Mar 2016,Middlesbrough,Wolverhampton Wanderers,2,1,W,League Championship
+08 Mar 2016,Rotherham United,Middlesbrough,1,0,W,League Championship
+13 Mar 2016,Charlton Athletic,Middlesbrough,2,0,W,League Championship
+18 Mar 2016,Middlesbrough,Hull City,1,0,W,League Championship
+01 Apr 2016,Queens Park Rangers,Middlesbrough,2,3,L,League Championship
+05 Apr 2016,Middlesbrough,Huddersfield Town,3,0,W,League Championship
+09 Apr 2016,Middlesbrough,Preston North End,1,0,W,League Championship
+12 Apr 2016,Middlesbrough,Reading,2,1,W,League Championship
+16 Apr 2016,Bolton Wanderers,Middlesbrough,1,2,L,League Championship
+19 Apr 2016,Burnley,Middlesbrough,1,1,D,League Championship
+23 Apr 2016,Middlesbrough,Ipswich Town,0,0,D,League Championship
+29 Apr 2016,Birmingham City,Middlesbrough,2,2,D,League Championship
+07 May 2016,Middlesbrough,Brighton and Hove Albion,1,1,D,League Championship
+30 Jul 2015,Southampton,Vitesse Arnhem,3,0,W,UEFA Europa League
+06 Aug 2015,Vitesse Arnhem,Southampton,0,2,L,UEFA Europa League
+09 Aug 2015,Newcastle United,Southampton,2,2,D,Premier League
+15 Aug 2015,Southampton,Everton,0,3,L,Premier League
+20 Aug 2015,Southampton,FC Midtjylland,1,1,D,UEFA Europa League
+23 Aug 2015,Watford,Southampton,0,0,D,Premier League
+27 Aug 2015,FC Midtjylland,Southampton,1,0,W,UEFA Europa League
+30 Aug 2015,Southampton,Norwich City,3,0,W,Premier League
+12 Sep 2015,West Bromwich Albion,Southampton,0,0,D,Premier League
+20 Sep 2015,Southampton,Manchester United,2,3,L,Premier League
+23 Sep 2015,Milton Keynes Dons,Southampton,0,6,L,League Cup
+26 Sep 2015,Southampton,Swansea City,3,1,W,Premier League
+03 Oct 2015,Chelsea,Southampton,1,3,L,Premier League
+17 Oct 2015,Southampton,Leicester City,2,2,D,Premier League
+25 Oct 2015,Liverpool,Southampton,1,1,D,Premier League
+28 Oct 2015,Southampton,Aston Villa,2,1,W,League Cup
+01 Nov 2015,Southampton,AFC Bournemouth,2,0,W,Premier League
+07 Nov 2015,Sunderland,Southampton,0,1,L,Premier League
+21 Nov 2015,Southampton,Stoke City,0,1,L,Premier League
+28 Nov 2015,Manchester City,Southampton,3,1,W,Premier League
+02 Dec 2015,Southampton,Liverpool,1,6,L,League Cup
+05 Dec 2015,Southampton,Aston Villa,1,1,D,Premier League
+12 Dec 2015,Crystal Palace,Southampton,1,0,W,Premier League
+19 Dec 2015,Southampton,Tottenham Hotspur,0,2,L,Premier League
+26 Dec 2015,Southampton,Arsenal,4,0,W,Premier League
+28 Dec 2015,West Ham United,Southampton,2,1,W,Premier League
+02 Jan 2016,Norwich City,Southampton,1,0,W,Premier League
+09 Jan 2016,Southampton,Crystal Palace,1,2,L,FA Cup
+13 Jan 2016,Southampton,Watford,2,0,W,Premier League
+16 Jan 2016,Southampton,West Bromwich Albion,3,0,W,Premier League
+23 Jan 2016,Manchester United,Southampton,0,1,L,Premier League
+02 Feb 2016,Arsenal,Southampton,0,0,D,Premier League
+06 Feb 2016,Southampton,West Ham United,1,0,W,Premier League
+13 Feb 2016,Swansea City,Southampton,0,1,L,Premier League
+27 Feb 2016,Southampton,Chelsea,1,2,L,Premier League
+01 Mar 2016,AFC Bournemouth,Southampton,2,0,W,Premier League
+05 Mar 2016,Southampton,Sunderland,1,1,D,Premier League
+12 Mar 2016,Stoke City,Southampton,1,2,L,Premier League
+20 Mar 2016,Southampton,Liverpool,3,2,W,Premier League
+03 Apr 2016,Leicester City,Southampton,1,0,W,Premier League
+09 Apr 2016,Southampton,Newcastle United,3,1,W,Premier League
+16 Apr 2016,Everton,Southampton,1,1,D,Premier League
+23 Apr 2016,Aston Villa,Southampton,2,4,L,Premier League
+01 May 2016,Southampton,Manchester City,4,2,W,Premier League
+08 May 2016,Tottenham Hotspur,Southampton,1,2,L,Premier League
+15 May 2016,Southampton,Crystal Palace,4,1,W,Premier League
+09 Aug 2015,Stoke City,Liverpool,0,1,L,Premier League
+15 Aug 2015,Tottenham Hotspur,Stoke City,2,2,D,Premier League
+22 Aug 2015,Norwich City,Stoke City,1,1,D,Premier League
+25 Aug 2015,Luton Town,Stoke City,1,1,D,League Cup
+29 Aug 2015,Stoke City,West Bromwich Albion,0,1,L,Premier League
+12 Sep 2015,Arsenal,Stoke City,2,0,W,Premier League
+19 Sep 2015,Stoke City,Leicester City,2,2,D,Premier League
+22 Sep 2015,Fulham,Stoke City,0,1,L,League Cup
+26 Sep 2015,Stoke City,AFC Bournemouth,2,1,W,Premier League
+03 Oct 2015,Aston Villa,Stoke City,0,1,L,Premier League
+19 Oct 2015,Swansea City,Stoke City,0,1,L,Premier League
+24 Oct 2015,Stoke City,Watford,0,2,L,Premier League
+27 Oct 2015,Stoke City,Chelsea,1,1,D,League Cup
+31 Oct 2015,Newcastle United,Stoke City,0,0,D,Premier League
+07 Nov 2015,Stoke City,Chelsea,1,0,W,Premier League
+21 Nov 2015,Southampton,Stoke City,0,1,L,Premier League
+28 Nov 2015,Sunderland,Stoke City,2,0,W,Premier League
+01 Dec 2015,Stoke City,Sheffield Wednesday,2,0,W,League Cup
+05 Dec 2015,Stoke City,Manchester City,2,0,W,Premier League
+12 Dec 2015,West Ham United,Stoke City,0,0,D,Premier League
+19 Dec 2015,Stoke City,Crystal Palace,1,2,L,Premier League
+26 Dec 2015,Stoke City,Manchester United,2,0,W,Premier League
+28 Dec 2015,Everton,Stoke City,3,4,L,Premier League
+02 Jan 2016,West Bromwich Albion,Stoke City,2,1,W,Premier League
+05 Jan 2016,Stoke City,Liverpool,0,1,L,League Cup
+09 Jan 2016,Doncaster Rovers,Stoke City,1,2,L,FA Cup
+13 Jan 2016,Stoke City,Norwich City,3,1,W,Premier League
+17 Jan 2016,Stoke City,Arsenal,0,0,D,Premier League
+23 Jan 2016,Leicester City,Stoke City,3,0,W,Premier League
+26 Jan 2016,Liverpool,Stoke City,0,1,L,League Cup
+30 Jan 2016,Crystal Palace,Stoke City,1,0,W,FA Cup
+02 Feb 2016,Manchester United,Stoke City,3,0,W,Premier League
+06 Feb 2016,Stoke City,Everton,0,3,L,Premier League
+13 Feb 2016,AFC Bournemouth,Stoke City,1,3,L,Premier League
+27 Feb 2016,Stoke City,Aston Villa,2,1,W,Premier League
+02 Mar 2016,Stoke City,Newcastle United,1,0,W,Premier League
+05 Mar 2016,Chelsea,Stoke City,1,1,D,Premier League
+12 Mar 2016,Stoke City,Southampton,1,2,L,Premier League
+19 Mar 2016,Watford,Stoke City,1,2,L,Premier League
+02 Apr 2016,Stoke City,Swansea City,2,2,D,Premier League
+10 Apr 2016,Liverpool,Stoke City,4,1,W,Premier League
+18 Apr 2016,Stoke City,Tottenham Hotspur,0,4,L,Premier League
+23 Apr 2016,Manchester City,Stoke City,4,0,W,Premier League
+30 Apr 2016,Stoke City,Sunderland,1,1,D,Premier League
+07 May 2016,Crystal Palace,Stoke City,2,1,W,Premier League
+15 May 2016,Stoke City,West Ham United,2,1,W,Premier League
+08 Aug 2015,Leicester City,Sunderland,4,2,W,Premier League
+15 Aug 2015,Sunderland,Norwich City,1,3,L,Premier League
+22 Aug 2015,Sunderland,Swansea City,1,1,D,Premier League
+25 Aug 2015,Sunderland,Exeter City,6,3,W,League Cup
+29 Aug 2015,Aston Villa,Sunderland,2,2,D,Premier League
+13 Sep 2015,Sunderland,Tottenham Hotspur,0,1,L,Premier League
+19 Sep 2015,AFC Bournemouth,Sunderland,2,0,W,Premier League
+22 Sep 2015,Sunderland,Manchester City,1,4,L,League Cup
+26 Sep 2015,Manchester United,Sunderland,3,0,W,Premier League
+03 Oct 2015,Sunderland,West Ham United,2,2,D,Premier League
+17 Oct 2015,West Bromwich Albion,Sunderland,1,0,W,Premier League
+25 Oct 2015,Sunderland,Newcastle United,3,0,W,Premier League
+01 Nov 2015,Everton,Sunderland,6,2,W,Premier League
+07 Nov 2015,Sunderland,Southampton,0,1,L,Premier League
+23 Nov 2015,Crystal Palace,Sunderland,0,1,L,Premier League
+28 Nov 2015,Sunderland,Stoke City,2,0,W,Premier League
+05 Dec 2015,Arsenal,Sunderland,3,1,W,Premier League
+12 Dec 2015,Sunderland,Watford,0,1,L,Premier League
+19 Dec 2015,Chelsea,Sunderland,3,1,W,Premier League
+26 Dec 2015,Manchester City,Sunderland,4,1,W,Premier League
+30 Dec 2015,Sunderland,Liverpool,0,1,L,Premier League
+02 Jan 2016,Sunderland,Aston Villa,3,1,W,Premier League
+09 Jan 2016,Arsenal,Sunderland,3,1,W,FA Cup
+13 Jan 2016,Swansea City,Sunderland,2,4,L,Premier League
+16 Jan 2016,Tottenham Hotspur,Sunderland,4,1,W,Premier League
+23 Jan 2016,Sunderland,AFC Bournemouth,1,1,D,Premier League
+02 Feb 2016,Sunderland,Manchester City,0,1,L,Premier League
+06 Feb 2016,Liverpool,Sunderland,2,2,D,Premier League
+13 Feb 2016,Sunderland,Manchester United,2,1,W,Premier League
+27 Feb 2016,West Ham United,Sunderland,1,0,W,Premier League
+01 Mar 2016,Sunderland,Crystal Palace,2,2,D,Premier League
+05 Mar 2016,Southampton,Sunderland,1,1,D,Premier League
+20 Mar 2016,Newcastle United,Sunderland,1,1,D,Premier League
+02 Apr 2016,Sunderland,West Bromwich Albion,0,0,D,Premier League
+10 Apr 2016,Sunderland,Leicester City,0,2,L,Premier League
+16 Apr 2016,Norwich City,Sunderland,0,3,L,Premier League
+24 Apr 2016,Sunderland,Arsenal,0,0,D,Premier League
+30 Apr 2016,Stoke City,Sunderland,1,1,D,Premier League
+07 May 2016,Sunderland,Chelsea,3,2,W,Premier League
+11 May 2016,Sunderland,Everton,3,0,W,Premier League
+15 May 2016,Watford,Sunderland,2,2,D,Premier League
+08 Aug 2015,Chelsea,Swansea City,2,2,D,Premier League
+15 Aug 2015,Swansea City,Newcastle United,2,0,W,Premier League
+22 Aug 2015,Sunderland,Swansea City,1,1,D,Premier League
+25 Aug 2015,Swansea City,York City,3,0,W,League Cup
+30 Aug 2015,Swansea City,Manchester United,2,1,W,Premier League
+12 Sep 2015,Watford,Swansea City,1,0,W,Premier League
+19 Sep 2015,Swansea City,Everton,0,0,D,Premier League
+22 Sep 2015,Hull City,Swansea City,1,0,W,League Cup
+26 Sep 2015,Southampton,Swansea City,3,1,W,Premier League
+04 Oct 2015,Swansea City,Tottenham Hotspur,2,2,D,Premier League
+19 Oct 2015,Swansea City,Stoke City,0,1,L,Premier League
+24 Oct 2015,Aston Villa,Swansea City,1,2,L,Premier League
+31 Oct 2015,Swansea City,Arsenal,0,3,L,Premier League
+07 Nov 2015,Norwich City,Swansea City,1,0,W,Premier League
+21 Nov 2015,Swansea City,AFC Bournemouth,2,2,D,Premier League
+29 Nov 2015,Liverpool,Swansea City,1,0,W,Premier League
+05 Dec 2015,Swansea City,Leicester City,0,3,L,Premier League
+12 Dec 2015,Manchester City,Swansea City,2,1,W,Premier League
+20 Dec 2015,Swansea City,West Ham United,0,0,D,Premier League
+26 Dec 2015,Swansea City,West Bromwich Albion,1,0,W,Premier League
+28 Dec 2015,Crystal Palace,Swansea City,0,0,D,Premier League
+02 Jan 2016,Manchester United,Swansea City,2,1,W,Premier League
+10 Jan 2016,Oxford United,Swansea City,3,2,W,FA Cup
+13 Jan 2016,Swansea City,Sunderland,2,4,L,Premier League
+18 Jan 2016,Swansea City,Watford,1,0,W,Premier League
+24 Jan 2016,Everton,Swansea City,1,2,L,Premier League
+02 Feb 2016,West Bromwich Albion,Swansea City,1,1,D,Premier League
+06 Feb 2016,Swansea City,Crystal Palace,1,1,D,Premier League
+13 Feb 2016,Swansea City,Southampton,0,1,L,Premier League
+28 Feb 2016,Tottenham Hotspur,Swansea City,2,1,W,Premier League
+02 Mar 2016,Arsenal,Swansea City,1,2,L,Premier League
+05 Mar 2016,Swansea City,Norwich City,1,0,W,Premier League
+12 Mar 2016,AFC Bournemouth,Swansea City,3,2,W,Premier League
+19 Mar 2016,Swansea City,Aston Villa,1,0,W,Premier League
+02 Apr 2016,Stoke City,Swansea City,2,2,D,Premier League
+09 Apr 2016,Swansea City,Chelsea,1,0,W,Premier League
+16 Apr 2016,Newcastle United,Swansea City,3,0,W,Premier League
+24 Apr 2016,Leicester City,Swansea City,4,0,W,Premier League
+01 May 2016,Swansea City,Liverpool,3,1,W,Premier League
+07 May 2016,West Ham United,Swansea City,1,4,L,Premier League
+15 May 2016,Swansea City,Manchester City,1,1,D,Premier League
+08 Aug 2015,Manchester United,Tottenham Hotspur,1,0,W,Premier League
+15 Aug 2015,Tottenham Hotspur,Stoke City,2,2,D,Premier League
+22 Aug 2015,Leicester City,Tottenham Hotspur,1,1,D,Premier League
+29 Aug 2015,Tottenham Hotspur,Everton,0,0,D,Premier League
+13 Sep 2015,Sunderland,Tottenham Hotspur,0,1,L,Premier League
+17 Sep 2015,Tottenham Hotspur,FK Qarabag Agdam,3,1,W,UEFA Europa League
+20 Sep 2015,Tottenham Hotspur,Crystal Palace,1,0,W,Premier League
+23 Sep 2015,Tottenham Hotspur,Arsenal,1,2,L,League Cup
+26 Sep 2015,Tottenham Hotspur,Manchester City,4,1,W,Premier League
+01 Oct 2015,AS Monaco,Tottenham Hotspur,1,1,D,UEFA Europa League
+04 Oct 2015,Swansea City,Tottenham Hotspur,2,2,D,Premier League
+17 Oct 2015,Tottenham Hotspur,Liverpool,0,0,D,Premier League
+22 Oct 2015,Anderlecht,Tottenham Hotspur,2,1,W,UEFA Europa League
+25 Oct 2015,AFC Bournemouth,Tottenham Hotspur,1,5,L,Premier League
+02 Nov 2015,Tottenham Hotspur,Aston Villa,3,1,W,Premier League
+05 Nov 2015,Tottenham Hotspur,Anderlecht,2,1,W,UEFA Europa League
+08 Nov 2015,Arsenal,Tottenham Hotspur,1,1,D,Premier League
+22 Nov 2015,Tottenham Hotspur,West Ham United,4,1,W,Premier League
+26 Nov 2015,FK Qarabag Agdam,Tottenham Hotspur,0,1,L,UEFA Europa League
+29 Nov 2015,Tottenham Hotspur,Chelsea,0,0,D,Premier League
+05 Dec 2015,West Bromwich Albion,Tottenham Hotspur,1,1,D,Premier League
+10 Dec 2015,Tottenham Hotspur,AS Monaco,4,1,W,UEFA Europa League
+13 Dec 2015,Tottenham Hotspur,Newcastle United,1,2,L,Premier League
+19 Dec 2015,Southampton,Tottenham Hotspur,0,2,L,Premier League
+26 Dec 2015,Tottenham Hotspur,Norwich City,3,0,W,Premier League
+28 Dec 2015,Watford,Tottenham Hotspur,1,2,L,Premier League
+03 Jan 2016,Everton,Tottenham Hotspur,1,1,D,Premier League
+10 Jan 2016,Tottenham Hotspur,Leicester City,2,2,D,FA Cup
+13 Jan 2016,Tottenham Hotspur,Leicester City,0,1,L,Premier League
+16 Jan 2016,Tottenham Hotspur,Sunderland,4,1,W,Premier League
+20 Jan 2016,Leicester City,Tottenham Hotspur,0,2,L,FA Cup
+23 Jan 2016,Crystal Palace,Tottenham Hotspur,1,3,L,Premier League
+30 Jan 2016,Colchester United,Tottenham Hotspur,1,4,L,FA Cup
+02 Feb 2016,Norwich City,Tottenham Hotspur,0,3,L,Premier League
+06 Feb 2016,Tottenham Hotspur,Watford,1,0,W,Premier League
+14 Feb 2016,Manchester City,Tottenham Hotspur,1,2,L,Premier League
+18 Feb 2016,Fiorentina,Tottenham Hotspur,1,1,D,UEFA Europa League
+21 Feb 2016,Tottenham Hotspur,Crystal Palace,0,1,L,FA Cup
+25 Feb 2016,Tottenham Hotspur,Fiorentina,3,0,W,UEFA Europa League
+28 Feb 2016,Tottenham Hotspur,Swansea City,2,1,W,Premier League
+02 Mar 2016,West Ham United,Tottenham Hotspur,1,0,W,Premier League
+05 Mar 2016,Tottenham Hotspur,Arsenal,2,2,D,Premier League
+10 Mar 2016,Borussia Dortmund,Tottenham Hotspur,3,0,W,UEFA Europa League
+13 Mar 2016,Aston Villa,Tottenham Hotspur,0,2,L,Premier League
+17 Mar 2016,Tottenham Hotspur,Borussia Dortmund,1,2,L,UEFA Europa League
+20 Mar 2016,Tottenham Hotspur,AFC Bournemouth,3,0,W,Premier League
+02 Apr 2016,Liverpool,Tottenham Hotspur,1,1,D,Premier League
+10 Apr 2016,Tottenham Hotspur,Manchester United,3,0,W,Premier League
+18 Apr 2016,Stoke City,Tottenham Hotspur,0,4,L,Premier League
+25 Apr 2016,Tottenham Hotspur,West Bromwich Albion,1,1,D,Premier League
+02 May 2016,Chelsea,Tottenham Hotspur,2,2,D,Premier League
+08 May 2016,Tottenham Hotspur,Southampton,1,2,L,Premier League
+15 May 2016,Newcastle United,Tottenham Hotspur,5,1,W,Premier League
+08 Aug 2015,Everton,Watford,2,2,D,Premier League
+15 Aug 2015,Watford,West Bromwich Albion,0,0,D,Premier League
+23 Aug 2015,Watford,Southampton,0,0,D,Premier League
+25 Aug 2015,Preston North End,Watford,1,0,W,League Cup
+29 Aug 2015,Manchester City,Watford,2,0,W,Premier League
+12 Sep 2015,Watford,Swansea City,1,0,W,Premier League
+19 Sep 2015,Newcastle United,Watford,1,2,L,Premier League
+27 Sep 2015,Watford,Crystal Palace,0,1,L,Premier League
+03 Oct 2015,AFC Bournemouth,Watford,1,1,D,Premier League
+17 Oct 2015,Watford,Arsenal,0,3,L,Premier League
+24 Oct 2015,Stoke City,Watford,0,2,L,Premier League
+31 Oct 2015,Watford,West Ham United,2,0,W,Premier League
+07 Nov 2015,Leicester City,Watford,2,1,W,Premier League
+21 Nov 2015,Watford,Manchester United,1,2,L,Premier League
+28 Nov 2015,Aston Villa,Watford,2,3,L,Premier League
+05 Dec 2015,Watford,Norwich City,2,0,W,Premier League
+12 Dec 2015,Sunderland,Watford,0,1,L,Premier League
+20 Dec 2015,Watford,Liverpool,3,0,W,Premier League
+26 Dec 2015,Chelsea,Watford,2,2,D,Premier League
+28 Dec 2015,Watford,Tottenham Hotspur,1,2,L,Premier League
+02 Jan 2016,Watford,Manchester City,1,2,L,Premier League
+09 Jan 2016,Watford,Newcastle United,1,0,W,FA Cup
+13 Jan 2016,Southampton,Watford,2,0,W,Premier League
+18 Jan 2016,Swansea City,Watford,1,0,W,Premier League
+23 Jan 2016,Watford,Newcastle United,2,1,W,Premier League
+30 Jan 2016,Nottingham Forest,Watford,0,1,L,FA Cup
+03 Feb 2016,Watford,Chelsea,0,0,D,Premier League
+06 Feb 2016,Tottenham Hotspur,Watford,1,0,W,Premier League
+13 Feb 2016,Crystal Palace,Watford,1,2,L,Premier League
+20 Feb 2016,Watford,Leeds United,1,0,W,FA Cup
+27 Feb 2016,Watford,AFC Bournemouth,0,0,D,Premier League
+02 Mar 2016,Manchester United,Watford,1,0,W,Premier League
+05 Mar 2016,Watford,Leicester City,0,1,L,Premier League
+13 Mar 2016,Arsenal,Watford,1,2,L,FA Cup
+19 Mar 2016,Watford,Stoke City,1,2,L,Premier League
+02 Apr 2016,Arsenal,Watford,4,0,W,Premier League
+09 Apr 2016,Watford,Everton,1,1,D,Premier League
+16 Apr 2016,West Bromwich Albion,Watford,0,1,L,Premier League
+20 Apr 2016,West Ham United,Watford,3,1,W,Premier League
+24 Apr 2016,Crystal Palace,Watford,2,1,W,FA Cup
+30 Apr 2016,Watford,Aston Villa,3,2,W,Premier League
+08 May 2016,Liverpool,Watford,2,0,W,Premier League
+11 May 2016,Norwich City,Watford,4,2,W,Premier League
+15 May 2016,Watford,Sunderland,2,2,D,Premier League
+10 Aug 2015,West Bromwich Albion,Manchester City,0,3,L,Premier League
+15 Aug 2015,Watford,West Bromwich Albion,0,0,D,Premier League
+23 Aug 2015,West Bromwich Albion,Chelsea,2,3,L,Premier League
+25 Aug 2015,West Bromwich Albion,Port Vale,0,0,D,League Cup
+29 Aug 2015,Stoke City,West Bromwich Albion,0,1,L,Premier League
+12 Sep 2015,West Bromwich Albion,Southampton,0,0,D,Premier League
+19 Sep 2015,Aston Villa,West Bromwich Albion,0,1,L,Premier League
+23 Sep 2015,Norwich City,West Bromwich Albion,3,0,W,League Cup
+28 Sep 2015,West Bromwich Albion,Everton,2,3,L,Premier League
+03 Oct 2015,Crystal Palace,West Bromwich Albion,2,0,W,Premier League
+17 Oct 2015,West Bromwich Albion,Sunderland,1,0,W,Premier League
+24 Oct 2015,Norwich City,West Bromwich Albion,0,1,L,Premier League
+31 Oct 2015,West Bromwich Albion,Leicester City,2,3,L,Premier League
+07 Nov 2015,Manchester United,West Bromwich Albion,2,0,W,Premier League
+21 Nov 2015,West Bromwich Albion,Arsenal,2,1,W,Premier League
+29 Nov 2015,West Ham United,West Bromwich Albion,1,1,D,Premier League
+05 Dec 2015,West Bromwich Albion,Tottenham Hotspur,1,1,D,Premier League
+13 Dec 2015,Liverpool,West Bromwich Albion,2,2,D,Premier League
+19 Dec 2015,West Bromwich Albion,AFC Bournemouth,1,2,L,Premier League
+26 Dec 2015,Swansea City,West Bromwich Albion,1,0,W,Premier League
+28 Dec 2015,West Bromwich Albion,Newcastle United,1,0,W,Premier League
+02 Jan 2016,West Bromwich Albion,Stoke City,2,1,W,Premier League
+09 Jan 2016,West Bromwich Albion,Bristol City,2,2,D,FA Cup
+13 Jan 2016,Chelsea,West Bromwich Albion,2,2,D,Premier League
+16 Jan 2016,Southampton,West Bromwich Albion,3,0,W,Premier League
+19 Jan 2016,Bristol City,West Bromwich Albion,0,1,L,FA Cup
+23 Jan 2016,West Bromwich Albion,Aston Villa,0,0,D,Premier League
+30 Jan 2016,West Bromwich Albion,Peterborough United,2,2,D,FA Cup
+02 Feb 2016,West Bromwich Albion,Swansea City,1,1,D,Premier League
+06 Feb 2016,Newcastle United,West Bromwich Albion,1,0,W,Premier League
+10 Feb 2016,Peterborough United,West Bromwich Albion,1,1,D,FA Cup
+13 Feb 2016,Everton,West Bromwich Albion,0,1,L,Premier League
+20 Feb 2016,Reading,West Bromwich Albion,3,1,W,FA Cup
+27 Feb 2016,West Bromwich Albion,Crystal Palace,3,2,W,Premier League
+01 Mar 2016,Leicester City,West Bromwich Albion,2,2,D,Premier League
+06 Mar 2016,West Bromwich Albion,Manchester United,1,0,W,Premier League
+19 Mar 2016,West Bromwich Albion,Norwich City,0,1,L,Premier League
+02 Apr 2016,Sunderland,West Bromwich Albion,0,0,D,Premier League
+09 Apr 2016,Manchester City,West Bromwich Albion,2,1,W,Premier League
+16 Apr 2016,West Bromwich Albion,Watford,0,1,L,Premier League
+21 Apr 2016,Arsenal,West Bromwich Albion,2,0,W,Premier League
+25 Apr 2016,Tottenham Hotspur,West Bromwich Albion,1,1,D,Premier League
+30 Apr 2016,West Bromwich Albion,West Ham United,0,3,L,Premier League
+07 May 2016,AFC Bournemouth,West Bromwich Albion,1,1,D,Premier League
+15 May 2016,West Bromwich Albion,Liverpool,1,1,D,Premier League
+02 Jul 2015,West Ham United,FC Lusitanos,3,0,W,UEFA Europa League
+09 Jul 2015,FC Lusitanos,West Ham United,0,1,L,UEFA Europa League
+16 Jul 2015,West Ham United,Birkirkara,1,0,W,UEFA Europa League
+23 Jul 2015,Birkirkara,West Ham United,1,0,W,UEFA Europa League
+30 Jul 2015,West Ham United,Astra Giurgiu,2,2,D,UEFA Europa League
+06 Aug 2015,Astra Giurgiu,West Ham United,2,1,W,UEFA Europa League
+09 Aug 2015,Arsenal,West Ham United,0,2,L,Premier League
+15 Aug 2015,West Ham United,Leicester City,1,2,L,Premier League
+22 Aug 2015,West Ham United,AFC Bournemouth,3,4,L,Premier League
+29 Aug 2015,Liverpool,West Ham United,0,3,L,Premier League
+14 Sep 2015,West Ham United,Newcastle United,2,0,W,Premier League
+19 Sep 2015,Manchester City,West Ham United,1,2,L,Premier League
+22 Sep 2015,Leicester City,West Ham United,2,1,W,League Cup
+26 Sep 2015,West Ham United,Norwich City,2,2,D,Premier League
+03 Oct 2015,Sunderland,West Ham United,2,2,D,Premier League
+17 Oct 2015,Crystal Palace,West Ham United,1,3,L,Premier League
+24 Oct 2015,West Ham United,Chelsea,2,1,W,Premier League
+31 Oct 2015,Watford,West Ham United,2,0,W,Premier League
+07 Nov 2015,West Ham United,Everton,1,1,D,Premier League
+22 Nov 2015,Tottenham Hotspur,West Ham United,4,1,W,Premier League
+29 Nov 2015,West Ham United,West Bromwich Albion,1,1,D,Premier League
+05 Dec 2015,Manchester United,West Ham United,0,0,D,Premier League
+12 Dec 2015,West Ham United,Stoke City,0,0,D,Premier League
+20 Dec 2015,Swansea City,West Ham United,0,0,D,Premier League
+26 Dec 2015,Aston Villa,West Ham United,1,1,D,Premier League
+28 Dec 2015,West Ham United,Southampton,2,1,W,Premier League
+02 Jan 2016,West Ham United,Liverpool,2,0,W,Premier League
+09 Jan 2016,West Ham United,Wolverhampton Wanderers,1,0,W,FA Cup
+12 Jan 2016,AFC Bournemouth,West Ham United,1,3,L,Premier League
+16 Jan 2016,Newcastle United,West Ham United,2,1,W,Premier League
+23 Jan 2016,West Ham United,Manchester City,2,2,D,Premier League
+30 Jan 2016,Liverpool,West Ham United,0,0,D,FA Cup
+02 Feb 2016,West Ham United,Aston Villa,2,0,W,Premier League
+06 Feb 2016,Southampton,West Ham United,1,0,W,Premier League
+09 Feb 2016,West Ham United,Liverpool,2,1,W,FA Cup
+13 Feb 2016,Norwich City,West Ham United,2,2,D,Premier League
+21 Feb 2016,Blackburn Rovers,West Ham United,1,5,L,FA Cup
+27 Feb 2016,West Ham United,Sunderland,1,0,W,Premier League
+02 Mar 2016,West Ham United,Tottenham Hotspur,1,0,W,Premier League
+05 Mar 2016,Everton,West Ham United,2,3,L,Premier League
+13 Mar 2016,Manchester United,West Ham United,1,1,D,FA Cup
+19 Mar 2016,Chelsea,West Ham United,2,2,D,Premier League
+02 Apr 2016,West Ham United,Crystal Palace,2,2,D,Premier League
+09 Apr 2016,West Ham United,Arsenal,3,3,D,Premier League
+13 Apr 2016,West Ham United,Manchester United,1,2,L,FA Cup
+17 Apr 2016,Leicester City,West Ham United,2,2,D,Premier League
+20 Apr 2016,West Ham United,Watford,3,1,W,Premier League
+30 Apr 2016,West Bromwich Albion,West Ham United,0,3,L,Premier League
+07 May 2016,West Ham United,Swansea City,1,4,L,Premier League
+10 May 2016,West Ham United,Manchester United,3,2,W,Premier League
+15 May 2016,Stoke City,West Ham United,2,1,W,Premier League

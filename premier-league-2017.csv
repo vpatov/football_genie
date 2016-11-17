@@ -1,0 +1,322 @@
+date,home,away,home_goals,away_goals,result,league
+14 Aug 2016,AFC Bournemouth,Manchester United,1,3,L,Premier League
+21 Aug 2016,West Ham United,AFC Bournemouth,1,0,W,Premier League
+24 Aug 2016,Morecambe,AFC Bournemouth,1,2,L,League Cup
+27 Aug 2016,Crystal Palace,AFC Bournemouth,1,1,D,Premier League
+10 Sep 2016,AFC Bournemouth,West Bromwich Albion,1,0,W,Premier League
+17 Sep 2016,Manchester City,AFC Bournemouth,4,0,W,Premier League
+20 Sep 2016,AFC Bournemouth,Preston North End,2,3,L,League Cup
+24 Sep 2016,AFC Bournemouth,Everton,1,0,W,Premier League
+01 Oct 2016,Watford,AFC Bournemouth,2,2,D,Premier League
+15 Oct 2016,AFC Bournemouth,Hull City,6,1,W,Premier League
+22 Oct 2016,AFC Bournemouth,Tottenham Hotspur,0,0,D,Premier League
+29 Oct 2016,Middlesbrough,AFC Bournemouth,2,0,W,Premier League
+05 Nov 2016,AFC Bournemouth,Sunderland,1,2,L,Premier League
+14 Aug 2016,Arsenal,Liverpool,3,4,L,Premier League
+20 Aug 2016,Leicester City,Arsenal,0,0,D,Premier League
+27 Aug 2016,Watford,Arsenal,1,3,L,Premier League
+10 Sep 2016,Arsenal,Southampton,2,1,W,Premier League
+13 Sep 2016,Paris St Germain,Arsenal,1,1,D,UEFA Champions League
+17 Sep 2016,Hull City,Arsenal,1,4,L,Premier League
+20 Sep 2016,Nottingham Forest,Arsenal,0,4,L,League Cup
+24 Sep 2016,Arsenal,Chelsea,3,0,W,Premier League
+28 Sep 2016,Arsenal,FC Basel,2,0,W,UEFA Champions League
+02 Oct 2016,Burnley,Arsenal,0,1,L,Premier League
+15 Oct 2016,Arsenal,Swansea City,3,2,W,Premier League
+19 Oct 2016,Arsenal,PFC Ludogorets Razgrad,6,0,W,UEFA Champions League
+22 Oct 2016,Arsenal,Middlesbrough,0,0,D,Premier League
+25 Oct 2016,Arsenal,Reading,2,0,W,League Cup
+29 Oct 2016,Sunderland,Arsenal,1,4,L,Premier League
+01 Nov 2016,PFC Ludogorets Razgrad,Arsenal,2,3,L,UEFA Champions League
+06 Nov 2016,Arsenal,Tottenham Hotspur,1,1,D,Premier League
+13 Aug 2016,Burnley,Swansea City,0,1,L,Premier League
+20 Aug 2016,Burnley,Liverpool,2,0,W,Premier League
+24 Aug 2016,Accrington Stanley,Burnley,1,0,W,League Cup
+27 Aug 2016,Chelsea,Burnley,3,0,W,Premier League
+10 Sep 2016,Burnley,Hull City,1,1,D,Premier League
+17 Sep 2016,Leicester City,Burnley,3,0,W,Premier League
+26 Sep 2016,Burnley,Watford,2,0,W,Premier League
+02 Oct 2016,Burnley,Arsenal,0,1,L,Premier League
+16 Oct 2016,Southampton,Burnley,3,1,W,Premier League
+22 Oct 2016,Burnley,Everton,2,1,W,Premier League
+29 Oct 2016,Manchester United,Burnley,0,0,D,Premier League
+05 Nov 2016,Burnley,Crystal Palace,3,2,W,Premier League
+15 Aug 2016,Chelsea,West Ham United,2,1,W,Premier League
+20 Aug 2016,Watford,Chelsea,1,2,L,Premier League
+23 Aug 2016,Chelsea,Bristol Rovers,3,2,W,League Cup
+27 Aug 2016,Chelsea,Burnley,3,0,W,Premier League
+11 Sep 2016,Swansea City,Chelsea,2,2,D,Premier League
+13 Sep 2016,Swindon Town,Chelsea,2,1,W,Football League Trophy
+16 Sep 2016,Chelsea,Liverpool,1,2,L,Premier League
+20 Sep 2016,Leicester City,Chelsea,2,4,L,League Cup
+24 Sep 2016,Arsenal,Chelsea,3,0,W,Premier League
+01 Oct 2016,Hull City,Chelsea,0,2,L,Premier League
+15 Oct 2016,Chelsea,Leicester City,3,0,W,Premier League
+18 Oct 2016,Exeter City,Chelsea,3,2,W,Football League Trophy
+23 Oct 2016,Chelsea,Manchester United,4,0,W,Premier League
+26 Oct 2016,West Ham United,Chelsea,2,1,W,League Cup
+30 Oct 2016,Southampton,Chelsea,0,2,L,Premier League
+05 Nov 2016,Chelsea,Everton,5,0,W,Premier League
+08 Nov 2016,Chelsea,Oxford United,1,1,D,Football League Trophy
+13 Aug 2016,Crystal Palace,West Bromwich Albion,0,1,L,Premier League
+20 Aug 2016,Tottenham Hotspur,Crystal Palace,1,0,W,Premier League
+23 Aug 2016,Crystal Palace,Blackpool,2,0,W,League Cup
+27 Aug 2016,Crystal Palace,AFC Bournemouth,1,1,D,Premier League
+10 Sep 2016,Middlesbrough,Crystal Palace,1,2,L,Premier League
+18 Sep 2016,Crystal Palace,Stoke City,4,1,W,Premier League
+21 Sep 2016,Southampton,Crystal Palace,2,0,W,League Cup
+24 Sep 2016,Sunderland,Crystal Palace,2,3,L,Premier League
+30 Sep 2016,Everton,Crystal Palace,1,1,D,Premier League
+15 Oct 2016,Crystal Palace,West Ham United,0,1,L,Premier League
+22 Oct 2016,Leicester City,Crystal Palace,3,1,W,Premier League
+29 Oct 2016,Crystal Palace,Liverpool,2,4,L,Premier League
+05 Nov 2016,Burnley,Crystal Palace,3,2,W,Premier League
+13 Aug 2016,Everton,Tottenham Hotspur,1,1,D,Premier League
+20 Aug 2016,West Bromwich Albion,Everton,1,2,L,Premier League
+23 Aug 2016,Everton,Yeovil Town,4,0,W,League Cup
+27 Aug 2016,Everton,Stoke City,1,0,W,Premier League
+30 Aug 2016,Bolton Wanderers,Everton,0,2,L,Football League Trophy
+12 Sep 2016,Sunderland,Everton,0,3,L,Premier League
+17 Sep 2016,Everton,Middlesbrough,3,1,W,Premier League
+20 Sep 2016,Everton,Norwich City,0,2,L,League Cup
+24 Sep 2016,AFC Bournemouth,Everton,1,0,W,Premier League
+30 Sep 2016,Everton,Crystal Palace,1,1,D,Premier League
+04 Oct 2016,Cheltenham Town,Everton,2,1,W,Football League Trophy
+15 Oct 2016,Manchester City,Everton,1,1,D,Premier League
+22 Oct 2016,Burnley,Everton,2,1,W,Premier League
+30 Oct 2016,Everton,West Ham United,2,0,W,Premier League
+05 Nov 2016,Chelsea,Everton,5,0,W,Premier League
+08 Nov 2016,Everton,Blackpool,1,1,D,Football League Trophy
+13 Aug 2016,Hull City,Leicester City,2,1,W,Premier League
+20 Aug 2016,Swansea City,Hull City,0,2,L,Premier League
+23 Aug 2016,Exeter City,Hull City,1,3,L,League Cup
+27 Aug 2016,Hull City,Manchester United,0,1,L,Premier League
+10 Sep 2016,Burnley,Hull City,1,1,D,Premier League
+17 Sep 2016,Hull City,Arsenal,1,4,L,Premier League
+21 Sep 2016,Stoke City,Hull City,1,2,L,League Cup
+24 Sep 2016,Liverpool,Hull City,5,1,W,Premier League
+01 Oct 2016,Hull City,Chelsea,0,2,L,Premier League
+15 Oct 2016,AFC Bournemouth,Hull City,6,1,W,Premier League
+22 Oct 2016,Hull City,Stoke City,0,2,L,Premier League
+25 Oct 2016,Bristol City,Hull City,1,2,L,League Cup
+29 Oct 2016,Watford,Hull City,1,0,W,Premier League
+06 Nov 2016,Hull City,Southampton,2,1,W,Premier League
+07 Aug 2016,Leicester City,Manchester United,1,2,L,FA Community Shield
+13 Aug 2016,Hull City,Leicester City,2,1,W,Premier League
+20 Aug 2016,Leicester City,Arsenal,0,0,D,Premier League
+27 Aug 2016,Leicester City,Swansea City,2,1,W,Premier League
+30 Aug 2016,Sheffield United,Leicester City,0,0,D,Football League Trophy
+10 Sep 2016,Liverpool,Leicester City,4,1,W,Premier League
+14 Sep 2016,Club Brugge,Leicester City,0,3,L,UEFA Champions League
+17 Sep 2016,Leicester City,Burnley,3,0,W,Premier League
+20 Sep 2016,Leicester City,Chelsea,2,4,L,League Cup
+24 Sep 2016,Manchester United,Leicester City,4,1,W,Premier League
+27 Sep 2016,Leicester City,FC Porto,1,0,W,UEFA Champions League
+02 Oct 2016,Leicester City,Southampton,0,0,D,Premier League
+04 Oct 2016,Grimsby Town,Leicester City,0,1,L,Football League Trophy
+15 Oct 2016,Chelsea,Leicester City,3,0,W,Premier League
+18 Oct 2016,Leicester City,FC Kobenhavn,1,0,W,UEFA Champions League
+22 Oct 2016,Leicester City,Crystal Palace,3,1,W,Premier League
+29 Oct 2016,Tottenham Hotspur,Leicester City,1,1,D,Premier League
+02 Nov 2016,FC Kobenhavn,Leicester City,0,0,D,UEFA Champions League
+06 Nov 2016,Leicester City,West Bromwich Albion,1,2,L,Premier League
+08 Nov 2016,Leicester City,Walsall,0,1,L,Football League Trophy
+14 Aug 2016,Arsenal,Liverpool,3,4,L,Premier League
+20 Aug 2016,Burnley,Liverpool,2,0,W,Premier League
+23 Aug 2016,Burton Albion,Liverpool,0,5,L,League Cup
+27 Aug 2016,Tottenham Hotspur,Liverpool,1,1,D,Premier League
+10 Sep 2016,Liverpool,Leicester City,4,1,W,Premier League
+16 Sep 2016,Chelsea,Liverpool,1,2,L,Premier League
+20 Sep 2016,Derby County,Liverpool,0,3,L,League Cup
+24 Sep 2016,Liverpool,Hull City,5,1,W,Premier League
+01 Oct 2016,Swansea City,Liverpool,1,2,L,Premier League
+17 Oct 2016,Liverpool,Manchester United,0,0,D,Premier League
+22 Oct 2016,Liverpool,West Bromwich Albion,2,1,W,Premier League
+25 Oct 2016,Liverpool,Tottenham Hotspur,2,1,W,League Cup
+29 Oct 2016,Crystal Palace,Liverpool,2,4,L,Premier League
+06 Nov 2016,Liverpool,Watford,6,1,W,Premier League
+13 Aug 2016,Manchester City,Sunderland,2,1,W,Premier League
+16 Aug 2016,Steaua Bucuresti,Manchester City,0,5,L,UEFA Champions League
+20 Aug 2016,Stoke City,Manchester City,1,4,L,Premier League
+24 Aug 2016,Manchester City,Steaua Bucuresti,1,0,W,UEFA Champions League
+28 Aug 2016,Manchester City,West Ham United,3,1,W,Premier League
+10 Sep 2016,Manchester United,Manchester City,1,2,L,Premier League
+14 Sep 2016,Manchester City,Borussia Monchengladbach,4,0,W,UEFA Champions League
+17 Sep 2016,Manchester City,AFC Bournemouth,4,0,W,Premier League
+21 Sep 2016,Swansea City,Manchester City,1,2,L,League Cup
+24 Sep 2016,Swansea City,Manchester City,1,3,L,Premier League
+28 Sep 2016,Celtic,Manchester City,3,3,D,UEFA Champions League
+02 Oct 2016,Tottenham Hotspur,Manchester City,2,0,W,Premier League
+15 Oct 2016,Manchester City,Everton,1,1,D,Premier League
+19 Oct 2016,Barcelona,Manchester City,4,0,W,UEFA Champions League
+23 Oct 2016,Manchester City,Southampton,1,1,D,Premier League
+26 Oct 2016,Manchester United,Manchester City,1,0,W,League Cup
+29 Oct 2016,West Bromwich Albion,Manchester City,0,4,L,Premier League
+01 Nov 2016,Manchester City,Barcelona,3,1,W,UEFA Champions League
+05 Nov 2016,Manchester City,Middlesbrough,1,1,D,Premier League
+07 Aug 2016,Leicester City,Manchester United,1,2,L,FA Community Shield
+14 Aug 2016,AFC Bournemouth,Manchester United,1,3,L,Premier League
+19 Aug 2016,Manchester United,Southampton,2,0,W,Premier League
+27 Aug 2016,Hull City,Manchester United,0,1,L,Premier League
+10 Sep 2016,Manchester United,Manchester City,1,2,L,Premier League
+15 Sep 2016,Feyenoord,Manchester United,1,0,W,UEFA Europa League
+18 Sep 2016,Watford,Manchester United,3,1,W,Premier League
+21 Sep 2016,Northampton Town,Manchester United,1,3,L,League Cup
+24 Sep 2016,Manchester United,Leicester City,4,1,W,Premier League
+29 Sep 2016,Manchester United,FC Zorya Luhansk,1,0,W,UEFA Europa League
+02 Oct 2016,Manchester United,Stoke City,1,1,D,Premier League
+17 Oct 2016,Liverpool,Manchester United,0,0,D,Premier League
+20 Oct 2016,Manchester United,Fenerbahce,4,1,W,UEFA Europa League
+23 Oct 2016,Chelsea,Manchester United,4,0,W,Premier League
+26 Oct 2016,Manchester United,Manchester City,1,0,W,League Cup
+29 Oct 2016,Manchester United,Burnley,0,0,D,Premier League
+03 Nov 2016,Fenerbahce,Manchester United,2,1,W,UEFA Europa League
+06 Nov 2016,Swansea City,Manchester United,1,3,L,Premier League
+13 Aug 2016,Middlesbrough,Stoke City,1,1,D,Premier League
+21 Aug 2016,Sunderland,Middlesbrough,1,2,L,Premier League
+24 Aug 2016,Fulham,Middlesbrough,2,1,W,League Cup
+28 Aug 2016,West Bromwich Albion,Middlesbrough,0,0,D,Premier League
+30 Aug 2016,Scunthorpe United,Middlesbrough,2,1,W,Football League Trophy
+10 Sep 2016,Middlesbrough,Crystal Palace,1,2,L,Premier League
+17 Sep 2016,Everton,Middlesbrough,3,1,W,Premier League
+24 Sep 2016,Middlesbrough,Tottenham Hotspur,1,2,L,Premier League
+01 Oct 2016,West Ham United,Middlesbrough,1,1,D,Premier League
+04 Oct 2016,Cambridge United,Middlesbrough,2,1,W,Football League Trophy
+16 Oct 2016,Middlesbrough,Watford,0,1,L,Premier League
+22 Oct 2016,Arsenal,Middlesbrough,0,0,D,Premier League
+29 Oct 2016,Middlesbrough,AFC Bournemouth,2,0,W,Premier League
+05 Nov 2016,Manchester City,Middlesbrough,1,1,D,Premier League
+08 Nov 2016,Middlesbrough,Shrewsbury Town,0,3,L,Football League Trophy
+13 Aug 2016,Southampton,Watford,1,1,D,Premier League
+19 Aug 2016,Manchester United,Southampton,2,0,W,Premier League
+27 Aug 2016,Southampton,Sunderland,1,1,D,Premier League
+30 Aug 2016,Charlton Athletic,Southampton,0,0,D,Football League Trophy
+10 Sep 2016,Arsenal,Southampton,2,1,W,Premier League
+15 Sep 2016,Southampton,Sparta Praha,3,0,W,UEFA Europa League
+18 Sep 2016,Southampton,Swansea City,1,0,W,Premier League
+21 Sep 2016,Southampton,Crystal Palace,2,0,W,League Cup
+25 Sep 2016,West Ham United,Southampton,0,3,L,Premier League
+29 Sep 2016,Hapoel Beer Sheva,Southampton,0,0,D,UEFA Europa League
+02 Oct 2016,Leicester City,Southampton,0,0,D,Premier League
+04 Oct 2016,Colchester United,Southampton,1,2,L,Football League Trophy
+16 Oct 2016,Southampton,Burnley,3,1,W,Premier League
+20 Oct 2016,Internazionale,Southampton,1,0,W,UEFA Europa League
+23 Oct 2016,Manchester City,Southampton,1,1,D,Premier League
+26 Oct 2016,Southampton,Sunderland,1,0,W,League Cup
+30 Oct 2016,Southampton,Chelsea,0,2,L,Premier League
+03 Nov 2016,Southampton,Internazionale,2,1,W,UEFA Europa League
+06 Nov 2016,Hull City,Southampton,2,1,W,Premier League
+09 Nov 2016,Southampton,Crawley Town,4,0,W,Football League Trophy
+13 Aug 2016,Middlesbrough,Stoke City,1,1,D,Premier League
+20 Aug 2016,Stoke City,Manchester City,1,4,L,Premier League
+23 Aug 2016,Stevenage,Stoke City,0,4,L,League Cup
+27 Aug 2016,Everton,Stoke City,1,0,W,Premier League
+30 Aug 2016,Bradford City,Stoke City,1,0,W,Football League Trophy
+10 Sep 2016,Stoke City,Tottenham Hotspur,0,4,L,Premier League
+18 Sep 2016,Crystal Palace,Stoke City,4,1,W,Premier League
+21 Sep 2016,Stoke City,Hull City,1,2,L,League Cup
+24 Sep 2016,Stoke City,West Bromwich Albion,1,1,D,Premier League
+02 Oct 2016,Manchester United,Stoke City,1,1,D,Premier League
+04 Oct 2016,Morecambe,Stoke City,3,1,W,Football League Trophy
+15 Oct 2016,Stoke City,Sunderland,2,0,W,Premier League
+22 Oct 2016,Hull City,Stoke City,0,2,L,Premier League
+31 Oct 2016,Stoke City,Swansea City,3,1,W,Premier League
+05 Nov 2016,West Ham United,Stoke City,1,1,D,Premier League
+08 Nov 2016,Stoke City,Bury,1,1,D,Football League Trophy
+13 Aug 2016,Manchester City,Sunderland,2,1,W,Premier League
+21 Aug 2016,Sunderland,Middlesbrough,1,2,L,Premier League
+24 Aug 2016,Sunderland,Shrewsbury Town,1,0,W,League Cup
+27 Aug 2016,Southampton,Sunderland,1,1,D,Premier League
+06 Sep 2016,Rochdale,Sunderland,1,1,D,Football League Trophy
+12 Sep 2016,Sunderland,Everton,0,3,L,Premier League
+18 Sep 2016,Tottenham Hotspur,Sunderland,1,0,W,Premier League
+21 Sep 2016,Queens Park Rangers,Sunderland,1,2,L,League Cup
+24 Sep 2016,Sunderland,Crystal Palace,2,3,L,Premier League
+01 Oct 2016,Sunderland,West Bromwich Albion,1,1,D,Premier League
+04 Oct 2016,Hartlepool United,Sunderland,0,1,L,Football League Trophy
+15 Oct 2016,Stoke City,Sunderland,2,0,W,Premier League
+22 Oct 2016,West Ham United,Sunderland,1,0,W,Premier League
+26 Oct 2016,Southampton,Sunderland,1,0,W,League Cup
+29 Oct 2016,Sunderland,Arsenal,1,4,L,Premier League
+05 Nov 2016,AFC Bournemouth,Sunderland,1,2,L,Premier League
+09 Nov 2016,Sunderland,Notts County,2,1,W,Football League Trophy
+13 Aug 2016,Burnley,Swansea City,0,1,L,Premier League
+20 Aug 2016,Swansea City,Hull City,0,2,L,Premier League
+23 Aug 2016,Peterborough United,Swansea City,1,3,L,League Cup
+27 Aug 2016,Leicester City,Swansea City,2,1,W,Premier League
+30 Aug 2016,AFC Wimbledon,Swansea City,3,0,W,Football League Trophy
+11 Sep 2016,Swansea City,Chelsea,2,2,D,Premier League
+18 Sep 2016,Southampton,Swansea City,1,0,W,Premier League
+21 Sep 2016,Swansea City,Manchester City,1,2,L,League Cup
+24 Sep 2016,Swansea City,Manchester City,1,3,L,Premier League
+01 Oct 2016,Swansea City,Liverpool,1,2,L,Premier League
+04 Oct 2016,Newport County,Swansea City,1,2,L,Football League Trophy
+15 Oct 2016,Arsenal,Swansea City,3,2,W,Premier League
+22 Oct 2016,Swansea City,Watford,0,0,D,Premier League
+31 Oct 2016,Stoke City,Swansea City,3,1,W,Premier League
+06 Nov 2016,Swansea City,Manchester United,1,3,L,Premier League
+08 Nov 2016,Swansea City,Plymouth Argyle,2,0,W,Football League Trophy
+13 Aug 2016,Everton,Tottenham Hotspur,1,1,D,Premier League
+20 Aug 2016,Tottenham Hotspur,Crystal Palace,1,0,W,Premier League
+27 Aug 2016,Tottenham Hotspur,Liverpool,1,1,D,Premier League
+10 Sep 2016,Stoke City,Tottenham Hotspur,0,4,L,Premier League
+14 Sep 2016,Tottenham Hotspur,AS Monaco,1,2,L,UEFA Champions League
+18 Sep 2016,Tottenham Hotspur,Sunderland,1,0,W,Premier League
+21 Sep 2016,Tottenham Hotspur,Gillingham,5,0,W,League Cup
+24 Sep 2016,Middlesbrough,Tottenham Hotspur,1,2,L,Premier League
+27 Sep 2016,CSKA Moscow,Tottenham Hotspur,0,1,L,UEFA Champions League
+02 Oct 2016,Tottenham Hotspur,Manchester City,2,0,W,Premier League
+15 Oct 2016,West Bromwich Albion,Tottenham Hotspur,1,1,D,Premier League
+18 Oct 2016,Bayer Leverkusen,Tottenham Hotspur,0,0,D,UEFA Champions League
+22 Oct 2016,AFC Bournemouth,Tottenham Hotspur,0,0,D,Premier League
+25 Oct 2016,Liverpool,Tottenham Hotspur,2,1,W,League Cup
+29 Oct 2016,Tottenham Hotspur,Leicester City,1,1,D,Premier League
+02 Nov 2016,Tottenham Hotspur,Bayer Leverkusen,0,1,L,UEFA Champions League
+06 Nov 2016,Arsenal,Tottenham Hotspur,1,1,D,Premier League
+13 Aug 2016,Southampton,Watford,1,1,D,Premier League
+20 Aug 2016,Watford,Chelsea,1,2,L,Premier League
+23 Aug 2016,Watford,Gillingham,1,2,L,League Cup
+27 Aug 2016,Watford,Arsenal,1,3,L,Premier League
+10 Sep 2016,West Ham United,Watford,2,4,L,Premier League
+18 Sep 2016,Watford,Manchester United,3,1,W,Premier League
+26 Sep 2016,Burnley,Watford,2,0,W,Premier League
+01 Oct 2016,Watford,AFC Bournemouth,2,2,D,Premier League
+16 Oct 2016,Middlesbrough,Watford,0,1,L,Premier League
+22 Oct 2016,Swansea City,Watford,0,0,D,Premier League
+29 Oct 2016,Watford,Hull City,1,0,W,Premier League
+06 Nov 2016,Liverpool,Watford,6,1,W,Premier League
+13 Aug 2016,Crystal Palace,West Bromwich Albion,0,1,L,Premier League
+20 Aug 2016,West Bromwich Albion,Everton,1,2,L,Premier League
+23 Aug 2016,Northampton Town,West Bromwich Albion,2,2,D,League Cup
+28 Aug 2016,West Bromwich Albion,Middlesbrough,0,0,D,Premier League
+30 Aug 2016,Millwall,West Bromwich Albion,2,0,W,Football League Trophy
+10 Sep 2016,AFC Bournemouth,West Bromwich Albion,1,0,W,Premier League
+17 Sep 2016,West Bromwich Albion,West Ham United,4,2,W,Premier League
+24 Sep 2016,Stoke City,West Bromwich Albion,1,1,D,Premier League
+01 Oct 2016,Sunderland,West Bromwich Albion,1,1,D,Premier League
+04 Oct 2016,Luton Town,West Bromwich Albion,2,0,W,Football League Trophy
+15 Oct 2016,West Bromwich Albion,Tottenham Hotspur,1,1,D,Premier League
+22 Oct 2016,Liverpool,West Bromwich Albion,2,1,W,Premier League
+29 Oct 2016,West Bromwich Albion,Manchester City,0,4,L,Premier League
+06 Nov 2016,Leicester City,West Bromwich Albion,1,2,L,Premier League
+08 Nov 2016,West Bromwich Albion,Gillingham,0,2,L,Football League Trophy
+28 Jul 2016,NK Domzale,West Ham United,2,1,W,UEFA Europa League
+04 Aug 2016,West Ham United,NK Domzale,3,0,W,UEFA Europa League
+15 Aug 2016,Chelsea,West Ham United,2,1,W,Premier League
+18 Aug 2016,Astra Giurgiu,West Ham United,1,1,D,UEFA Europa League
+21 Aug 2016,West Ham United,AFC Bournemouth,1,0,W,Premier League
+25 Aug 2016,West Ham United,Astra Giurgiu,0,1,L,UEFA Europa League
+28 Aug 2016,Manchester City,West Ham United,3,1,W,Premier League
+30 Aug 2016,Coventry City,West Ham United,4,2,W,Football League Trophy
+10 Sep 2016,West Ham United,Watford,2,4,L,Premier League
+17 Sep 2016,West Bromwich Albion,West Ham United,4,2,W,Premier League
+21 Sep 2016,West Ham United,Accrington Stanley,1,0,W,League Cup
+25 Sep 2016,West Ham United,Southampton,0,3,L,Premier League
+01 Oct 2016,West Ham United,Middlesbrough,1,1,D,Premier League
+04 Oct 2016,Wycombe Wanderers,West Ham United,3,0,W,Football League Trophy
+15 Oct 2016,Crystal Palace,West Ham United,0,1,L,Premier League
+22 Oct 2016,West Ham United,Sunderland,1,0,W,Premier League
+26 Oct 2016,West Ham United,Chelsea,2,1,W,League Cup
+30 Oct 2016,Everton,West Ham United,2,0,W,Premier League
+05 Nov 2016,West Ham United,Stoke City,1,1,D,Premier League
+08 Nov 2016,Northampton Town,West Ham United,1,1,D,Football League Trophy
