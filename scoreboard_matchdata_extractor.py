@@ -1,8 +1,7 @@
-import httplib2
 from bs4 import BeautifulSoup
 import re
 import csv
-
+import dryscrape
 
 
 ### this file will have a function, extract_data(url),
@@ -13,4 +12,15 @@ import csv
 matches = []
 
 def extract_data(url):
-    pass
+	session = dryscrape.Session()
+	session.visit(url)
+	response = session.body()
+	soup = BeautifulSoup(response,'lxml')
+	f = open('test_output.txt','w')
+	f.write(soup.prettify().encode('utf-8'))
+	f.close()
+	print('written to file\n');
+
+test_url = 'http://www.scoreboard.com/en/match/west-ham-arsenal-2016-2017/zRp4p5Xc/#match-summary|match-statistics;0|lineups;1'
+
+extract_data(test_url)
