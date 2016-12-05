@@ -4,23 +4,26 @@ import csv
 import dryscrape
 
 
-### this file will have a function, extract_data(url),
-### that when given the url of a match (on scoreboard.com),
-### will get the meaningful data from it, and add it to a list
-### to be ready for writing to a .csv file
-
 matches = []
 
-def extract_data(url):
+## visit the url using dryscrape to be able to access the javacsript-generated content,
+## and return the soup object
+def get_generated_dom(url):
 	session = dryscrape.Session()
 	session.visit(url)
 	response = session.body()
 	soup = BeautifulSoup(response,'lxml')
-	f = open('test_output.txt','w')
+	return soup
+
+def write_soup_to_file(soup,filename):
+	f = open(filename,'w')
 	f.write(soup.prettify().encode('utf-8'))
 	f.close()
-	print('written to file\n');
+	print "written soup to", filename
+
+
 
 test_url = 'http://www.scoreboard.com/en/match/west-ham-arsenal-2016-2017/zRp4p5Xc/#match-summary|match-statistics;0|lineups;1'
 
-extract_data(test_url)
+test_soup = get_generated_dom(test_url)
+write_soup_to_file(test_soup,'example_scoreboard_soup.txt')
