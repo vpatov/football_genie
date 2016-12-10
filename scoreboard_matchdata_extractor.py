@@ -1,5 +1,38 @@
 from bs4 import BeautifulSoup
 
+
+#globals
+
+# this info is obtained from each player's <td> in the html
+player_fields = ['name', 'team', 'goals', 'assists', 'goal_attempts', 'shots_on_goal', 'blocked_shots', 'offsides',
+                     'fouls_committed', 'fouls_sufferred', 'yellow_cards', 'red_cards', 'pass_success', 'total_passes']
+
+# these are ALL of the fields that we are writing to the csv, which include player_fields but also include the match_date, and the two team names
+all_fields = ['home_team', 'away_team', 'game_date'] + player_fields
+
+fieldnames = [
+    # basic match info
+    'home_team', 'away_team', 'game_date', 'result',
+
+    # match statistics
+    'home_goals', 'away_goals', 'referee', 'attendance', 'venue',
+    'home_ball_possession', 'away_ball_possession', 'home_goal_attempts', 'away_goal_attempts',
+    'home_shots_on_goal', 'away_shots_on_goal', 'home_shots_off_goal', 'away_shots_off_goal',
+    'home_blocked_shots', 'away_blocked_shots', 'home_free_kicks', 'away_free_kicks',
+    'home_corner_kicks', 'away_corner_kicks', 'home_offsides', 'away_offsides',
+    'home_goalkeeper_saves', 'away_goalkeeper_saves', 'home_fouls', 'away_fouls',
+    'home_yellow_cards', 'away_yellow_cards',
+    # lineups
+    'home_formation', 'away_formation', 'home_players', 'away_players', 'home_substitutes', 'away_substitutes',
+    'substitutions_made',
+    'home_coach', 'away_coach',
+
+    # player_info - this will be done in a separate csv
+    # 'all_players'
+]
+
+
+
 # match_data_html -     the javascript-generated html from scoreboard.com, with info on the match
 # player_data_html -    the javascript-generated html from scoreboard.com, with info on players performance in match
 # match_csv_writer -    a simple csv_writer object, that writes a list to a row
@@ -178,12 +211,8 @@ def read_and_write(match_data_html,player_data_html,match_csv_writer,player_csv_
     odd_players = player_table.find_all('tr', {'class': 'odd'})
     even_players = player_table.find_all('tr', {'class': 'even'})
 
-    # this info is obtained from each player's <td> in the html
-    player_fields = ['name', 'team', 'goals', 'assists', 'goal_attempts', 'shots_on_goal', 'blocked_shots', 'offsides',
-                     'fouls_committed', 'fouls_sufferred', 'yellow_cards', 'red_cards', 'pass_success', 'total_passes']
 
-    # these are ALL of the fields that we are writing to the csv, which include player_fields but also include the match_date, and the two team names
-    all_fields = ['home_team', 'away_team', 'game_date'] + player_fields
+
     for player in odd_players + even_players:
         player_tds = player.find_all('td')
         player_info = dict()
@@ -199,26 +228,7 @@ def read_and_write(match_data_html,player_data_html,match_csv_writer,player_csv_
         all_players.append(player_info)
     ### Cell 8 (organizing the fieldnames, and printing them for easy inclusion in this python code)
 
-        fieldnames = [
-            # basic match info
-            'home_team', 'away_team', 'game_date', 'result',
 
-            # match statistics
-            'home_goals', 'away_goals', 'referee', 'attendance', 'venue',
-            'home_ball_possession', 'away_ball_possession', 'home_goal_attempts', 'away_goal_attempts',
-            'home_shots_on_goal', 'away_shots_on_goal', 'home_shots_off_goal', 'away_shots_off_goal',
-            'home_blocked_shots', 'away_blocked_shots', 'home_free_kicks', 'away_free_kicks',
-            'home_corner_kicks', 'away_corner_kicks', 'home_offsides', 'away_offsides',
-            'home_goalkeeper_saves', 'away_goalkeeper_saves', 'home_fouls', 'away_fouls',
-            'home_yellow_cards', 'away_yellow_cards',
-            # lineups
-            'home_formation', 'away_formation', 'home_players', 'away_players', 'home_substitutes', 'away_substitutes',
-            'substitutions_made',
-            'home_coach', 'away_coach',
-
-            # player_info - this will be done in a separate csv
-            # 'all_players'
-        ]
     for field in fieldnames:
         print field, ',',
 
