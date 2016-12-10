@@ -7,7 +7,7 @@ user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebK
 
 base_url = 'http://www.scoreboard.com/soccer/england/premier-league-'
 
-seasons = ['2015_2016', '2014_2015', '2013_2014', '2012_2013', '2011_2012', '2010_2011']
+seasons = ['2016_2017', '2015_2016', '2014_2015', '2013_2014', '2012_2013', '2011_2012', '2010_2011']
 
 def get_main_page():
     result = {}
@@ -72,7 +72,22 @@ def get_data_from_local(season):
     f.close()
 
 
+# only from year 2012 do the website provide player stats
+player_stats_seasons = ['2012_2013', '2013_2014', '2014_2015', '2015_2016', '2016_2017']
+def get_players_stats_urls():
+    for season in player_stats_seasons:
+        local_filename = season + '_match_urls.txt'
+        lines = [line.rstrip('\n') for line in open(local_filename)]
+        target_filename = './player_stats_urls/' + season + '_player_stats_urls.txt'
+        with open(target_filename, 'w+') as f:
+            for line in lines:
+                if line != '':
+                    target_url = line.split('#')[0] + '#player-statistics;0' + '\n'
+                    f.write(target_url)
+        f.close()
 
 
-for season in seasons:
-    get_data_from_local(season)
+# get_players_stats_urls()
+
+# for season in seasons:
+#     get_data_from_local(season)
