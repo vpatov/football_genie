@@ -72,8 +72,8 @@ def get_data_from_local(season):
     f.close()
 
 
-# only from year 2012 do the website provide player stats
-player_stats_seasons = ['2012_2013', '2013_2014', '2014_2015', '2015_2016', '2016_2017']
+# only from year 2013 do the website provide player stats
+player_stats_seasons = ['2013_2014', '2014_2015', '2015_2016', '2016_2017']
 def get_players_stats_urls():
     for season in player_stats_seasons:
         local_filename = season + '_match_urls.txt'
