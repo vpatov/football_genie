@@ -1,3 +1,10 @@
+##Unfortunately, I must call this code from a VM because I cannot install dryscrape on my windows machine,
+##and I need dryscrape to scrape from webpages that use javascript to generate content.
+
+### WHAT THIS NEEDS: this needs a timeout error function, after which it will place the unsuccessful url
+### into a queue that will be tried again either immediately, or later, or put into a list of unsuccessful urls
+### for manual inspection.
+
 from bs4 import BeautifulSoup
 import re
 import csv
