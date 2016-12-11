@@ -245,6 +245,20 @@ def read_and_write(match_data_html,player_data_html,match_csv_writer,player_csv_
                          home_substitutes , away_substitutes , substitutions_made ,
                          home_coach , away_coach])
 
-    player_csv_writer.writerow(player_info)
+    for player in all_players:
+    	player_csv_writer.writerow(player)
 
+
+
+def create_csvs(seasons):
+	import csv
+	for season in seasons:
+		f_match = open('./data/scoreboard_matches_' + season + '.csv','wb')
+		match_csv_writer = csv.writer(f_match)
+		
+		f_players = open('./data/scoreboard_players_' + season + '.csv','wb')
+
+		##need to get the match_data_html and player_data_html from the dir.
+		read_and_write(match_data_html,player_data_html,match_csv_writer,player_csv_writer)
+	
 

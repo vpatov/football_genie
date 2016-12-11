@@ -22,12 +22,10 @@ def handler(signum, frame):
 signal.signal(signal.SIGALRM, handler)
 
 
-matches = []
 
 ## visit the url using dryscrape to be able to access the javacsript-generated content,
 ## and return the soup object
-def get_generated_dom(url):
-	session = dryscrape.Session()
+def get_generated_dom(url,session):
 	session.visit(url)
 	response = session.body()
 	soup = BeautifulSoup(response,'lxml')
@@ -41,23 +39,48 @@ def write_soup_to_file(soup,filename):
 
 
 
-test_match_stats_url = 'http://www.scoreboard.com/en/match/west-ham-arsenal-2016-2017/zRp4p5Xc/#match-summary|match-statistics;0|lineups;1'
-test_player_stats_url = 'http://www.scoreboard.com/en/match/west-ham-arsenal-2016-2017/zRp4p5Xc/#player-statistics;0'
 
-# test_soup = get_generated_dom(test_match_stats_url)
-# write_soup_to_file(test_soup,'example_scoreboard_soup.txt')
+"""
+def get_remaining_match_data_to_files(input_seasons,start_index=0):
+	for season in input_seasons:
+		filename = season + '_match_urls.txt'
+        urls = [line.rstrip('\n') for line in open(filename)]
+        # create target filepath
+        target_directory = './match_stats_soup_files/' + season + '/'
+        for i in range(start_index,len(urls)):
+            url = urls[i]
+            if url != "":
+                gameId = url.split('/')[-2]
+                target_filename = target_directory + gameId
+
+                if os.path.isfile('./match_stats_soup_files/2014_2015/' + gameId):
+                    print gameId, i
+                continue
 
 
-##### new code added by Rui
+                if i % 5 == 0:
+                    print '\n\nsleeping for 10 seconds during iteration',i,'\n\n'
+                    time.sleep(10)
+                try:
+                    signal.alarm(25)
+                    print 'scraping', i, ':', gameId
+                    soup = get_generated_dom(url)
+                    write_soup_to_file(soup, target_filename)
+                    print 'scraped', i,'\n'
+                except Exception as e:
+                    print "failed to scrape from url:",gameId,i
+                    print e
+"""
+		
 
-seasons = ['2016_2017', '2015_2016', '2014_2015', '2013_2014', '2012_2013', '2011_2012', '2010_2011']
 
-def get_match_data_to_files(start_index=0):
-    for season in ['2014_2015']:
+def get_match_data_to_files(input_seasons,start_index=0):
+	all_scraped = True
+	session = dryscrape.Session()
+	for season in input_seasons:
 		filename = season + '_match_urls.txt'
 		urls = [line.rstrip('\n') for line in open(filename)]
-		failed_urls = []
-        # create target filepath
+		# create target filepath
 		target_directory = './match_stats_soup_files/' + season + '/'
 		for i in range(start_index,len(urls)):
 			url = urls[i]
@@ -65,48 +88,101 @@ def get_match_data_to_files(start_index=0):
 				gameId = url.split('/')[-2]
 				target_filename = target_directory + gameId
 
-				if i % 5 == 0:
+				if os.path.isfile('./match_stats_soup_files/' + season + '/' + gameId):
+					print gameId, i, "is already scraped. not scraping."
+					continue
+				
+				
+				if i % 10 == 0:
 					print '\n\nsleeping for 10 seconds during iteration',i,'\n\n'
+					#cancel the active alarm, so that we dont timeout during sleep.
+					signal.alarm(0)
 					time.sleep(10)
 				try:
-					signal.alarm(25)
+					#attempt to scrape from a page should timeout if it takes more than 20 seconds.
+					signal.alarm(20)
 					print 'scraping', i, ':', gameId
-					soup = get_generated_dom(url)
+					soup = get_generated_dom(url,session)
 					write_soup_to_file(soup, target_filename)
 					print 'scraped', i,'\n'
+
 				except Exception as e:
-					failed_urls.append(url)
+					
 					print "failed to scrape from url:",gameId,i
 					print e
+					if '104' in e.__str__():
+						print "to avoid being blacklisted, crawler will now sleep for 60 seconds."
+						signal.alarm(0)
+						time.sleep(60)
+					if '111' in e.__str__():
+						print "Connection refused. wait 40 seconds, then try again."
+						signal.alarm(0)
+						time.sleep(40)
 
-		f = open('failed_urls_' + season + '.txt','wb')
-		for failed_url in failed_urls:
-			f.write(failed_url)
-		f.close()
+					all_scraped = False
 
-def get_player_data_to_files():
-	for season in ['2014_2015']:
-		filename = season + '_player_stats_urls.txt'
-		urls = [line.rstrip('\n') for line in open('.player_stats_urls/' + filename)]
-						
+	return all_scraped
 
+def get_player_data_to_files(input_seasons,start_index=0):
+	all_scraped = True
+	session = dryscrape.Session()
+	for season in input_seasons:
+		filename = './player_stats_urls/' + season + '_player_stats_urls.txt'
+		urls = [line.rstrip('\n') for line in open(filename)]
 		# create target filepath
-        current_season = '_'.join(filename.split('_')[0:2])
-        target_directory = './player_stats_soup_files/' + current_season + '/'
-        for url in urls:
-        	if url != "":
-				print url
+		target_directory = './player_stats_soup_files/' + season + '/'
+		for i in range(start_index,len(urls)):
+			url = urls[i]
+			if url != "":
 				gameId = url.split('/')[-2]
 				target_filename = target_directory + gameId
-				soup = get_generated_dom(url)
-				write_soup_to_file(soup, target_filename)
+
+				if os.path.isfile('./player_stats_soup_files/' + season + '/' + gameId):
+					print gameId, i, "is already scraped. not scraping."
+					continue
+				
+				
+				if i % 5 == 0:
+					print '\n\nsleeping for 10 seconds during iteration',i,'\n\n'
+					#cancel the active alarm, so that we dont timeout during sleep.
+					signal.alarm(0)
+					time.sleep(10)
+				try:
+					#attempt to scrape from a page should timeout if it takes more than 20 seconds.
+					signal.alarm(20)
+					print 'scraping', i, ':', gameId
+					soup = get_generated_dom(url,session)
+					write_soup_to_file(soup, target_filename)
+					print 'scraped', i,'\n'
+
+				except Exception as e:
+					
+					print "failed to scrape from url:",gameId,i
+					print e
+					if '104' in e.__str__():
+						print "to avoid being blacklisted, crawler will now sleep for 60 seconds."
+						signal.alarm(0)
+						time.sleep(60)
+					if '111' in e.__str__():
+						print "Connection refused. wait 40 seconds, then try again."
+						signal.alarm(0)
+						time.sleep(40)
+		
+					all_scraped = False
+
+	return all_scraped	
+
 
 
 
 if len(sys.argv) > 1:
-	get_match_data_to_files(int(sys.argv[1]))
+	while (not get_match_data_to_files(start_index=int(sys.argv[1]),input_seasons=sys.argv[2:])):
+		pass
+	while (not get_player_data_to_files(start_index=int(sys.argv[1]),input_seasons=sys.argv[2:])):
+		pass
+	
 else:
-	get_match_data_to_files()
+	print "need to input start index and seasons. input seasons in format 2012_2013 2013_2014...."
 #get_match_data_to_files()
 #get_player_data_to_files()
 
