@@ -1,38 +1,47 @@
 import pandas as pd
-season = '2016'
-df = pd.read_csv('premier-league-' + season +'.csv')
-
-pl_games = df[(df['league'] == 'Premier League')]
-pl_games = pl_games.reset_index(drop=True)
+season = ['2012','2013','2014','2015','2016']
 
 home_json_data = {}
 away_json_data = {}
 
-# 1. read raw data from csv file, organize the data
-for index, row in pl_games.iterrows():
-    homeTeam = str(row['home'])
-    awayTeam = str(row['away'])
-    home_goals = int(row['home_goals'])
-    away_goals = int(row['away_goals'])
-    if homeTeam in home_json_data:
-        home_json_data[homeTeam]['games_played'] += 1
-        home_json_data[homeTeam]['goals_for'] += home_goals
-        home_json_data[homeTeam]['goals_against'] += away_goals
-    else:
-        home_json_data[homeTeam] = {}
-        home_json_data[homeTeam]['games_played'] = 1
-        home_json_data[homeTeam]['goals_for'] = home_goals
-        home_json_data[homeTeam]['goals_against'] = away_goals
+def generatecompletedata(season):
+    df = pd.read_csv('premier-league-' + season + '.csv')
+    pl_games = df[(df['league'] == 'Premier League')]
+    pl_games = pl_games.reset_index(drop=True)
+    # 1. read raw data from csv file, organize the data
+    for index, row in pl_games.iterrows():
+        homeTeam = str(row['home'])
+        awayTeam = str(row['away'])
+        home_goals = int(row['home_goals'])
+        away_goals = int(row['away_goals'])
+        if homeTeam in home_json_data:
+            home_json_data[homeTeam]['games_played'] += 1
+            home_json_data[homeTeam]['goals_for'] += home_goals
+            home_json_data[homeTeam]['goals_against'] += away_goals
+        else:
+            home_json_data[homeTeam] = {}
+            home_json_data[homeTeam]['games_played'] = 1
+            home_json_data[homeTeam]['goals_for'] = home_goals
+            home_json_data[homeTeam]['goals_against'] = away_goals
 
-    if awayTeam in away_json_data:
-        away_json_data[awayTeam]['games_played'] += 1
-        away_json_data[awayTeam]['goals_for'] += away_goals
-        away_json_data[awayTeam]['goals_against'] += home_goals
-    else:
-        away_json_data[awayTeam] = {}
-        away_json_data[awayTeam]['games_played'] = 1
-        away_json_data[awayTeam]['goals_for'] = away_goals
-        away_json_data[awayTeam]['goals_against'] = home_goals
+        if awayTeam in away_json_data:
+            away_json_data[awayTeam]['games_played'] += 1
+            away_json_data[awayTeam]['goals_for'] += away_goals
+            away_json_data[awayTeam]['goals_against'] += home_goals
+        else:
+            away_json_data[awayTeam] = {}
+            away_json_data[awayTeam]['games_played'] = 1
+            away_json_data[awayTeam]['goals_for'] = away_goals
+            away_json_data[awayTeam]['goals_against'] = home_goals
+
+
+for s in season:
+    generatecompletedata(s)
+
+#print
+#print home_json_data
+#print away_json_data
+
 
 home_total_game_count = 0
 home_total_goals_for = 0
@@ -103,11 +112,8 @@ away_json_data['average'] = {'games_played': away_total_game_count / away_team_c
 
 home_df = pd.DataFrame(home_json_data).T
 away_df = pd.DataFrame(away_json_data).T
-# print home_df
-# print away_df
 
 # 3. calculate attack and defense strength
-
 strength_json = {}
 home_average_attacking_strength = 0.0
 home_average_defensive_strength = 0.0
@@ -142,7 +148,6 @@ strength_json['average'] = {'home_attacking_strength': home_attacking_strength,
                             'away_defensive_strength': away_average_defensive_strength}
 
 strength_df = pd.DataFrame(strength_json).T
-print strength_df
 
 # 4. goal expectancy
 # calculate how many goals we expect a team to score in a particular match - we call this the Goal Expectancy
@@ -150,21 +155,40 @@ print strength_df
 # Away Team Goal Expectancy: away attacking strength x home defensive strength x average goals away
 def get_goal_expectancy(homeTeam, awayTeam):
     global home_json_data, away_json_data, strength_json
-    home_team_goal_expectancy = strength_json[homeTeam]['home_attacking_strength'] \
-                                * strength_json[awayTeam]['away_defensive_strength'] \
-                                * home_json_data['average']['average_goals_for']
+    if homeTeam not in home_json_data.keys():
+        home_team_goal_expectancy = strength_json['average']['home_attacking_strength'] \
+                                    * strength_json[awayTeam]['away_defensive_strength'] \
+                                    * home_json_data['average']['average_goals_for']
 
-    away_team_goal_expectancy = strength_json[awayTeam]['away_attacking_strength'] \
-                                * strength_json[homeTeam]['home_defensive_strength'] \
-                                * away_json_data['average']['average_goals_for']
+        away_team_goal_expectancy = strength_json[awayTeam]['away_attacking_strength'] \
+                                    * strength_json['average']['home_defensive_strength'] \
+                                    * away_json_data['average']['average_goals_for']
+
+    elif awayTeam not in away_json_data.keys():
+        home_team_goal_expectancy = strength_json[homeTeam]['home_attacking_strength'] \
+                                    * strength_json['average']['away_defensive_strength'] \
+                                    * home_json_data['average']['average_goals_for']
+
+        away_team_goal_expectancy = strength_json['average']['away_attacking_strength'] \
+                                    * strength_json[homeTeam]['home_defensive_strength'] \
+                                    * away_json_data['average']['average_goals_for']
+
+    else:
+        home_team_goal_expectancy = strength_json[homeTeam]['home_attacking_strength'] \
+                                    * strength_json[awayTeam]['away_defensive_strength'] \
+                                    * home_json_data['average']['average_goals_for']
+
+        away_team_goal_expectancy = strength_json[awayTeam]['away_attacking_strength'] \
+                                    * strength_json[homeTeam]['home_defensive_strength'] \
+                                    * away_json_data['average']['average_goals_for']
 
     return (home_team_goal_expectancy, away_team_goal_expectancy)
 
-# print get_goal_expectancy('Arsenal', 'Chelsea')
-
+# print "Goal Expectancy"
+# print "Arsenal Vs Chelsea"
+#print get_goal_expectancy('Arsenal', 'Chelsea')
 
 # 5. calculate poisson distribution
-
 from scipy.stats import poisson
 # poisson.pmf(x, mu)
 def get_poisson_distribution(homeTeam, awayTeam):
@@ -210,4 +234,35 @@ def get_winning_rate_from_poisson_distribution(homeTeam, awayTeam):
             'away_win': {'probability': '{0}%'.format(away_win_probability)}}
 
 
-print get_winning_rate_from_poisson_distribution('Arsenal', 'Chelsea')
+#print get_winning_rate_from_poisson_distribution('Chelsea', 'Liverpool')
+
+# 7. Now predict the result for the games for 2017 based on goal expectancy
+test_season = '2017'
+df = pd.read_csv('premier-league-' + test_season + '.csv')
+pl_games = df[(df['league'] == 'Premier League')]
+pl_games = pl_games.reset_index(drop=True)
+results = {}
+outcome = None
+for index, row in pl_games.iterrows():
+    homeTeam = str(row['home'])
+    awayTeam = str(row['away'])
+    actual_outcome = str(row['result'])
+    hwr, awr = get_goal_expectancy(homeTeam, awayTeam)
+    if hwr > awr:
+        outcome = 'W'
+    elif hwr < awr:
+        outcome = 'L'
+    else:
+        outcome = 'D'
+
+    results[index] = {'home': homeTeam, 'away': awayTeam, 'result_actual': actual_outcome, 'result_observed': outcome}
+results_df = pd.DataFrame(results).T
+
+# 8. Now compare the results with that of the actual data we have from 2017 season
+count = 0
+for i, row in results_df.iterrows():
+    if str(row['result_observed']) == str(row['result_actual']):
+        count += 1
+accuracy = (count)/float(len(results_df.index))
+print("count = " + str(count))
+print("accuracy = " + str(accuracy))
