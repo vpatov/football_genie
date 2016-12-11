@@ -146,8 +146,8 @@ print strength_df
 
 # 4. goal expectancy
 # calculate how many goals we expect a team to score in a particular match - we call this the Goal Expectancy
-# Home Team Goal Expectancy: home attacking strength x away defensive strength x average goals home = 2.02
-# Away Team Goal Expectancy: away attacking strength x home defensive strength x average goals away = 0.53
+# Home Team Goal Expectancy: home attacking strength x away defensive strength x average goals home
+# Away Team Goal Expectancy: away attacking strength x home defensive strength x average goals away
 def get_goal_expectancy(homeTeam, awayTeam):
     global home_json_data, away_json_data, strength_json
     home_team_goal_expectancy = strength_json[homeTeam]['home_attacking_strength'] \
