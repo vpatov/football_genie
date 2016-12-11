@@ -1,0 +1,69 @@
+poissonDistribution.py analyzed complete data for the most recent year 2015-2016
+
+step 1: read raw data from csv file, organize the data.
+
+step 2: get basic stats of home and away data. Save them in two json object.
+    The data are stored in json format named home_json_data and away_json_data.
+    eg:
+    home_json_data = {
+        'Arsenal': {
+            games_played: 38,
+            goals_for: 70,
+            ...
+        },
+        'Chelsea': {
+            ...
+        }
+    }
+
+step 3: calculate attack and defense strength.
+    result saved in strength_json:
+    strength_json = {
+        'Arsenal': {
+            'home_attacking_strength': 1.2,
+            'home_defensive_strength': 0.48,
+            ...
+        }
+    }
+
+
+step 4: caculate goal expectancy
+# calculate how many goals we expect a team to score in a particular match - we call this the Goal Expectancy
+# Home Team Goal Expectancy: home attacking strength x away defensive strength x average goals home
+# Away Team Goal Expectancy: away attacking strength x home defensive strength x average goals away
+
+I defined a function:
+    def get_goal_expectancy(homeTeam, awayTeam)
+return type:
+    return (home_team_goal_expectancy, away_team_goal_expectancy)
+
+
+step 5: calculate poisson distribution
+I defined a function:
+    def get_poisson_distribution(homeTeam, awayTeam)
+return type:
+    return poisson_distribution_json
+
+poisson_distribution_json looks like this:
+    {
+        0: {
+            0: 1.23,
+            1: 2.45,
+            2: 1.56
+            ...
+        },
+        1: {
+            ...
+        }
+    }
+
+The first-level key is home_goal, second-level key is away_goal, the value is probability.
+So it can be interpreted as probability of home Vs. away: 0-0  is 1.23%, 0-1 is 2.45%
+
+step 6: get_winning_rate_from_poisson_distribution
+I defined a function:
+    get_winning_rate_from_poisson_distribution(homeTeam, awayTeam):
+return type:
+    return {'home_win': {'probability': '{0}%'.format(home_win_probability)},
+            'draw': {'probability': '{0}%'.format(draw_probability)},
+            'away_win': {'probability': '{0}%'.format(away_win_probability)}}
