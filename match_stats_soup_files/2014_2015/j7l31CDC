@@ -158,7 +158,7 @@
 <script type="text/javascript">
 	// <![CDATA[
 	var page_is_initialized = false;
-	cjs.dic.get('Helper_CurrentTime').setServerTimestamp(1481517553);
+	cjs.dic.get('Helper_CurrentTime').setServerTimestamp(1481526780);
 	// ]]>
 </script>
 </div>
