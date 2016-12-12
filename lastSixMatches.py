@@ -41,29 +41,27 @@ def get_lastmatches_data(dataframe, date1, team, x=6):
 
 #method to get last x matches
 def get_lastmatchesH2H_data(dataframe, date1, hometeam, awayteam, x=6):
-    prev_matches_home = dataframe[(dataframe['HomeTeam'] == hometeam) & (dataframe['AwayTeam'] == awayteam)]
-    prev_matches_away = dataframe[(dataframe['HomeTeam'] == awayteam) & (dataframe['AwayTeam'] == hometeam)]
-    prev_matches = pd.concat([prev_matches_home, prev_matches_away])
-    prev_matches = prev_matches.reset_index(drop=True)
-    # print prev_matches
-    i = 0
-    # get the last x games
-    index1 = prev_matches.shape[0]
-    for index, row in prev_matches.iterrows():
-        date = str(row['Date'])
-        if time.datetime.strptime(date, "%d/%m/%y") \
-                < time.datetime.strptime(date1, "%d/%m/%y"):
-            continue
-        else:
-            index1 = index
-            break
-    # print index1
-    if index1-6 >= 0:
-        df_temp = prev_matches.iloc[index1 - 6:index1]
-    else:
-        df_temp = prev_matches.iloc[0:prev_matches.shape[0]]
-    return df_temp
-
+   prev_matches = dataframe[(dataframe['HomeTeam'] == hometeam) & (dataframe['AwayTeam'] == awayteam) \
+      | (dataframe['AwayTeam'] == hometeam) & (dataframe['HomeTeam'] == awayteam)]
+   prev_matches = prev_matches.reset_index(drop=True)
+   # print prev_matches
+   i = 0
+   # get the last x games
+   index1 = prev_matches.shape[0]
+   for index, row in prev_matches.iterrows():
+       date = str(row['Date'])
+       if time.datetime.strptime(date, "%d/%m/%y") \
+               < time.datetime.strptime(date1, "%d/%m/%y"):
+           continue
+       else:
+           index1 = index
+           break
+   # print index1
+   if index1 - 6 >= 0:
+       df_temp = prev_matches.iloc[index1 - 6:index1]
+   else:
+       df_temp = prev_matches.iloc[0:prev_matches.shape[0]]
+   return df_temp
 
 
 # helper functions
