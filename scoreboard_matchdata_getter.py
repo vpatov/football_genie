@@ -10,9 +10,16 @@ import os
 import signal
 import sys
 
+timeout_count = 0
 
 def handler(signum, frame):
-	print "scraping has timed out."
+	global timeout_count
+	timeout_count += 1
+	print "scraping has timed out. timeout_count:",timeout_count
+	if (timeout_count > 3):
+		print 'timeout limit reached. restarting'
+		os.execv(sys.executable, ['python'] + sys.argv)
+		
 	raise Exception("scrape timeout")
 
 signal.signal(signal.SIGALRM, handler)
@@ -46,50 +53,6 @@ def save_generated_dom(url,session,filename,datatype):
 			print e
 
 	
-
-
-#def write_soup_to_file(soup,filename):
-#	f = open(filename, 'w+')
-#	f.write(soup.prettify().encode('utf-8'))
-#	f.close()
-#	print "written soup to", filename
-
-
-
-
-"""
-def get_remaining_match_data_to_files(input_seasons,start_index=0):
-	for season in input_seasons:
-		filename = season + '_match_urls.txt'
-        urls = [line.rstrip('\n') for line in open(filename)]
-        # create target filepath
-        target_directory = './match_stats_soup_files/' + season + '/'
-        for i in range(start_index,len(urls)):
-            url = urls[i]
-            if url != "":
-                gameId = url.split('/')[-2]
-                target_filename = target_directory + gameId
-
-                if os.path.isfile('./match_stats_soup_files/2014_2015/' + gameId):
-                    print gameId, i
-                continue
-
-
-                if i % 5 == 0:
-                    print '\n\nsleeping for 10 seconds during iteration',i,'\n\n'
-                    time.sleep(10)
-                try:
-                    signal.alarm(25)
-                    print 'scraping', i, ':', gameId
-                    soup = get_generated_dom(url)
-                    write_soup_to_file(soup, target_filename)
-                    print 'scraped', i,'\n'
-                except Exception as e:
-                    print "failed to scrape from url:",gameId,i
-                    print e
-"""
-		
-
 
 def get_data_to_files(input_seasons,start_index=0,datatype='match'):
 	all_scraped = True
