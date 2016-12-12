@@ -1,6 +1,7 @@
 import pandas as pd
 import datetime as time
 import numpy as np
+from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 from lastSixMatches import *
 season = ['1011', '1112', '1213', '1314', '1415', '1516']
@@ -19,7 +20,8 @@ dataframe = pd.concat(list_)
 #
 # df_final = pd.DataFrame(columns=col)
 
-season1 = ['1112', '1213', '1314', '1415', '1516']
+#season1 = ['1112', '1213', '1314', '1415', '1516']
+season1 = ['1516']
 newlist_ = []
 result = []
 for s in season1:
@@ -33,6 +35,8 @@ newdataframe = pd.concat(newlist_)
 newdataframe.loc[newdataframe['FTR'] == 'A','FTR'] = 0
 newdataframe.loc[newdataframe['FTR'] == 'D','FTR'] = 1
 newdataframe.loc[newdataframe['FTR'] == 'H','FTR'] = 2
+newdataframe['FTR'] = newdataframe['FTR'].apply(lambda x:float(x))#pd.DataFrame(newdataframe, columns=['FTR'])
+print newdataframe.dtypes
 # print newdataframe.corr(method='pearson')
 #print newdataframe.iloc[0]
 # col = ['Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'Referee', 'HST', 'AST', 'HC', 'AC', 'HR', 'AR', \
@@ -97,8 +101,8 @@ for _,row in newdataframe.iterrows():
     _H2H6AR.append(get_number_of_h2h_away_red_cards(dataframe, str(row['Date']), str(row['HomeTeam']), str(row['AwayTeam']), str(row['AwayTeam'])))
 newdataframe['6HW'] = _6HW
 newdataframe['6AW'] = _6AW
-newdataframe['6HD'] = _6HD
-newdataframe['6AD'] = _6AD
+# newdataframe['6HD'] = _6HD
+# newdataframe['6AD'] = _6AD
 newdataframe['6HL'] = _6HL
 newdataframe['6AL'] = _6AL
 newdataframe['6FTHGS'] = _6FTHGS
@@ -121,28 +125,86 @@ newdataframe['H2H6HC']=_H2H6HC
 newdataframe['H2H6AC']=_H2H6AC
 newdataframe['H2H6HR']=_H2H6HR
 newdataframe['H2H6AR']=_H2H6AR
-#print(newdataframe.isnull())
+
+#cleaning NAN rows
 newdataframe = newdataframe.dropna()
-#print(newdataframe.isnull().any())
-#newdataframe = newdataframe[pd.notnull()]
-# #print(newdataframe)
-# #print result
-#
-# #print(newdataframe.corr())
+
+print "dtypes"
+print newdataframe.dtypes
+
+
+print "Correlation"
+print(newdataframe.corr())
 # #print(newdataframe.isnan().any())
 columns = newdataframe.columns.tolist()
 columns = [c for c in columns if c not in ['Date', 'HomeTeam', 'AwayTeam', 'Referee']]
 target = 'FTR'
-#
-from sklearn.linear_model import LinearRegression
-model = LinearRegression()
+
+#splitting the data in training and test data
 X_train, X_test, y_train, y_test = \
     train_test_split(newdataframe[columns], newdataframe[target], test_size=0.2, random_state=0)
-model.fit(X_train, y_train)
-#
-#
-from sklearn.metrics import mean_squared_error
-predictions = model.predict(X_test)
-print mean_squared_error(predictions, y_test)
-print model.score(X_test, y_test)
 
+print(X_train.shape)
+print(X_test.shape)
+print(y_train.shape)
+print(y_test.shape)
+
+# # Trying the Regression Models
+# # Linear Regression
+from sklearn.metrics import precision_score
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+print "\nLinear Regression Model"
+lr_clf = LinearRegression()
+lr_clf.fit(X_train, y_train)
+predictions = lr_clf.predict(X_test)
+print "Mean Squared Error"
+print mean_squared_error(y_test, predictions)
+
+# Logistic Regression
+from sklearn.linear_model import LogisticRegression
+print "\nLogistic Regression Model"
+log_clf = LogisticRegression()
+log_clf.fit(X_train, y_train)
+predictions = log_clf.predict(X_test)
+print "Mean Squared Error"
+print mean_squared_error(y_test, predictions)
+
+#RF
+from sklearn.ensemble import RandomForestClassifier
+print "\nRandom Forest Classifier"
+RF_clf = RandomForestClassifier(n_estimators = 200, random_state = 1, class_weight = 'balanced')
+RF_clf.fit(X_train, y_train)
+predictions = RF_clf.predict(X_test)
+print "accuracy on testing data"
+print accuracy_score(y_test,predictions)
+
+#NB
+from sklearn.naive_bayes import GaussianNB
+print "\nNaive Bayes"
+GNB_clf = GaussianNB()
+GNB_clf.fit(X_train, y_train)
+predictions = GNB_clf.predict(X_test)
+print "Mean Squared Error"
+print mean_squared_error(y_test, predictions)
+print "accuracy on testing data"
+print accuracy_score(y_test,predictions)
+
+
+#SVM
+from sklearn.svm import SVC
+print "\nSVM Model"
+svm_clf = SVC(kernel='linear')
+svm_clf.fit(X_train, y_train)
+predictions = svm_clf.predict(X_test)
+print "Mean Squared Error"
+print mean_squared_error(y_test, predictions)
+print "accuracy on testing data"
+print accuracy_score(y_test,predictions)
+
+
+print "Cross Validation on Training data"
+from sklearn.model_selection import cross_val_predict
+predictions = cross_val_predict(svm_clf, X_train,y_train, cv=10)
+print "accuracy on training data"
+print(accuracy_score(y_train,predictions))
