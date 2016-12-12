@@ -63,7 +63,6 @@ def read_and_write(match_data_html,player_data_html,match_csv_writer,player_csv_
     ### Cell 2 (getting game date)
 
     game_date = soup.find('td', {'id': 'utime'}).text.strip()
-    print game_date
     if '.' in game_date:
         game_date = game_date[10].replace('.','/')
 
@@ -200,7 +199,7 @@ def read_and_write(match_data_html,player_data_html,match_csv_writer,player_csv_
     # substitutions made will be a list of pairs (a:b) means a came off, and b came on.
     substitutions_made = []
 
-    while (game_lineups[i].text not in ["Missing Players","Coaches"]):
+    while (i < len(game_lineups) and game_lineups[i].text not in ["Missing Players","Coaches"]):
         sub = remove_badchars(game_lineups[i].text)
         sub = sub.replace('(G)', '')
         sub = sub.replace('(C)', '')
@@ -217,16 +216,16 @@ def read_and_write(match_data_html,player_data_html,match_csv_writer,player_csv_
         i += 1
 
     # There is no need to collect info on missing players. Including our model the players that are present is enough.
-    while (game_lineups[i].text != 'Coaches'):
+    while (i < len(game_lineups) and game_lineups[i].text != 'Coaches'):
         i += 1
 
-    assert (game_lineups[i].text == 'Coaches')
     i += 1
-
-    home_coach = remove_badchars(game_lineups[i].text)
+    home_coach, away_coach = None,None
+    if ( i < len(game_lineups)):
+        home_coach = remove_badchars(game_lineups[i].text)
     i += 1
-
-    away_coach = remove_badchars(game_lineups[i].text)
+    if (i < len(game_lineups)):
+        away_coach = remove_badchars(game_lineups[i].text)
 
 
 
@@ -235,6 +234,8 @@ def read_and_write(match_data_html,player_data_html,match_csv_writer,player_csv_
     ### Cell 6 (opening the detailed player info html)
     if player_data_html != None:
         soup = BeautifulSoup(player_data_html, 'lxml')
+
+        print soup
         ### Cell 7 (Getting detailed player info for the match)
         player_table = soup.find('div', {'id': 'tab-player-statistics-0-statistic'})
 
@@ -298,10 +299,12 @@ def create_csvs(seasons):
         count = 0
         #the files in matches_path and in players_path have identical names.
         #for dirent in os.listdir(matches_path):
-        for dirent in ['tSepnkRi']:
+        for dirent in ['WvNCu5NH']:
 
             match_path = join(matches_path,dirent)
             player_path = join(players_path,dirent)
+            match_data_html = None
+            player_data_html = None
             if isfile(match_path):
                 with open(match_path,'r') as f:
                     match_data_html = f.read()
@@ -320,6 +323,6 @@ def create_csvs(seasons):
 
 
 #seasons = ['2012_2013','2013_2014','2014_2015','2015_2016','2016_2017']
-seasons = ['2014_2015']
+seasons = ['2013_2014']
 
 create_csvs(seasons)
