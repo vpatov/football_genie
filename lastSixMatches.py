@@ -1,7 +1,6 @@
-from pandas import index
-
 import pandas as pd
 import datetime as time
+
 season = ['1011', '1112', '1213', '1314', '1415', '1516']
 dataframe = pd.DataFrame()
 list_ = []
@@ -19,7 +18,8 @@ ofile = open('plmatchdata.csv', 'w')
 dataframe.to_csv(ofile, index=False)
 ofile.close()
 
-#method to get last x matches
+
+# method to get last x matches
 def get_lastmatches_data(dataframe, team, date1, x=6):
     prev_matches = dataframe[(dataframe['HomeTeam'] == team) | (dataframe['AwayTeam'] == team)]
     prev_matches = prev_matches.reset_index(drop=True)
@@ -36,10 +36,11 @@ def get_lastmatches_data(dataframe, team, date1, x=6):
             index1 = index
             break
     df_temp = prev_matches.iloc[index1 - 6:index1]
-    #print(df_temp)
+    # print(df_temp)
     return df_temp
 
-#method to get last x matches
+
+# method to get last x matches
 def get_lastmatchesH2H_data(dataframe, hometeam, awayteam, date1, x=6):
     prev_matches_home = dataframe[(dataframe['HomeTeam'] == hometeam) & (dataframe['AwayTeam'] == awayteam)]
     prev_matches_away = dataframe[(dataframe['HomeTeam'] == awayteam) & (dataframe['AwayTeam'] == hometeam)]
@@ -58,12 +59,11 @@ def get_lastmatchesH2H_data(dataframe, hometeam, awayteam, date1, x=6):
             index1 = index
             break
     # print index1
-    if index1-6 >= 0:
+    if index1 - 6 >= 0:
         df_temp = prev_matches.iloc[index1 - 6:index1]
     else:
         df_temp = prev_matches.iloc[0:prev_matches.shape[0]]
     return df_temp
-
 
 
 # helper functions
@@ -106,7 +106,7 @@ def get_number_of_wins(matches, date, team, x=6):
 
 def get_number_of_h2h_losses(matches, date, home_team, away_team, target_team, x=6):
     last_matches_df = get_lastmatchesH2H_data(matches, home_team, away_team, date, x)
-    # print last_matches_df
+    print last_matches_df
     count = 0
     for _, row in last_matches_df.iterrows():
         # if team is home team
@@ -142,7 +142,7 @@ def get_number_of_h2h_wins(matches, date, home_team, away_team, target_team, x=6
     return count
 
 
-def get_number_of_full_time_goals(matches, date, team, x=6):
+def get_number_of_goals_scored(matches, date, team, x=6):
     last_matches_df = get_lastmatches_data(matches, date, team, x)
     count = 0
     for _, row in last_matches_df.iterrows():
@@ -152,6 +152,19 @@ def get_number_of_full_time_goals(matches, date, team, x=6):
         else:
             # team is away team
             count += row['FTAG']
+    return count
+
+
+def get_number_of_goals_conceded(matches, date, team, x=6):
+    last_matches_df = get_lastmatches_data(matches, date, team, x)
+    count = 0
+    for _, row in last_matches_df.iterrows():
+        # if team is home team
+        if row['HomeTeam'] == team:
+            count += row['FTAG']
+        else:
+            # team is away team
+            count += row['FTHG']
     return count
 
 
@@ -193,16 +206,20 @@ def get_number_of_red_cards(matches, date, team, x=6):
             count += row['AR']
     return count
 
-# print(get_lastmatches_data(dataframe, 'Arsenal', '24/04/16'))
-# print(get_lastmatchesH2H_data(dataframe, 'Arsenal', 'Liverpool', '24/04/16'))
+    # print(get_lastmatches_data(dataframe, 'Arsenal', '24/04/16'))
+    # print(get_lastmatchesH2H_data(dataframe, 'Arsenal', 'Liverpool', '24/04/16'))
 
-# print get_number_of_losses(dataframe, 'Arsenal', '24/04/16')
-# print get_number_of_draws(dataframe, 'Arsenal', '24/04/16')
-# print get_number_of_wins(dataframe, 'Arsenal', '24/04/16')
-# print get_number_of_h2h_losses(dataframe, '24/04/16', 'Arsenal', 'Liverpool', 'Arsenal')
-# print get_number_of_h2h_draws(dataframe, '24/04/16', 'Arsenal', 'Liverpool', 'Arsenal')
-# print get_number_of_h2h_wins(dataframe, '24/04/16', 'Arsenal', 'Liverpool', 'Arsenal')
-# print get_number_of_full_time_goals(dataframe, 'Arsenal', '24/04/16')
-# print get_number_of_shots_on_target(dataframe, 'Arsenal', '24/04/16')
-# print get_number_of_corners(dataframe, 'Arsenal', '24/04/16')
-# print get_number_of_red_cards(dataframe, 'Arsenal', '24/04/16')
+    # print get_number_of_losses(dataframe, 'Arsenal', '24/04/16')
+    # print get_number_of_draws(dataframe, 'Arsenal', '24/04/16')
+    # print get_number_of_wins(dataframe, 'Arsenal', '24/04/16')
+
+    # print get_number_of_h2h_losses(dataframe, '24/04/16', 'Arsenal', 'Liverpool', 'Arsenal')
+    # print get_number_of_h2h_draws(dataframe, '24/04/16', 'Arsenal', 'Liverpool', 'Arsenal')
+    # print get_number_of_h2h_wins(dataframe, '24/04/16', 'Arsenal', 'Liverpool', 'Arsenal')
+
+    # print get_number_of_goals_scored(dataframe, 'Arsenal', '24/04/16')
+    # print get_number_of_goals_conceded(dataframe, 'Arsenal', '24/04/16')
+
+    # print get_number_of_shots_on_target(dataframe, 'Arsenal', '24/04/16')
+    # print get_number_of_corners(dataframe, 'Arsenal', '24/04/16')
+    # print get_number_of_red_cards(dataframe, 'Arsenal', '24/04/16')
